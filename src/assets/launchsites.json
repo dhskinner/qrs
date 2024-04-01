@@ -1,0 +1,37 @@
+{
+    "sites": [
+        {
+            "name": "Funny Farm",
+            "position": [
+                -28.128068372234132,
+                149.70164524232723
+            ],
+            "lower": "Surface",
+            "upper": "45,000ft",
+            "style": "red",
+            "radius_nm": 7
+        },
+        {
+            "name": "Cooyar",
+            "position": [
+                -26.94561969093275,
+                151.68468456155574
+            ],
+            "lower": "Surface",
+            "upper": "20,000ft",
+            "style": "red",
+            "radius_nm": 3
+        },
+        {
+            "name": "Brisbane ATC",
+            "position": [
+                -27.36206860038552,
+                153.13902055629148
+            ],
+            "lower": "",
+            "upper": "",
+            "style": "buffer",
+            "radius_nm": 127
+        }
+    ]
+}

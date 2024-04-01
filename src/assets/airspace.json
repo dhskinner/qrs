@@ -1,0 +1,421 @@
+{
+    "airspace": [
+        {
+            "id": "Buffer-Zone",
+            "name": "Brisbane ATC Buffer Zone",
+            "style": "blue",
+            "arcs": [
+                {
+                    "description": "Buffer zone 7nm past Brisbane Airspace",
+                    "centre": [
+                        "272157S",
+                        "1530821E"
+                    ],
+                    "radius_nm": 127,
+                    "start": [
+                        "255215S",
+                        "1531926E"
+                    ],
+                    "end": [
+                        "255215S",
+                        "1531926E"
+                    ],
+                    "direction": "CW"
+                }
+            ],
+            "polylines": []
+        },
+        {
+            "id": "CTA-E2",
+            "name": "YBBB-YMMM/EAST COAST CTA E2",
+            "style": "airspace",
+            "arcs": [
+                {
+                    "description": "204343S 1470135E then along the clockwise arc of a circle radius 90.00NM centre 191439S 1464530E (TL/DME) - 182013S 1452946E",
+                    "centre": [
+                        "191439S",
+                        "1464530E"
+                    ],
+                    "radius_nm": 90,
+                    "start": [
+                        "204343S",
+                        "1470135E"
+                    ],
+                    "end": [
+                        "182013S",
+                        "1452946E"
+                    ],
+                    "direction": "CW"
+                },
+                {
+                    "description": "182013S 1452946E then along the clockwise arc of a circle radius 90.00NM centre 165101S 1454438E (CS/DME) - 174521S 1465948E",
+                    "centre": [
+                        "165101S",
+                        "1454438E"
+                    ],
+                    "radius_nm": 90,
+                    "start": [
+                        "182013S",
+                        "1452946E"
+                    ],
+                    "end": [
+                        "174521S",
+                        "1465948E"
+                    ],
+                    "direction": "CW"
+                },
+                {
+                    "description": "174521S 1465948E then along the clockwise arc of a circle radius 90.00NM centre 191439S 1464530E (TL/DME) - 192406S 1482008E",
+                    "centre": [
+                        "191439S",
+                        "1464530E"
+                    ],
+                    "radius_nm": 90,
+                    "start": [
+                        "174521S",
+                        "1465948E"
+                    ],
+                    "end": [
+                        "192406S",
+                        "1482008E"
+                    ],
+                    "direction": "CW"
+                },
+                {
+                    "description": "255215S 1531926E then along the clockwise arc of a circle radius 90.00NM centre 272157S 1530821E (BN/DME) - 271312S 1544854E",
+                    "centre": [
+                        "272157S",
+                        "1530821E"
+                    ],
+                    "radius_nm": 90,
+                    "start": [
+                        "255215S",
+                        "1531926E"
+                    ],
+                    "end": [
+                        "271312S ",
+                        "1544854E"
+                    ],
+                    "direction": "CW"
+                },
+                {
+                    "description": "271312S 1544854E then along the clockwise arc of a circle radius 90.00NM centre 281008S 1533014E (CG/DME) - 293925S 1534506E",
+                    "centre": [
+                        "281008S",
+                        "1533014E"
+                    ],
+                    "radius_nm": 90,
+                    "start": [
+                        "271312S",
+                        "1544854E"
+                    ],
+                    "end": [
+                        "293925S",
+                        "1534506E"
+                    ],
+                    "direction": "CW"
+                },
+                {
+                    "description": "325239S 1522643E then along the clockwise arc of a circle radius 90.00NM centre 335638S 1511057E (SY/DME) - 345904S 1522928E",
+                    "centre": [
+                        "335638S",
+                        "1511057E"
+                    ],
+                    "radius_nm": 90,
+                    "start": [
+                        "325239S",
+                        "1522643E"
+                    ],
+                    "end": [
+                        "345904S",
+                        "1522928E"
+                    ],
+                    "direction": "CW"
+                },
+                {
+                    "description": "342822S 1514929E then along the counter clockwise arc of a circle radius 45.00NM centre 335638S 1511057E (SY/DME) - 333004S 1515433E",
+                    "centre": [
+                        "335638S",
+                        "1511057E"
+                    ],
+                    "radius_nm": 45,
+                    "start": [
+                        "342822S",
+                        "1514929E"
+                    ],
+                    "end": [
+                        "333004S",
+                        "1515433E"
+                    ],
+                    "direction": "CCW"
+                },
+                {
+                    "description": "332139S 1520152E then along the counter clockwise arc of a circle radius 55.00NM centre 335638S 1511057E (SY/DME) - 330623S 1504357E",
+                    "centre": [
+                        "335638S",
+                        "1511057E"
+                    ],
+                    "radius_nm": 55,
+                    "start": [
+                        "332139S",
+                        "1520152E"
+                    ],
+                    "end": [
+                        "330623S",
+                        "1504357E"
+                    ],
+                    "direction": "CCW"
+                },
+                {
+                    "description": "331617S 1504654E then along the counter clockwise arc of a circle radius 45.00NM centre 335638S 1511057E (SY/DME) - 335035S 1501723E",
+                    "centre": [
+                        "335638S",
+                        "1511057E"
+                    ],
+                    "radius_nm": 45,
+                    "start": [
+                        "331617S",
+                        "1504654E"
+                    ],
+                    "end": [
+                        "335035S",
+                        "1501723E"
+                    ],
+                    "direction": "CCW"
+                },
+                {
+                    "description": "314847S 1504344E then along the counter clockwise arc of a circle radius 45.00NM centre 310358S 1504948E (TW/DME) - 314402S 1511359E",
+                    "centre": [
+                        "310358S",
+                        "1504948E"
+                    ],
+                    "radius_nm": 45,
+                    "start": [
+                        "314847S",
+                        "1504344E"
+                    ],
+                    "end": [
+                        "314402S",
+                        "1511359E"
+                    ],
+                    "direction": "CCW"
+                },
+                {
+                    "description": "312429S 1510204Ethen along the counter clockwise arc of a circle radius 23.00NM centre 310358S 1504948E (TW/DME) - 310951S 1511543E",
+                    "centre": [
+                        "310358S",
+                        "1504948E"
+                    ],
+                    "radius_nm": 23,
+                    "start": [
+                        "312429S",
+                        "1510204E"
+                    ],
+                    "end": [
+                        "310951S",
+                        "1511543E"
+                    ],
+                    "direction": "CCW"
+                },
+                {
+                    "description": "310751S 1510641Ethen along the counter clockwise arc of a circle radius 15.00NM centre 310358S 1504948E (TW/DME) - 304857S 1504946E",
+                    "centre": [
+                        "310358S",
+                        "1504948E"
+                    ],
+                    "radius_nm": 15,
+                    "start": [
+                        "310751S",
+                        "1510641E"
+                    ],
+                    "end": [
+                        "304857S",
+                        "1504946E"
+                    ],
+                    "direction": "CCW"
+                },
+                {
+                    "description": "285842S 1514737Ethen along the clockwise arc of a circle radius 120.00NM centre 272157S 1530821E (BN/DME) - 264115S 1510154E",
+                    "centre": [
+                        "272157S",
+                        "1530821E"
+                    ],
+                    "radius_nm": 120,
+                    "start": [
+                        "285842S",
+                        "1514737E"
+                    ],
+                    "end": [
+                        "264115S",
+                        "1510154E"
+                    ],
+                    "direction": "CW"
+                }
+            ],
+            "polylines": [
+                [
+                    [
+                        "224731S",
+                        "1473214E"
+                    ],
+                    [
+                        "204343S",
+                        "1470135E"
+                    ],
+                    [
+                        "182013S",
+                        "1452946E"
+                    ],
+                    [
+                        "174521S",
+                        "1465948E"
+                    ],
+                    [
+                        "192406S",
+                        "1482008E"
+                    ],
+                    [
+                        "194456S",
+                        "1485743E"
+                    ],
+                    [
+                        "203857S",
+                        "1493041E"
+                    ],
+                    [
+                        "255215S",
+                        "1531926E"
+                    ],
+                    [
+                        "271312S",
+                        "1544854E"
+                    ],
+                    [
+                        "293925S",
+                        "1534506E"
+                    ],
+                    [
+                        "304020S",
+                        "1533146E"
+                    ],
+                    [
+                        "325239S",
+                        "1522643E"
+                    ],
+                    [
+                        "345904S",
+                        "1522928E"
+                    ],
+                    [
+                        "342822S",
+                        "1514929E"
+                    ],
+                    [
+                        "333004S",
+                        "1515433E"
+                    ],
+                    [
+                        "332139S",
+                        "1520152E"
+                    ],
+                    [
+                        "330623S",
+                        "1504357E"
+                    ],
+                    [
+                        "331617S",
+                        "1504654E"
+                    ],
+                    [
+                        "335035S",
+                        "1501723E"
+                    ],
+                    [
+                        "334737S",
+                        "1495255E"
+                    ],
+                    [
+                        "335051S",
+                        "1493459E"
+                    ],
+                    [
+                        "335941S",
+                        "1493444E"
+                    ],
+                    [
+                        "341702S",
+                        "1482730E"
+                    ],
+                    [
+                        "332222S",
+                        "1482227E"
+                    ],
+                    [
+                        "323339S",
+                        "1493537E"
+                    ],
+                    [
+                        "320400S",
+                        "1504526E"
+                    ],
+                    [
+                        "314847S",
+                        "1504344E"
+                    ],
+                    [
+                        "314402S",
+                        "1511359E"
+                    ],
+                    [
+                        "312429S",
+                        "1510204E"
+                    ],
+                    [
+                        "310951S",
+                        "1511543E"
+                    ],
+                    [
+                        "310751S",
+                        "1510641E"
+                    ],
+                    [
+                        "304857S",
+                        "1504946E"
+                    ],
+                    [
+                        "302504S",
+                        "1505226E"
+                    ],
+                    [
+                        "291933S",
+                        "1512853E"
+                    ],
+                    [
+                        "285842S",
+                        "1514737E"
+                    ],
+                    [
+                        "264115S",
+                        "1510154E"
+                    ],
+                    [
+                        "233636S",
+                        "1484303E"
+                    ],
+                    [
+                        "231443S",
+                        "1485118E"
+                    ],
+                    [
+                        "232000S",
+                        "1480000E"
+                    ],
+                    [
+                        "224731S",
+                        "1473214E"
+                    ]
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8571 @@
+[
+    {
+        "type": "Certified Aerodrome",
+        "name": "ABRA MINE",
+        "state": "WA",
+        "icao": "YABR",
+        "coordinates": [
+            "243727S",
+            "1183713E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ADELAIDE",
+        "state": "SA",
+        "icao": "YPAD",
+        "coordinates": [
+            "345642S",
+            "1383150E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ADELAIDE/PARAFIELD",
+        "state": "SA",
+        "icao": "YPPF",
+        "coordinates": [
+            "344736S",
+            "1383759E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ALBANY",
+        "state": "WA",
+        "icao": "YABA",
+        "coordinates": [
+            "345636S",
+            "1174832E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ALBURY",
+        "state": "NSW",
+        "icao": "YMAY",
+        "coordinates": [
+            "360404S",
+            "1465729E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ALICE SPRINGS",
+        "state": "NT",
+        "icao": "YBAS",
+        "coordinates": [
+            "234830S",
+            "1335403E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ALPHA",
+        "state": "QLD",
+        "icao": "YAPH",
+        "coordinates": [
+            "233846S",
+            "1463501E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "AMBERLEY",
+        "state": "QLD",
+        "icao": "YAMB",
+        "coordinates": [
+            "273826S",
+            "1524243E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ARARAT",
+        "state": "VIC",
+        "icao": "YARA",
+        "coordinates": [
+            "371834S",
+            "1425919E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ARGYLE",
+        "state": "WA",
+        "icao": "YARG",
+        "coordinates": [
+            "163813S",
+            "1282705E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ARMIDALE",
+        "state": "NSW",
+        "icao": "YARM",
+        "coordinates": [
+            "303141S",
+            "1513702E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "AURUKUN",
+        "state": "QLD",
+        "icao": "YAUR",
+        "coordinates": [
+            "132114S",
+            "1414315E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "AVALON",
+        "state": "VIC",
+        "icao": "YMAV",
+        "coordinates": [
+            "380222S",
+            "1442810E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "AYERS ROCK/CONNELLAN",
+        "state": "NT",
+        "icao": "YAYE",
+        "coordinates": [
+            "251110S",
+            "1305832E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BAIRNSDALE",
+        "state": "VIC",
+        "icao": "YBNS",
+        "coordinates": [
+            "375315S",
+            "1473404E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BALGO HILL",
+        "state": "WA",
+        "icao": "YBGO",
+        "coordinates": [
+            "200854S",
+            "1275826E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BALLARAT",
+        "state": "VIC",
+        "icao": "YBLT",
+        "coordinates": [
+            "373042S",
+            "1434728E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BALLERA",
+        "state": "QLD",
+        "icao": "YLLE",
+        "coordinates": [
+            "272430S",
+            "1414830E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BALLINA/BYRON GATEWAY",
+        "state": "NSW",
+        "icao": "YBNA",
+        "coordinates": [
+            "285002S",
+            "1533345E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BALRANALD",
+        "state": "NSW",
+        "icao": "YBRN",
+        "coordinates": [
+            "343725S",
+            "1433442E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BARCALDINE",
+        "state": "QLD",
+        "icao": "YBAR",
+        "coordinates": [
+            "233355S",
+            "1451824E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BARIMUNYA",
+        "state": "WA",
+        "icao": "YBRY",
+        "coordinates": [
+            "224026S",
+            "1190958E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BARROW ISLAND",
+        "state": "WA",
+        "icao": "YBWX",
+        "coordinates": [
+            "205152S",
+            "1152422E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BATHURST ISLAND",
+        "state": "NT",
+        "icao": "YBTI",
+        "coordinates": [
+            "114609S",
+            "1303711E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BATHURST",
+        "state": "NSW",
+        "icao": "YBTH",
+        "coordinates": [
+            "332434S",
+            "1493907E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BEDOURIE",
+        "state": "QLD",
+        "icao": "YBIE",
+        "coordinates": [
+            "242046S",
+            "1392737E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BELLEVUE",
+        "state": "WA",
+        "icao": "YBLU",
+        "coordinates": [
+            "273646S",
+            "1203538E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BENALLA",
+        "state": "VIC",
+        "icao": "YBLA",
+        "coordinates": [
+            "363315S",
+            "1460033E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BENDIGO",
+        "state": "VIC",
+        "icao": "YBDG",
+        "coordinates": [
+            "364421S",
+            "1441947E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BIRCHIP",
+        "state": "VIC",
+        "icao": "YBIR",
+        "coordinates": [
+            "355959S",
+            "1425503E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BIRDSVILLE",
+        "state": "QLD",
+        "icao": "YBDV",
+        "coordinates": [
+            "255351S",
+            "1392051E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BLACKALL",
+        "state": "QLD",
+        "icao": "YBCK",
+        "coordinates": [
+            "242540S",
+            "1452543E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BOOLGEEDA",
+        "state": "WA",
+        "icao": "YBGD",
+        "coordinates": [
+            "223228S",
+            "1171610E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BOULIA",
+        "state": "QLD",
+        "icao": "YBOU",
+        "coordinates": [
+            "225448S",
+            "1395359E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BOURKE",
+        "state": "NSW",
+        "icao": "YBKE",
+        "coordinates": [
+            "300219S",
+            "1455707E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BOWEN",
+        "state": "QLD",
+        "icao": "YBWN",
+        "coordinates": [
+            "200104S",
+            "1481255E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BREWARRINA",
+        "state": "NSW",
+        "icao": "YBRW",
+        "coordinates": [
+            "295826S",
+            "1464900E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BRISBANE WEST WELLCAMP",
+        "state": "QLD",
+        "icao": "YBWW",
+        "coordinates": [
+            "273331S",
+            "1514739E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BRISBANE",
+        "state": "QLD",
+        "icao": "YBBN",
+        "coordinates": [
+            "272303S",
+            "1530703E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BRISBANE/ARCHERFIELD",
+        "state": "QLD",
+        "icao": "YBAF",
+        "coordinates": [
+            "273413S",
+            "1530029E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BROKEN HILL",
+        "state": "NSW",
+        "icao": "YBHI",
+        "coordinates": [
+            "320005S",
+            "1412818E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BROOME/INTL",
+        "state": "WA",
+        "icao": "YBRM",
+        "coordinates": [
+            "175658S",
+            "1221340E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BUNBURY",
+        "state": "WA",
+        "icao": "YBUN",
+        "coordinates": [
+            "332241S",
+            "1154037E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BUNDABERG",
+        "state": "QLD",
+        "icao": "YBUD",
+        "coordinates": [
+            "245414S",
+            "1521907E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BURKETOWN",
+        "state": "QLD",
+        "icao": "YBKT",
+        "coordinates": [
+            "174455S",
+            "1393204E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "BUSSELTON",
+        "state": "WA",
+        "icao": "YBLN",
+        "coordinates": [
+            "334114S",
+            "1152401E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CAIRNS/CAIRNS INTL QLD",
+        "state": "QLD",
+        "icao": "YBCS",
+        "coordinates": [
+            "165309S",
+            "1454519E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CAMDEN",
+        "state": "NSW",
+        "icao": "YSCN",
+        "coordinates": [
+            "340225S",
+            "1504112E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CAMOOWEAL",
+        "state": "QLD",
+        "icao": "YCMW",
+        "coordinates": [
+            "195442S",
+            "1380730E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CANBERRA",
+        "state": "ACT",
+        "icao": "YSCB",
+        "coordinates": [
+            "351825S",
+            "1491142E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CAPE PRESTON",
+        "state": "WA",
+        "icao": "YCPR",
+        "coordinates": [
+            "205838S",
+            "1161630E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CARNARVON",
+        "state": "WA",
+        "icao": "YCAR",
+        "coordinates": [
+            "245250S",
+            "1134020E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CAROSUE DAM",
+        "state": "WA",
+        "icao": "YSCD",
+        "coordinates": [
+            "301025S",
+            "1221920E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CARRAPATEENA",
+        "state": "SA",
+        "icao": "YCPT",
+        "coordinates": [
+            "311830S",
+            "1372636E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CEDUNA",
+        "state": "SA",
+        "icao": "YCDU",
+        "coordinates": [
+            "320750S",
+            "1334235E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CENTURY MINE",
+        "state": "QLD",
+        "icao": "YCNY",
+        "coordinates": [
+            "184512S",
+            "1384224E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CESSNOCK",
+        "state": "NSW",
+        "icao": "YCNK",
+        "coordinates": [
+            "324715S",
+            "1512030E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CHARLEVILLE",
+        "state": "QLD",
+        "icao": "YBCV",
+        "coordinates": [
+            "262448S",
+            "1461545E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CHARTERS TOWERS QLD",
+        "state": "QLD",
+        "icao": "YCHT",
+        "coordinates": [
+            "200237S",
+            "1461620E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CHILLAGOE",
+        "state": "QLD",
+        "icao": "YCGO",
+        "coordinates": [
+            "170827S",
+            "1443142E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CHINCHILLA",
+        "state": "QLD",
+        "icao": "YCCA",
+        "coordinates": [
+            "264610S",
+            "1503700E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CHRISTMAS CREEK",
+        "state": "WA",
+        "icao": "YCHK",
+        "coordinates": [
+            "222121S",
+            "1193833E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CHRISTMAS ISLAND",
+        "state": "OTH",
+        "icao": "YPXM",
+        "coordinates": [
+            "102702S",
+            "1054125E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CLERMONT",
+        "state": "QLD",
+        "icao": "YCMT",
+        "coordinates": [
+            "224623S",
+            "1473714E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CLEVE",
+        "state": "SA",
+        "icao": "YCEE",
+        "coordinates": [
+            "334235S",
+            "1363017E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CLONCURRY",
+        "state": "QLD",
+        "icao": "YCCY",
+        "coordinates": [
+            "204007S",
+            "1403016E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "COBAR",
+        "state": "NSW",
+        "icao": "YCBA",
+        "coordinates": [
+            "313218S",
+            "1454738E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "COCOS (KEELING) ISLANDS",
+        "state": "OTH",
+        "icao": "YPCC",
+        "coordinates": [
+            "121119S",
+            "0964950E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "COEN",
+        "state": "QLD",
+        "icao": "YCOE",
+        "coordinates": [
+            "134543S",
+            "1430700E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "COFFS HARBOUR",
+        "state": "NSW",
+        "icao": "YCFS",
+        "coordinates": [
+            "301914S",
+            "1530659E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CONDOBOLIN",
+        "state": "NSW",
+        "icao": "YCDO",
+        "coordinates": [
+            "330352S",
+            "1471233E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "COOBER PEDY",
+        "state": "SA",
+        "icao": "YCBP",
+        "coordinates": [
+            "290224S",
+            "1344315E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "COOKTOWN",
+        "state": "QLD",
+        "icao": "YCKN",
+        "coordinates": [
+            "152641S",
+            "1451104E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "COOMA-SNOWY MOUNTAINS",
+        "state": "NSW",
+        "icao": "YCOM",
+        "coordinates": [
+            "361802S",
+            "1485826E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "COONABARABRAN",
+        "state": "NSW",
+        "icao": "YCBB",
+        "coordinates": [
+            "311957S",
+            "1491602E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "COONAMBLE",
+        "state": "NSW",
+        "icao": "YCNM",
+        "coordinates": [
+            "305900S",
+            "1482232E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "COONDEWANNA",
+        "state": "WA",
+        "icao": "YCWA",
+        "coordinates": [
+            "225800S",
+            "1184848E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "COOTAMUNDRA",
+        "state": "NSW",
+        "icao": "YCTM",
+        "coordinates": [
+            "343728S",
+            "1480209E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "COROWA",
+        "state": "NSW",
+        "icao": "YCOR",
+        "coordinates": [
+            "355925S",
+            "1462105E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CORRYONG",
+        "state": "VIC",
+        "icao": "YCRG",
+        "coordinates": [
+            "361058S",
+            "1475316E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "COWRA",
+        "state": "NSW",
+        "icao": "YCWR",
+        "coordinates": [
+            "335041S",
+            "1483856E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CROKER ISLAND",
+        "state": "NT",
+        "icao": "YCKI",
+        "coordinates": [
+            "110955S",
+            "1322902E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CUE",
+        "state": "WA",
+        "icao": "YCUE",
+        "coordinates": [
+            "272648S",
+            "1175507E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CUNDERDIN",
+        "state": "WA",
+        "icao": "YCUN",
+        "coordinates": [
+            "313720S",
+            "1171300E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CUNNAMULLA",
+        "state": "QLD",
+        "icao": "YCMU",
+        "coordinates": [
+            "280148S",
+            "1453720E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "CURTIN",
+        "state": "WA",
+        "icao": "YCIN",
+        "coordinates": [
+            "173453S",
+            "1234942E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "DALGARANGA MINE",
+        "state": "WA",
+        "icao": "YDGA",
+        "coordinates": [
+            "274947S",
+            "1171859E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "DARLOT",
+        "state": "WA",
+        "icao": "YDLO",
+        "coordinates": [
+            "275225S",
+            "1211618E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "DARWIN",
+        "state": "NT",
+        "icao": "YPDN",
+        "coordinates": [
+            "122453S",
+            "1305236E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "DEGRUSSA",
+        "state": "WA",
+        "icao": "YDGU",
+        "coordinates": [
+            "253327S",
+            "1191715E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "DELAMERE RANGE FACILITY",
+        "state": "NT",
+        "icao": "YDWF",
+        "coordinates": [
+            "154449S",
+            "1315510E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "DENILIQUIN",
+        "state": "NSW",
+        "icao": "YDLQ",
+        "coordinates": [
+            "353334S",
+            "1445647E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "DERBY",
+        "state": "WA",
+        "icao": "YDBY",
+        "coordinates": [
+            "172212S",
+            "1233938E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "DEVONPORT",
+        "state": "TAS",
+        "icao": "YDPO",
+        "coordinates": [
+            "411011S",
+            "1462549E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "DIRRANBANDI",
+        "state": "QLD",
+        "icao": "YDBI",
+        "coordinates": [
+            "283530S",
+            "1481300E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "DJARINDJIN/LOMBADINA",
+        "state": "WA",
+        "icao": "YLBD",
+        "coordinates": [
+            "163055S",
+            "1225525E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "DONALD",
+        "state": "VIC",
+        "icao": "YDOD",
+        "coordinates": [
+            "362137S",
+            "1430027E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "DOOMADGEE",
+        "state": "QLD",
+        "icao": "YDMG",
+        "coordinates": [
+            "175613S",
+            "1384859E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "DUBBO",
+        "state": "NSW",
+        "icao": "YSDU",
+        "coordinates": [
+            "321306S",
+            "1483425E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "DUKETON GOLD",
+        "state": "WA",
+        "icao": "YDKG",
+        "coordinates": [
+            "273607S",
+            "1222002E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "EAST JAURDI",
+        "state": "WA",
+        "icao": "YEJI",
+        "coordinates": [
+            "304610S",
+            "1201843E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "EAST SALE",
+        "state": "VIC",
+        "icao": "YMES",
+        "coordinates": [
+            "380556S",
+            "1470858E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ECHUCA",
+        "state": "VIC",
+        "icao": "YECH",
+        "coordinates": [
+            "360926S",
+            "1444543E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "EDINBURGH",
+        "state": "SA",
+        "icao": "YPED",
+        "coordinates": [
+            "344209S",
+            "1383715E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ELCHO ISLAND",
+        "state": "NT",
+        "icao": "YELD",
+        "coordinates": [
+            "120110S",
+            "1353414E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ELIWANA",
+        "state": "WA",
+        "icao": "YEWA",
+        "coordinates": [
+            "222544S",
+            "1165314E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "EMERALD",
+        "state": "QLD",
+        "icao": "YEML",
+        "coordinates": [
+            "233404S",
+            "1481045E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ESPERANCE",
+        "state": "WA",
+        "icao": "YESP",
+        "coordinates": [
+            "334104S",
+            "1214922E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "FITZROY CROSSING",
+        "state": "WA",
+        "icao": "YFTZ",
+        "coordinates": [
+            "181055S",
+            "1253331E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "FLINDERS ISLAND",
+        "state": "TAS",
+        "icao": "YFLI",
+        "coordinates": [
+            "400529S",
+            "1475934E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "FORBES",
+        "state": "NSW",
+        "icao": "YFBS",
+        "coordinates": [
+            "332149S",
+            "1475606E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "FORREST",
+        "state": "WA",
+        "icao": "YFRT",
+        "coordinates": [
+            "305017S",
+            "1280654E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "FORRESTANIA",
+        "state": "WA",
+        "icao": "YFTA",
+        "coordinates": [
+            "323442S",
+            "1194224E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "FORTESCUE DAVE FORREST",
+        "state": "WA",
+        "icao": "YFDF",
+        "coordinates": [
+            "221731S",
+            "1192614E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GARDEN POINT",
+        "state": "NT",
+        "icao": "YGPT",
+        "coordinates": [
+            "112357S",
+            "1302531E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GAYNDAH",
+        "state": "QLD",
+        "icao": "YGAY",
+        "coordinates": [
+            "253655S",
+            "1513715E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GEORGETOWN (QLD)",
+        "state": "QLD",
+        "icao": "YGTN",
+        "coordinates": [
+            "181812S",
+            "1433151E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GERALDTON",
+        "state": "WA",
+        "icao": "YGEL",
+        "coordinates": [
+            "284746S",
+            "1144227E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GINBATA",
+        "state": "WA",
+        "icao": "YGIA",
+        "coordinates": [
+            "223452S",
+            "1200208E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GINGIN",
+        "state": "WA",
+        "icao": "YGIG",
+        "coordinates": [
+            "312755S",
+            "1155148E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GLADSTONE",
+        "state": "QLD",
+        "icao": "YGLA",
+        "coordinates": [
+            "235211S",
+            "1511322E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GLEN INNES",
+        "state": "NSW",
+        "icao": "YGLI",
+        "coordinates": [
+            "294030S",
+            "1514122E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GNOWANGERUP",
+        "state": "WA",
+        "icao": "YGNW",
+        "coordinates": [
+            "335837S",
+            "1180040E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GOLD COAST",
+        "state": "QLD",
+        "icao": "YBCG",
+        "coordinates": [
+            "280952S",
+            "1533017E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GOLDEN GROVE",
+        "state": "WA",
+        "icao": "YGGE",
+        "coordinates": [
+            "284554S",
+            "1165818E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GOODOOGA",
+        "state": "NSW",
+        "icao": "YGDA",
+        "coordinates": [
+            "290424S",
+            "1472234E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GOONDIWINDI",
+        "state": "QLD",
+        "icao": "YGDI",
+        "coordinates": [
+            "283117S",
+            "1501913E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GOULBURN",
+        "state": "NSW",
+        "icao": "YGLB",
+        "coordinates": [
+            "344837S",
+            "1494335E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GOVE",
+        "state": "NT",
+        "icao": "YPGV",
+        "coordinates": [
+            "121609S",
+            "1364906E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GRAFTON",
+        "state": "NSW",
+        "icao": "YGFN",
+        "coordinates": [
+            "294534S",
+            "1530148E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GRIFFITH",
+        "state": "NSW",
+        "icao": "YGTH",
+        "coordinates": [
+            "341503S",
+            "1460402E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GROOTE EYLANDT",
+        "state": "NT",
+        "icao": "YGTE",
+        "coordinates": [
+            "135824S",
+            "1362739E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GRUYERE",
+        "state": "WA",
+        "icao": "YGRM",
+        "coordinates": [
+            "280203S",
+            "1234851E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GUDAI-DARRI MINE",
+        "state": "WA",
+        "icao": "YKDD",
+        "coordinates": [
+            "223019S",
+            "1190434E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "GUNNEDAH",
+        "state": "NSW",
+        "icao": "YGDH",
+        "coordinates": [
+            "305740S",
+            "1501502E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "HALLS CREEK",
+        "state": "WA",
+        "icao": "YHLC",
+        "coordinates": [
+            "181402S",
+            "1274011E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "HAMILTON ISLAND",
+        "state": "QLD",
+        "icao": "YBHM",
+        "coordinates": [
+            "202129S",
+            "1485706E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "HAMILTON",
+        "state": "VIC",
+        "icao": "YHML",
+        "coordinates": [
+            "373856S",
+            "1420355E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "HAY",
+        "state": "NSW",
+        "icao": "YHAY",
+        "coordinates": [
+            "343153S",
+            "1444947E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "HERVEY BAY",
+        "state": "QLD",
+        "icao": "YHBA",
+        "coordinates": [
+            "251908S",
+            "1525249E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "HOBART",
+        "state": "TAS",
+        "icao": "YMHB",
+        "coordinates": [
+            "425010S",
+            "1473037E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "HOLSWORTHY",
+        "state": "NSW",
+        "icao": "YSHW",
+        "coordinates": [
+            "335942S",
+            "1505709E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "HOPETOUN",
+        "state": "VIC",
+        "icao": "YHPN",
+        "coordinates": [
+            "354255S",
+            "1422135E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "HORN ISLAND",
+        "state": "QLD",
+        "icao": "YHID",
+        "coordinates": [
+            "103511S",
+            "1421724E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "HORSHAM",
+        "state": "VIC",
+        "icao": "YHSM",
+        "coordinates": [
+            "364011S",
+            "1421022E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "HUGHENDEN",
+        "state": "QLD",
+        "icao": "YHUG",
+        "coordinates": [
+            "204854S",
+            "1441331E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "INNISFAIL/MUNDOO",
+        "state": "QLD",
+        "icao": "YIFL",
+        "coordinates": [
+            "173331S",
+            "1460042E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "INVERELL",
+        "state": "NSW",
+        "icao": "YIVL",
+        "coordinates": [
+            "295318S",
+            "1510839E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "IRON BRIDGE MINE",
+        "state": "WA",
+        "icao": "YIBO",
+        "coordinates": [
+            "211712S",
+            "1185259E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "IVANHOE",
+        "state": "NSW",
+        "icao": "YIVO",
+        "coordinates": [
+            "325305S",
+            "1441842E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "JABIRU",
+        "state": "NT",
+        "icao": "YJAB",
+        "coordinates": [
+            "123930S",
+            "1325335E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "JACINTH AMBROSIA",
+        "state": "SA",
+        "icao": "YJAC",
+        "coordinates": [
+            "305404S",
+            "1321101E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "JERVIS BAY",
+        "state": "NSW",
+        "icao": "YJBY",
+        "coordinates": [
+            "350851S",
+            "1504155E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "JULIA CREEK",
+        "state": "QLD",
+        "icao": "YJLC",
+        "coordinates": [
+            "204006S",
+            "1414321E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "JUNDEE",
+        "state": "WA",
+        "icao": "YJUN",
+        "coordinates": [
+            "262516S",
+            "1203439E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KALBARRI",
+        "state": "WA",
+        "icao": "YKBR",
+        "coordinates": [
+            "274131S",
+            "1141534E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KALGOORLIE-BOULDER",
+        "state": "WA",
+        "icao": "YPKG",
+        "coordinates": [
+            "304722S",
+            "1212742E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KALKGURUNG",
+        "state": "NT",
+        "icao": "YKKG",
+        "coordinates": [
+            "172555S",
+            "1304829E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KAMBALDA",
+        "state": "WA",
+        "icao": "YKBL",
+        "coordinates": [
+            "311126S",
+            "1213554E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KARARA",
+        "state": "WA",
+        "icao": "YKAR",
+        "coordinates": [
+            "291258S",
+            "1164112E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KARLAWINDA MINE",
+        "state": "WA",
+        "icao": "YKWA",
+        "coordinates": [
+            "234652S",
+            "1200806E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KARRATHA",
+        "state": "WA",
+        "icao": "YPKA",
+        "coordinates": [
+            "204244S",
+            "1164624E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KARUMBA",
+        "state": "QLD",
+        "icao": "YKMB",
+        "coordinates": [
+            "172720S",
+            "1404954E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KATANNING",
+        "state": "WA",
+        "icao": "YKNG",
+        "coordinates": [
+            "334201S",
+            "1173912E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KEMPSEY",
+        "state": "NSW",
+        "icao": "YKMP",
+        "coordinates": [
+            "310428S",
+            "1524611E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KERANG",
+        "state": "VIC",
+        "icao": "YKER",
+        "coordinates": [
+            "354505S",
+            "1435622E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KIMBA",
+        "state": "SA",
+        "icao": "YIMB",
+        "coordinates": [
+            "330526S",
+            "1362752E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KING ISLAND",
+        "state": "TAS",
+        "icao": "YKII",
+        "coordinates": [
+            "395239S",
+            "1435242E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KINGAROY",
+        "state": "QLD",
+        "icao": "YKRY",
+        "coordinates": [
+            "263451S",
+            "1515028E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KINGSCOTE/KANGAROO ISLAND",
+        "state": "SA",
+        "icao": "YKSC",
+        "coordinates": [
+            "354250S",
+            "1373117E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KOOLAN ISLAND/KOOLAN CENTRAL",
+        "state": "WA",
+        "icao": "YKLC",
+        "coordinates": [
+            "160733S",
+            "1234405E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KOWANYAMA",
+        "state": "QLD",
+        "icao": "YKOW",
+        "coordinates": [
+            "152908S",
+            "1414505E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "KUNUNURRA",
+        "state": "WA",
+        "icao": "YPKU",
+        "coordinates": [
+            "154641S",
+            "1284227E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "LAKE CARGELLIGO",
+        "state": "NSW",
+        "icao": "YLCG",
+        "coordinates": [
+            "331642S",
+            "1462209E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "LAKE EVELLA",
+        "state": "NT",
+        "icao": "YLEV",
+        "coordinates": [
+            "122956S",
+            "1354821E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "LATROBE VALLEY",
+        "state": "VIC",
+        "icao": "YLTV",
+        "coordinates": [
+            "381226S",
+            "1462813E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "LAUNCESTON",
+        "state": "TAS",
+        "icao": "YMLT",
+        "coordinates": [
+            "413243S",
+            "1471251E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "LAVERTON",
+        "state": "WA",
+        "icao": "YLTN",
+        "coordinates": [
+            "283649S",
+            "1222526E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "LEARMONTH",
+        "state": "WA",
+        "icao": "YPLM",
+        "coordinates": [
+            "221408S",
+            "1140519E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "LEIGH CREEK",
+        "state": "SA",
+        "icao": "YLEC",
+        "coordinates": [
+            "303554S",
+            "1382533E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "LEINSTER",
+        "state": "WA",
+        "icao": "YLST",
+        "coordinates": [
+            "275036S",
+            "1204212E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "LEONORA",
+        "state": "WA",
+        "icao": "YLEO",
+        "coordinates": [
+            "285241S",
+            "1211853E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "LIGHTNING RIDGE",
+        "state": "NSW",
+        "icao": "YLRD",
+        "coordinates": [
+            "292724S",
+            "1475904E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "LISMORE",
+        "state": "NSW",
+        "icao": "YLIS",
+        "coordinates": [
+            "284936S",
+            "1531527E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "LOCKHART RIVER",
+        "state": "QLD",
+        "icao": "YLHR",
+        "coordinates": [
+            "124713S",
+            "1431817E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "LONGREACH",
+        "state": "QLD",
+        "icao": "YLRE",
+        "coordinates": [
+            "232603S",
+            "1441649E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "LORD HOWE ISLAND NSW",
+        "state": "NSW",
+        "icao": "YLHI",
+        "coordinates": [
+            "313218S",
+            "1590438E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MACKAY",
+        "state": "QLD",
+        "icao": "YBMK",
+        "coordinates": [
+            "211017S",
+            "1491047E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MAITLAND (NSW)",
+        "state": "NSW",
+        "icao": "YMND",
+        "coordinates": [
+            "324215S",
+            "1512920E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MALLACOOTA",
+        "state": "VIC",
+        "icao": "YMCO",
+        "coordinates": [
+            "373556S",
+            "1494315E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MANGALORE",
+        "state": "VIC",
+        "icao": "YMNG",
+        "coordinates": [
+            "365318S",
+            "1451103E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MANINGRIDA",
+        "state": "NT",
+        "icao": "YMGD",
+        "coordinates": [
+            "120322S",
+            "1341403E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MANJIMUP",
+        "state": "WA",
+        "icao": "YMJM",
+        "coordinates": [
+            "341555S",
+            "1160825E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MAREEBA",
+        "state": "QLD",
+        "icao": "YMBA",
+        "coordinates": [
+            "170414S",
+            "1452526E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MARYBOROUGH (QLD)",
+        "state": "QLD",
+        "icao": "YMYB",
+        "coordinates": [
+            "253048S",
+            "1524254E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MCARTHUR RIVER MINE",
+        "state": "NT",
+        "icao": "YMHU",
+        "coordinates": [
+            "162636S",
+            "1360436E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MEEKATHARRA",
+        "state": "WA",
+        "icao": "YMEK",
+        "coordinates": [
+            "263642S",
+            "1183252E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MELBOURNE",
+        "state": "VIC",
+        "icao": "YMML",
+        "coordinates": [
+            "374024S",
+            "1445036E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MELBOURNE/ESSENDON",
+        "state": "VIC",
+        "icao": "YMEN",
+        "coordinates": [
+            "374341S",
+            "1445407E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MELBOURNE/MOORABBIN",
+        "state": "VIC",
+        "icao": "YMMB",
+        "coordinates": [
+            "375833S",
+            "1450608E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MERIMBULA",
+        "state": "NSW",
+        "icao": "YMER",
+        "coordinates": [
+            "365431S",
+            "1495405E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MILDURA",
+        "state": "VIC",
+        "icao": "YMIA",
+        "coordinates": [
+            "341345S",
+            "1420508E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MILES",
+        "state": "QLD",
+        "icao": "YMLS",
+        "coordinates": [
+            "264822S",
+            "1501011E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MILINGIMBI",
+        "state": "NT",
+        "icao": "YMGB",
+        "coordinates": [
+            "120540S",
+            "1345337E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MOOMBA",
+        "state": "SA",
+        "icao": "YOOM",
+        "coordinates": [
+            "280558S",
+            "1401149E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MORANBAH",
+        "state": "QLD",
+        "icao": "YMRB",
+        "coordinates": [
+            "220328S",
+            "1480439E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MORAWA",
+        "state": "WA",
+        "icao": "YMRW",
+        "coordinates": [
+            "291205S",
+            "1160119E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MOREE",
+        "state": "NSW",
+        "icao": "YMOR",
+        "coordinates": [
+            "292956S",
+            "1495041E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MORNINGTON ISLAND",
+        "state": "QLD",
+        "icao": "YMTI",
+        "coordinates": [
+            "163945S",
+            "1391041E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MORUYA",
+        "state": "NSW",
+        "icao": "YMRY",
+        "coordinates": [
+            "355351S",
+            "1500844E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MOUNT GAMBIER",
+        "state": "SA",
+        "icao": "YMTG",
+        "coordinates": [
+            "374444S",
+            "1404707E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MOUNT GORDON",
+        "state": "QLD",
+        "icao": "YGON",
+        "coordinates": [
+            "194619S",
+            "1392404E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MOUNT HOLLAND",
+        "state": "WA",
+        "icao": "YMHL",
+        "coordinates": [
+            "320630S",
+            "1194536E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MOUNT HOTHAM",
+        "state": "VIC",
+        "icao": "YHOT",
+        "coordinates": [
+            "370254S",
+            "1472003E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MOUNT ISA",
+        "state": "QLD",
+        "icao": "YBMA",
+        "coordinates": [
+            "203950S",
+            "1392919E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MOUNT KEITH",
+        "state": "WA",
+        "icao": "YMNE",
+        "coordinates": [
+            "271711S",
+            "1203317E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MOUNT MAGNET",
+        "state": "WA",
+        "icao": "YMOG",
+        "coordinates": [
+            "280658S",
+            "1175030E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MUDGEE",
+        "state": "NSW",
+        "icao": "YMDG",
+        "coordinates": [
+            "323345S",
+            "1493640E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "MURRIN MURRIN",
+        "state": "WA",
+        "icao": "YMMI",
+        "coordinates": [
+            "284219S",
+            "1215326E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "NARACOORTE",
+        "state": "SA",
+        "icao": "YNRC",
+        "coordinates": [
+            "365907S",
+            "1404330E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "NARRABRI",
+        "state": "NSW",
+        "icao": "YNBR",
+        "coordinates": [
+            "301909S",
+            "1494938E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "NARRANDERA",
+        "state": "NSW",
+        "icao": "YNAR",
+        "coordinates": [
+            "344208S",
+            "1463044E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "NARROMINE",
+        "state": "NSW",
+        "icao": "YNRM",
+        "coordinates": [
+            "321252S",
+            "1481329E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "NEWMAN",
+        "state": "WA",
+        "icao": "YNWN",
+        "coordinates": [
+            "232504S",
+            "1194810E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "NGUKURR",
+        "state": "NT",
+        "icao": "YNGU",
+        "coordinates": [
+            "144322S",
+            "1344451E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "NHILL",
+        "state": "VIC",
+        "icao": "YNHL",
+        "coordinates": [
+            "361840S",
+            "1413840E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "NIFTY",
+        "state": "WA",
+        "icao": "YCNF",
+        "coordinates": [
+            "214025S",
+            "1213541E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "NORFOLK ISLAND",
+        "state": "OTH",
+        "icao": "YSNF",
+        "coordinates": [
+            "290233S",
+            "1675617E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "NORMANTON",
+        "state": "QLD",
+        "icao": "YNTN",
+        "coordinates": [
+            "174106S",
+            "1410413E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "NORTHERN PENINSULA",
+        "state": "QLD",
+        "icao": "YNPE",
+        "coordinates": [
+            "105703S",
+            "1422734E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "NOVA",
+        "state": "WA",
+        "icao": "YNOV",
+        "coordinates": [
+            "315043S",
+            "1231131E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "NOWRA",
+        "state": "NSW",
+        "icao": "YSNW",
+        "coordinates": [
+            "345656S",
+            "1503213E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "NUMBULWAR",
+        "state": "NT",
+        "icao": "YNUM",
+        "coordinates": [
+            "141618S",
+            "1354300E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "NYNGAN",
+        "state": "NSW",
+        "icao": "YNYN",
+        "coordinates": [
+            "313304S",
+            "1471210E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "OAKEY",
+        "state": "QLD",
+        "icao": "YBOK",
+        "coordinates": [
+            "272441S",
+            "1514407E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "OENPELLI",
+        "state": "NT",
+        "icao": "YOEN",
+        "coordinates": [
+            "121931S",
+            "1330020E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "OLYMPIC DAM",
+        "state": "SA",
+        "icao": "YOLD",
+        "coordinates": [
+            "302906S",
+            "1365236E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ONSLOW",
+        "state": "WA",
+        "icao": "YOLW",
+        "coordinates": [
+            "214006S",
+            "1150647E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ORANGE",
+        "state": "NSW",
+        "icao": "YORG",
+        "coordinates": [
+            "332241S",
+            "1490732E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ORBOST",
+        "state": "VIC",
+        "icao": "YORB",
+        "coordinates": [
+            "374725S",
+            "1483635E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "OSBORNE MINE",
+        "state": "QLD",
+        "icao": "YOSB",
+        "coordinates": [
+            "220454S",
+            "1403324E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PALM ISLAND",
+        "state": "QLD",
+        "icao": "YPAM",
+        "coordinates": [
+            "184519S",
+            "1463453E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PARABURDOO",
+        "state": "WA",
+        "icao": "YPBO",
+        "coordinates": [
+            "231016S",
+            "1174443E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PARKES",
+        "state": "NSW",
+        "icao": "YPKS",
+        "coordinates": [
+            "330753S",
+            "1481421E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PEARCE",
+        "state": "WA",
+        "icao": "YPEA",
+        "coordinates": [
+            "314004S",
+            "1160054E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PERTH",
+        "state": "WA",
+        "icao": "YPPH",
+        "coordinates": [
+            "315625S",
+            "1155801E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PERTH/JANDAKOT",
+        "state": "WA",
+        "icao": "YPJT",
+        "coordinates": [
+            "320551S",
+            "1155252E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PETERBOROUGH/GREAT OCEAN ROAD",
+        "state": "VIC",
+        "icao": "YPBH",
+        "coordinates": [
+            "383624S",
+            "1425422E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PLUTONIC",
+        "state": "WA",
+        "icao": "YPLU",
+        "coordinates": [
+            "251900S",
+            "1192524E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "POINT COOK",
+        "state": "VIC",
+        "icao": "YMPC",
+        "coordinates": [
+            "375556S",
+            "1444512E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "POONCARIE",
+        "state": "NSW",
+        "icao": "YPCE",
+        "coordinates": [
+            "332223S",
+            "1423505E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PORMPURAAW",
+        "state": "QLD",
+        "icao": "YPMP",
+        "coordinates": [
+            "145351S",
+            "1413639E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PORT AUGUSTA",
+        "state": "SA",
+        "icao": "YPAG",
+        "coordinates": [
+            "323025S",
+            "1374300E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PORT HEDLAND",
+        "state": "WA",
+        "icao": "YPPD",
+        "coordinates": [
+            "202240S",
+            "1183735E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PORT HEDLAND/WODGINA",
+        "state": "WA",
+        "icao": "YWGA",
+        "coordinates": [
+            "210209S",
+            "1183837E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PORT KEATS",
+        "state": "NT",
+        "icao": "YPKT",
+        "coordinates": [
+            "141500S",
+            "1293145E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PORT LINCOLN",
+        "state": "SA",
+        "icao": "YPLC",
+        "coordinates": [
+            "343619S",
+            "1355249E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PORT MACQUARIE",
+        "state": "NSW",
+        "icao": "YPMQ",
+        "coordinates": [
+            "312609S",
+            "1525148E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PORT PIRIE",
+        "state": "SA",
+        "icao": "YPIR",
+        "coordinates": [
+            "331420S",
+            "1375942E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PORTLAND",
+        "state": "VIC",
+        "icao": "YPOD",
+        "coordinates": [
+            "381905S",
+            "1412816E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PROMINENT HILL",
+        "state": "SA",
+        "icao": "YPMH",
+        "coordinates": [
+            "294304S",
+            "1353128E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "PROSERPINE/WHITSUNDAY COAST",
+        "state": "QLD",
+        "icao": "YBPN",
+        "coordinates": [
+            "202942S",
+            "1483308E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "QUILPIE",
+        "state": "QLD",
+        "icao": "YQLP",
+        "coordinates": [
+            "263631S",
+            "1441526E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "QUIRINDI",
+        "state": "NSW",
+        "icao": "YQDI",
+        "coordinates": [
+            "312955S",
+            "1503105E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "RAMINGINING",
+        "state": "NT",
+        "icao": "YRNG",
+        "coordinates": [
+            "122123S",
+            "1345351E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "RAVENSTHORPE",
+        "state": "WA",
+        "icao": "YNRV",
+        "coordinates": [
+            "334750S",
+            "1201229E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "RENMARK",
+        "state": "SA",
+        "icao": "YREN",
+        "coordinates": [
+            "341147S",
+            "1404026E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "RICHMOND (NSW)",
+        "state": "NSW",
+        "icao": "YSRI",
+        "coordinates": [
+            "333602S",
+            "1504651E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "RICHMOND (QLD)",
+        "state": "QLD",
+        "icao": "YRMD",
+        "coordinates": [
+            "204207S",
+            "1430653E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ROBINVALE",
+        "state": "VIC",
+        "icao": "YROI",
+        "coordinates": [
+            "343902S",
+            "1424658E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ROCKHAMPTON",
+        "state": "QLD",
+        "icao": "YBRK",
+        "coordinates": [
+            "232255S",
+            "1502831E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ROMA",
+        "state": "QLD",
+        "icao": "YROM",
+        "coordinates": [
+            "263243S",
+            "1484630E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ROTTNEST ISLAND",
+        "state": "WA",
+        "icao": "YRTI",
+        "coordinates": [
+            "320024S",
+            "1153223E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SAIBAI ISLAND",
+        "state": "QLD",
+        "icao": "YSII",
+        "coordinates": [
+            "092242S",
+            "1423730E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SAINT GEORGE",
+        "state": "QLD",
+        "icao": "YSGE",
+        "coordinates": [
+            "280259S",
+            "1483543E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SAINT HELENS",
+        "state": "TAS",
+        "icao": "YSTH",
+        "coordinates": [
+            "412012S",
+            "1481655E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SCHERGER (RAAF)",
+        "state": "QLD",
+        "icao": "YBSG",
+        "coordinates": [
+            "123726S",
+            "1420514E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SCONE",
+        "state": "NSW",
+        "icao": "YSCO",
+        "coordinates": [
+            "320214S",
+            "1504956E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SHARK BAY",
+        "state": "WA",
+        "icao": "YSHK",
+        "coordinates": [
+            "255338S",
+            "1133438E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SHELLHARBOUR AIRPORT",
+        "state": "NSW",
+        "icao": "YSHL",
+        "coordinates": [
+            "343340S",
+            "1504719E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SHEPPARTON",
+        "state": "VIC",
+        "icao": "YSHT",
+        "coordinates": [
+            "362544S",
+            "1452333E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SNAKE BAY",
+        "state": "NT",
+        "icao": "YSNK",
+        "coordinates": [
+            "112522S",
+            "1303913E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SOLOMON",
+        "state": "WA",
+        "icao": "YSOL",
+        "coordinates": [
+            "221517S",
+            "1175058E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SOUTH GOULBURN ISLAND",
+        "state": "NT",
+        "icao": "YGBI",
+        "coordinates": [
+            "113902S",
+            "1332255E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SOUTHERN CROSS",
+        "state": "WA",
+        "icao": "YSCR",
+        "coordinates": [
+            "311425S",
+            "1192135E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "ST ARNAUD",
+        "state": "VIC",
+        "icao": "YSTA",
+        "coordinates": [
+            "363812S",
+            "1431109E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "STANTHORPE",
+        "state": "QLD",
+        "icao": "YSPE",
+        "coordinates": [
+            "283713S",
+            "1515926E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "STAWELL",
+        "state": "VIC",
+        "icao": "YSWL",
+        "coordinates": [
+            "370418S",
+            "1424425E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "STRAHAN",
+        "state": "TAS",
+        "icao": "YSRN",
+        "coordinates": [
+            "420920S",
+            "1451729E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "STREAKY BAY",
+        "state": "SA",
+        "icao": "YKBY",
+        "coordinates": [
+            "325009S",
+            "1341734E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SUNRISE DAM",
+        "state": "WA",
+        "icao": "YSRD",
+        "coordinates": [
+            "290554S",
+            "1222719E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SUNSHINE COAST",
+        "state": "QLD",
+        "icao": "YBSU",
+        "coordinates": [
+            "263612S",
+            "1530528E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SWAN HILL",
+        "state": "VIC",
+        "icao": "YSWH",
+        "coordinates": [
+            "352233S",
+            "1433158E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SYDNEY/BANKSTOWN",
+        "state": "NSW",
+        "icao": "YSBK",
+        "coordinates": [
+            "335528S",
+            "1505918E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "SYDNEY/KINGSFORD SMITH",
+        "state": "NSW",
+        "icao": "YSSY",
+        "coordinates": [
+            "335646S",
+            "1511038E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TAMWORTH",
+        "state": "NSW",
+        "icao": "YSTW",
+        "coordinates": [
+            "310502S",
+            "1505048E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TAREE",
+        "state": "NSW",
+        "icao": "YTRE",
+        "coordinates": [
+            "315319S",
+            "1523050E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TAROOM",
+        "state": "QLD",
+        "icao": "YTAM",
+        "coordinates": [
+            "254807S",
+            "1495358E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TELFER",
+        "state": "WA",
+        "icao": "YTEF",
+        "coordinates": [
+            "214254S",
+            "1221342E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TEMORA",
+        "state": "NSW",
+        "icao": "YTEM",
+        "coordinates": [
+            "342517S",
+            "1473042E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TENNANT CREEK",
+        "state": "NT",
+        "icao": "YTNK",
+        "coordinates": [
+            "193804S",
+            "1341100E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "THANGOOL",
+        "state": "QLD",
+        "icao": "YTNG",
+        "coordinates": [
+            "242938S",
+            "1503434E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "THARGOMINDAH",
+        "state": "QLD",
+        "icao": "YTGM",
+        "coordinates": [
+            "275911S",
+            "1434839E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "THE GRANITES",
+        "state": "NT",
+        "icao": "YTGT",
+        "coordinates": [
+            "203254S",
+            "1302100E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "THE MONUMENT",
+        "state": "QLD",
+        "icao": "YTMO",
+        "coordinates": [
+            "214843S",
+            "1395524E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "THEODORE",
+        "state": "QLD",
+        "icao": "YTDR",
+        "coordinates": [
+            "245911S",
+            "1500535E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "THUNDERBOX",
+        "state": "WA",
+        "icao": "YTHN",
+        "coordinates": [
+            "280914S",
+            "1205621E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TIBOOBURRA",
+        "state": "NSW",
+        "icao": "YTIB",
+        "coordinates": [
+            "292704S",
+            "1420328E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TINDAL",
+        "state": "NT",
+        "icao": "YPTN",
+        "coordinates": [
+            "143116S",
+            "1322240E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TOCUMWAL",
+        "state": "NSW",
+        "icao": "YTOC",
+        "coordinates": [
+            "354839S",
+            "1453615E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TOOWOOMBA",
+        "state": "QLD",
+        "icao": "YTWB",
+        "coordinates": [
+            "273229S",
+            "1515445E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TOWNSVILLE/TOWNSVILLE INTL",
+        "state": "QLD",
+        "icao": "YBTL",
+        "coordinates": [
+            "191509S",
+            "1464555E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TREPELL",
+        "state": "QLD",
+        "icao": "YTEE",
+        "coordinates": [
+            "215006S",
+            "1405317E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TROPICANA",
+        "state": "WA",
+        "icao": "YTRA",
+        "coordinates": [
+            "291112S",
+            "1243301E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TROUGHTON ISLAND",
+        "state": "WA",
+        "icao": "YTTI",
+        "coordinates": [
+            "134506S",
+            "1260854E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TRUSCOTT-MUNGALALU",
+        "state": "WA",
+        "icao": "YTST",
+        "coordinates": [
+            "140523S",
+            "1262251E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TUMBY BAY",
+        "state": "SA",
+        "icao": "YTBB",
+        "coordinates": [
+            "342140S",
+            "1360542E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "TUMUT",
+        "state": "NSW",
+        "icao": "YTMU",
+        "coordinates": [
+            "351546S",
+            "1481427E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WAGGA WAGGA",
+        "state": "NSW",
+        "icao": "YSWG",
+        "coordinates": [
+            "350955S",
+            "1472759E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WALGETT",
+        "state": "NSW",
+        "icao": "YWLG",
+        "coordinates": [
+            "300158S",
+            "1480733E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WANGARATTA",
+        "state": "VIC",
+        "icao": "YWGT",
+        "coordinates": [
+            "362457S",
+            "1461825E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WARBURTON",
+        "state": "WA",
+        "icao": "YWBR",
+        "coordinates": [
+            "260742S",
+            "1263500E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WARRACKNABEAL",
+        "state": "VIC",
+        "icao": "YWKB",
+        "coordinates": [
+            "361916S",
+            "1422510E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WARREN",
+        "state": "NSW",
+        "icao": "YWRN",
+        "coordinates": [
+            "314400S",
+            "1474809E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WARRNAMBOOL",
+        "state": "VIC",
+        "icao": "YWBL",
+        "coordinates": [
+            "381743S",
+            "1422648E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WARWICK",
+        "state": "QLD",
+        "icao": "YWCK",
+        "coordinates": [
+            "280858S",
+            "1515635E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WEIPA",
+        "state": "QLD",
+        "icao": "YBWP",
+        "coordinates": [
+            "124043S",
+            "1415531E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WENTWORTH",
+        "state": "NSW",
+        "icao": "YWTO",
+        "coordinates": [
+            "340516S",
+            "1415331E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WEST ANGELAS",
+        "state": "WA",
+        "icao": "YANG",
+        "coordinates": [
+            "230806S",
+            "1184224E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WEST SALE",
+        "state": "VIC",
+        "icao": "YWSL",
+        "coordinates": [
+            "380530S",
+            "1465755E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WEST WYALONG",
+        "state": "NSW",
+        "icao": "YWWL",
+        "coordinates": [
+            "335614S",
+            "1471129E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WHITE CLIFFS",
+        "state": "NSW",
+        "icao": "YWHC",
+        "coordinates": [
+            "305105S",
+            "1430424E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WHYALLA",
+        "state": "SA",
+        "icao": "YWHA",
+        "coordinates": [
+            "330332S",
+            "1373052E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WILCANNIA",
+        "state": "NSW",
+        "icao": "YWCA",
+        "coordinates": [
+            "313110S",
+            "1432252E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WILLIAMTOWN",
+        "state": "NSW",
+        "icao": "YWLM",
+        "coordinates": [
+            "324742S",
+            "1515004E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WILUNA",
+        "state": "WA",
+        "icao": "YWLU",
+        "coordinates": [
+            "263745S",
+            "1201314E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WINDARLING",
+        "state": "WA",
+        "icao": "YWDG",
+        "coordinates": [
+            "300155S",
+            "1192314E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WINDORAH",
+        "state": "QLD",
+        "icao": "YWDH",
+        "coordinates": [
+            "252447S",
+            "1424002E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WINTON",
+        "state": "QLD",
+        "icao": "YWTN",
+        "coordinates": [
+            "222149S",
+            "1430508E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WOODIE WOODIE",
+        "state": "WA",
+        "icao": "YWWI",
+        "coordinates": [
+            "213843S",
+            "1211130E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WOOMERA",
+        "state": "SA",
+        "icao": "YPWR",
+        "coordinates": [
+            "310839S",
+            "1364901E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WUDINNA",
+        "state": "SA",
+        "icao": "YWUD",
+        "coordinates": [
+            "330236S",
+            "1352650E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WYCHEPROOF",
+        "state": "VIC",
+        "icao": "YWYF",
+        "coordinates": [
+            "360332S",
+            "1431436E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WYNDHAM",
+        "state": "WA",
+        "icao": "YWYM",
+        "coordinates": [
+            "153041S",
+            "1280911E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "WYNYARD",
+        "state": "TAS",
+        "icao": "YWYY",
+        "coordinates": [
+            "405956S",
+            "1454352E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "YARRAM",
+        "state": "VIC",
+        "icao": "YYRM",
+        "coordinates": [
+            "383403S",
+            "1464516E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "YARRAWONGA",
+        "state": "VIC",
+        "icao": "YYWG",
+        "coordinates": [
+            "360150S",
+            "1460140E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "YORKE ISLAND",
+        "state": "QLD",
+        "icao": "YYKI",
+        "coordinates": [
+            "094512S",
+            "1432418E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Certified Aerodrome",
+        "name": "YOUNG",
+        "state": "NSW",
+        "icao": "YYNG",
+        "coordinates": [
+            "341520S",
+            "1481453E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "ADELAIDE",
+        "state": "SA",
+        "icao": "YPAD",
+        "coordinates": [
+            "345642S",
+            "1383150E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "ADELAIDE/PARAFIELD",
+        "state": "SA",
+        "icao": "YPPF",
+        "coordinates": [
+            "344736S",
+            "1383759E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "ALBURY",
+        "state": "NSW",
+        "icao": "YMAY",
+        "coordinates": [
+            "360404S",
+            "1465729E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "ALICE SPRINGS",
+        "state": "NT",
+        "icao": "YBAS",
+        "coordinates": [
+            "234830S",
+            "1335403E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "AMBERLEY",
+        "state": "QLD",
+        "icao": "YAMB",
+        "coordinates": [
+            "273826S",
+            "1524243E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "AVALON",
+        "state": "VIC",
+        "icao": "YMAV",
+        "coordinates": [
+            "380222S",
+            "1442810E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "BRISBANE",
+        "state": "QLD",
+        "icao": "YBBN",
+        "coordinates": [
+            "272303S",
+            "1530703E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "BRISBANE/ARCHERFIELD",
+        "state": "QLD",
+        "icao": "YBAF",
+        "coordinates": [
+            "273413S",
+            "1530029E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "BROOME/INTL",
+        "state": "WA",
+        "icao": "YBRM",
+        "coordinates": [
+            "175658S",
+            "1221340E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "CAIRNS/CAIRNS INTL",
+        "state": "QLD",
+        "icao": "YBCS",
+        "coordinates": [
+            "165309S",
+            "1454519E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "CAMDEN",
+        "state": "NSW",
+        "icao": "YSCN",
+        "coordinates": [
+            "340225S",
+            "1504112E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "CANBERRA",
+        "state": "ACT",
+        "icao": "YSCB",
+        "coordinates": [
+            "351825S",
+            "1491142E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "COFFS HARBOUR",
+        "state": "NSW",
+        "icao": "YCFS",
+        "coordinates": [
+            "301914S",
+            "1530659E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "DARWIN",
+        "state": "NT",
+        "icao": "YPDN",
+        "coordinates": [
+            "122453S",
+            "1305236E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "EAST SALE",
+        "state": "VIC",
+        "icao": "YMES",
+        "coordinates": [
+            "380556S",
+            "1470858E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "EDINBURGH",
+        "state": "SA",
+        "icao": "YPED",
+        "coordinates": [
+            "344209S",
+            "1383715E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "GOLD COAST",
+        "state": "QLD",
+        "icao": "YBCG",
+        "coordinates": [
+            "280952S",
+            "1533017E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "HAMILTON ISLAND",
+        "state": "QLD",
+        "icao": "YBHM",
+        "coordinates": [
+            "202129S",
+            "1485706E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "HOBART",
+        "state": "TAS",
+        "icao": "YMHB",
+        "coordinates": [
+            "425010S",
+            "1473037E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "KARRATHA",
+        "state": "WA",
+        "icao": "YPKA",
+        "coordinates": [
+            "204244S",
+            "1164624E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "LAUNCESTON",
+        "state": "TAS",
+        "icao": "YMLT",
+        "coordinates": [
+            "413243S",
+            "1471251E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "MACKAY",
+        "state": "QLD",
+        "icao": "YBMK",
+        "coordinates": [
+            "211017S",
+            "1491047E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "MELBOURNE",
+        "state": "VIC",
+        "icao": "YMML",
+        "coordinates": [
+            "374024S",
+            "1445036E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "MELBOURNE/ESSENDON",
+        "state": "VIC",
+        "icao": "YMEN",
+        "coordinates": [
+            "374341S",
+            "1445407E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "MELBOURNE/MOORABBIN",
+        "state": "VIC",
+        "icao": "YMMB",
+        "coordinates": [
+            "375833S",
+            "1450608E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "NOWRA",
+        "state": "NSW",
+        "icao": "YSNW",
+        "coordinates": [
+            "345656S",
+            "1503213E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "OAKEY",
+        "state": "QLD",
+        "icao": "YBOK",
+        "coordinates": [
+            "272441S",
+            "1514407E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "PEARCE",
+        "state": "WA",
+        "icao": "YPEA",
+        "coordinates": [
+            "314004S",
+            "1160054E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "PERTH",
+        "state": "WA",
+        "icao": "YPPH",
+        "coordinates": [
+            "315625S",
+            "1155801E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "PERTH/JANDAKOT",
+        "state": "WA",
+        "icao": "YPJT",
+        "coordinates": [
+            "320551S",
+            "1155252E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "RICHMOND (NSW)",
+        "state": "NSW",
+        "icao": "YSRI",
+        "coordinates": [
+            "333602S",
+            "1504651E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "ROCKHAMPTON",
+        "state": "QLD",
+        "icao": "YBRK",
+        "coordinates": [
+            "232255S",
+            "1502831E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "SUNSHINE COAST",
+        "state": "QLD",
+        "icao": "YBSU",
+        "coordinates": [
+            "263612S",
+            "1530528E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "SYDNEY/BANKSTOWN",
+        "state": "NSW",
+        "icao": "YSBK",
+        "coordinates": [
+            "335528S",
+            "1505918E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "SYDNEY/KINGSFORD SMITH",
+        "state": "NSW",
+        "icao": "YSSY",
+        "coordinates": [
+            "335646S",
+            "1511038E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "TAMWORTH",
+        "state": "NSW",
+        "icao": "YSTW",
+        "coordinates": [
+            "310502S",
+            "1505048E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "TINDAL",
+        "state": "NT",
+        "icao": "YPTN",
+        "coordinates": [
+            "143116S",
+            "1322240E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "TOWNSVILLE/TOWNSVILLE INTL",
+        "state": "QLD",
+        "icao": "YBTL",
+        "coordinates": [
+            "191509S",
+            "1464555E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "WILLIAMTOWN",
+        "state": "NSW",
+        "icao": "YWLM",
+        "coordinates": [
+            "324742S",
+            "1515004E "
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Controlled Aerodrome",
+        "name": "WOOMERA",
+        "state": "SA",
+        "icao": "YPWR",
+        "coordinates": [
+            "310839S",
+            "1364901E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ADAMINABY",
+        "state": "NSW",
+        "icao": "YADY",
+        "coordinates": [
+            "355954S",
+            "1484748E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ADELS GROVE",
+        "state": "QLD",
+        "icao": "YALG",
+        "coordinates": [
+            "184133S",
+            "1383153E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ALDINGA",
+        "state": "SA",
+        "icao": "YADG",
+        "coordinates": [
+            "351720S",
+            "1382936E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "AMATA",
+        "state": "SA",
+        "icao": "YAMT",
+        "coordinates": [
+            "260550S",
+            "1311210E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ANNA CREEK",
+        "state": "SA",
+        "icao": "YANK",
+        "coordinates": [
+            "285350S",
+            "1361014E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "AQUILA",
+        "state": "QLD",
+        "icao": "YAQA",
+        "coordinates": [
+            "253144S",
+            "1523412E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ARAMAC",
+        "state": "QLD",
+        "icao": "YAMC",
+        "coordinates": [
+            "225734S",
+            "1451509E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ARKAROOLA",
+        "state": "SA",
+        "icao": "YARK",
+        "coordinates": [
+            "302423S",
+            "1392048E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ARRABURY",
+        "state": "QLD",
+        "icao": "YARY",
+        "coordinates": [
+            "264126S",
+            "1410250E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ATHERTON",
+        "state": "QLD",
+        "icao": "YATN",
+        "coordinates": [
+            "171543S",
+            "1453052E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "AUGUSTA",
+        "state": "WA",
+        "icao": "YAUG",
+        "coordinates": [
+            "341948S",
+            "1150924E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "AUGUSTUS DOWNS",
+        "state": "QLD",
+        "icao": "YAGD",
+        "coordinates": [
+            "183056S",
+            "1395243E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "AYR",
+        "state": "QLD",
+        "icao": "YAYR",
+        "coordinates": [
+            "193547S",
+            "1471929E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BACCHUS MARSH",
+        "state": "VIC",
+        "icao": "YBSS",
+        "coordinates": [
+            "374400S",
+            "1442520E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BADU ISLAND",
+        "state": "QLD",
+        "icao": "YBAU",
+        "coordinates": [
+            "100900S",
+            "1421027E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BALCANOONA",
+        "state": "SA",
+        "icao": "YBLC",
+        "coordinates": [
+            "303204S",
+            "1392016E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BALLIDU",
+        "state": "WA",
+        "icao": "YBIU",
+        "coordinates": [
+            "303536S",
+            "1164648E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BAMYILI",
+        "state": "NT",
+        "icao": "YBMY",
+        "coordinates": [
+            "143111S",
+            "1325300E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BARADINE",
+        "state": "NSW",
+        "icao": "YBAD",
+        "coordinates": [
+            "305718S",
+            "1490530E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BARALABA",
+        "state": "QLD",
+        "icao": "YBAB",
+        "coordinates": [
+            "241112S",
+            "1495042E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BARWON FIELD",
+        "state": "VIC",
+        "icao": "YGBF",
+        "coordinates": [
+            "380849S",
+            "1441021E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BARWON HEADS / GEELONG",
+        "state": "VIC",
+        "icao": "YBRS",
+        "coordinates": [
+            "381529S",
+            "1442539E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BARYULGIL",
+        "state": "NSW",
+        "icao": "YBYL",
+        "coordinates": [
+            "291259S",
+            "1523654E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BEAUFORT",
+        "state": "VIC",
+        "icao": "YBFT",
+        "coordinates": [
+            "372940S",
+            "1432548E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BELLBURN",
+        "state": "WA",
+        "icao": "YBEB",
+        "coordinates": [
+            "173241S",
+            "1281818E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BETOOTA",
+        "state": "QLD",
+        "icao": "YBEO",
+        "coordinates": [
+            "254142S",
+            "1404412E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BEVERLEY (WA)",
+        "state": "WA",
+        "icao": "YBEV",
+        "coordinates": [
+            "320729S",
+            "1165700E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BEVERLEY MINE",
+        "state": "SA",
+        "icao": "YBEE",
+        "coordinates": [
+            "301112S",
+            "1393330E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BINDOON HILL",
+        "state": "WA",
+        "icao": "YBHL",
+        "coordinates": [
+            "312025S",
+            "1161118E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BLACKWATER",
+        "state": "QLD",
+        "icao": "YBTR",
+        "coordinates": [
+            "233611S",
+            "1484825E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BLUEWATER PARK",
+        "state": "QLD",
+        "icao": "YBLP",
+        "coordinates": [
+            "191130S",
+            "1462936E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BOIGU ISLAND",
+        "state": "QLD",
+        "icao": "YBOI",
+        "coordinates": [
+            "091400S",
+            "1421300E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BOLLON",
+        "state": "QLD",
+        "icao": "YBLL",
+        "coordinates": [
+            "280313S",
+            "1472842E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BOMBALA",
+        "state": "NSW",
+        "icao": "YBOM",
+        "coordinates": [
+            "365418S",
+            "1491100E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BOOLEROO CENTRE",
+        "state": "SA",
+        "icao": "YBOC",
+        "coordinates": [
+            "325324S",
+            "1382200E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BOOMI",
+        "state": "NSW",
+        "icao": "YBMI",
+        "coordinates": [
+            "284344S",
+            "1493544E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BOONAH",
+        "state": "QLD",
+        "icao": "YBOA",
+        "coordinates": [
+            "280103S",
+            "1524036E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BOORT",
+        "state": "VIC",
+        "icao": "YBBT",
+        "coordinates": [
+            "360814S",
+            "1434314E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BORDERTOWN",
+        "state": "SA",
+        "icao": "YBOR",
+        "coordinates": [
+            "361618S",
+            "1404318E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BORROLOOLA",
+        "state": "NT",
+        "icao": "YBRL",
+        "coordinates": [
+            "160431S",
+            "1361808E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BRIDGEWATER",
+        "state": "VIC",
+        "icao": "YBGR",
+        "coordinates": [
+            "363700S",
+            "1435700E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BROOKLET / BLUEBERRY FIELDS",
+        "state": "NSW",
+        "icao": "YBBF",
+        "coordinates": [
+            "284423S",
+            "1532914E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BROWNS RANGE ",
+        "state": "WA",
+        "icao": "YBNR",
+        "coordinates": [
+            "185344S",
+            "1285631E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "BRUNY ISLAND ",
+        "state": "TAS",
+        "icao": "YBYI",
+        "coordinates": [
+            "431406S",
+            "1472247E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CABOOLTURE ",
+        "state": "QLD",
+        "icao": "YCAB",
+        "coordinates": [
+            "270437S",
+            "1525913E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CADNEY  HOMESTEAD",
+        "state": "SA",
+        "icao": "YCDH",
+        "coordinates": [
+            "275424S",
+            "1340321E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CAIGUNA ",
+        "state": "WA",
+        "icao": "YCAG",
+        "coordinates": [
+            "321649S",
+            "1252840E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CALOUNDRA ",
+        "state": "QLD",
+        "icao": "YCDR",
+        "coordinates": [
+            "264807S",
+            "1530619E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CALVIN GROVE",
+        "state": " SA",
+        "icao": "YCVG",
+        "coordinates": [
+            "344148S",
+            "1383442E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CAMDEN HAVEN ",
+        "state": "NSW",
+        "icao": "YCMH",
+        "coordinates": [
+            "313954S",
+            "1524430E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CAPE LEVEQUE ",
+        "state": "WA",
+        "icao": "YCLQ",
+        "coordinates": [
+            "162402S",
+            "1225553E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CAPELLA ",
+        "state": "QLD",
+        "icao": "YCEL",
+        "coordinates": [
+            "230543S",
+            "1480026E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CARDWELL / DALLACHY",
+        "state": "QLD",
+        "icao": "YCDW",
+        "coordinates": [
+            "181042S",
+            "1455700E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CASINO ",
+        "state": "NSW",
+        "icao": "YCAS",
+        "coordinates": [
+            "285258S",
+            "1530401E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CASTERTON",
+        "state": "VIC",
+        "icao": "YCTN",
+        "coordinates": [
+            "373648S",
+            "1412142E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CLARE VALLEY",
+        "state": "SA",
+        "icao": "YCVA",
+        "coordinates": [
+            "334230S",
+            "1383500E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CLIFTON",
+        "state": "QLD",
+        "icao": "YCFN",
+        "coordinates": [
+            "275540S",
+            "1515051E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CLUNY",
+        "state": "QLD",
+        "icao": "YUNY",
+        "coordinates": [
+            "243041S",
+            "1393702E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "COBDEN",
+        "state": "VIC",
+        "icao": "YCDE",
+        "coordinates": [
+            "381936S",
+            "1430324E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "COCKATOO ISLAND",
+        "state": "WA",
+        "icao": "YCTI",
+        "coordinates": [
+            "160545S",
+            "1233641E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "COCONUT ISLAND",
+        "state": "QLD",
+        "icao": "YCCT",
+        "coordinates": [
+            "100300S",
+            "1430400E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "COFFIN BAY",
+        "state": "SA",
+        "icao": "YCOF",
+        "coordinates": [
+            "343520S",
+            "1353018E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "COHUNA",
+        "state": "VIC",
+        "icao": "YCOH",
+        "coordinates": [
+            "354937S",
+            "1441250E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "COLAC",
+        "state": "VIC",
+        "icao": "YOLA",
+        "coordinates": [
+            "381711S",
+            "1434047E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "COLDSTREAM",
+        "state": "VIC",
+        "icao": "YCEM",
+        "coordinates": [
+            "374342S",
+            "1452432E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "COLLARENEBRI",
+        "state": "NSW",
+        "icao": "YCBR",
+        "coordinates": [
+            "293119S",
+            "1483456E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "COLLINSVILLE",
+        "state": "QLD",
+        "icao": "YCSV",
+        "coordinates": [
+            "203546S",
+            "1475136E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "COOINDA",
+        "state": "NT",
+        "icao": "YCOO",
+        "coordinates": [
+            "125410S",
+            "1323156E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "COOLAH",
+        "state": "NSW",
+        "icao": "YCAH",
+        "coordinates": [
+            "314624S",
+            "1493634E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "COOLATAI",
+        "state": "NSW",
+        "icao": "YCTA",
+        "coordinates": [
+            "290839S",
+            "1504329E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "COOMA - POLO FLAT",
+        "state": "NSW",
+        "icao": "YPFT",
+        "coordinates": [
+            "361345S",
+            "1490858E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "COOMINYA",
+        "state": "QLD",
+        "icao": "YBCM",
+        "coordinates": [
+            "272330S",
+            "1522742E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "COWELL",
+        "state": "SA",
+        "icao": "YCWL",
+        "coordinates": [
+            "334002S",
+            "1365330E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CRANBOURN",
+        "state": "TAS",
+        "icao": "YCRN",
+        "coordinates": [
+            "410941S",
+            "1470053E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CRESSY",
+        "state": "VIC",
+        "icao": "YCRE",
+        "coordinates": [
+            "380224S",
+            "1433911E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CROOKWELL",
+        "state": "NSW",
+        "icao": "YCRL",
+        "coordinates": [
+            "343000S",
+            "1492700E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CROYDON",
+        "state": "QLD",
+        "icao": "YCRY",
+        "coordinates": [
+            "181303S",
+            "1421511E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "CUMMINS TOWN",
+        "state": "SA",
+        "icao": "YCMM",
+        "coordinates": [
+            "341510S",
+            "1354248E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DALBY",
+        "state": "QLD",
+        "icao": "YDAY",
+        "coordinates": [
+            "270919S",
+            "1511602E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DARNLEY ISLAND",
+        "state": "QLD",
+        "icao": "YDNI",
+        "coordinates": [
+            "093444S",
+            "1434649E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DAVENPORT DOWNS",
+        "state": "QLD",
+        "icao": "YDPD",
+        "coordinates": [
+            "240844S",
+            "1410644E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DELISSAVILLE",
+        "state": "NT",
+        "icao": "YDLV",
+        "coordinates": [
+            "123304S",
+            "1304112E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DELTA DOWNS",
+        "state": "QLD",
+        "icao": "YDLT",
+        "coordinates": [
+            "165930S",
+            "1411900E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DENMARK",
+        "state": "WA",
+        "icao": "YDEK",
+        "coordinates": [
+            "345645S",
+            "1172350E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DOCHRA",
+        "state": "NSW",
+        "icao": "YDOC",
+        "coordinates": [
+            "323902S",
+            "1511229E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DOCKER RIVER",
+        "state": "NT",
+        "icao": "YDVR",
+        "coordinates": [
+            "245130S",
+            "1290724E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DONNINGTON AIRPARK",
+        "state": "QLD",
+        "icao": "YDOP",
+        "coordinates": [
+            "193606S",
+            "1465030E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DORUNDA STATION",
+        "state": "QLD",
+        "icao": "YDOR",
+        "coordinates": [
+            "163315S",
+            "1414927E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DROUIN",
+        "state": "VIC",
+        "icao": "YDRN",
+        "coordinates": [
+            "381232S",
+            "1454946E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DRYSDALE RIVER",
+        "state": "WA",
+        "icao": "YDRD",
+        "coordinates": [
+            "154247S",
+            "1262253E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DUMBLEYUNG",
+        "state": "WA",
+        "icao": "YDUM",
+        "coordinates": [
+            "331921S",
+            "1174438E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DUNBAR",
+        "state": "QLD",
+        "icao": "YDBR",
+        "coordinates": [
+            "160300S",
+            "1422400E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DUNK ISLAND",
+        "state": "QLD",
+        "icao": "YDKI",
+        "coordinates": [
+            "175615S",
+            "1460826E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DUNWICH",
+        "state": "QLD",
+        "icao": "YDUN",
+        "coordinates": [
+            "273100S",
+            "1532542E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DURHAM DOWNS",
+        "state": "QLD",
+        "icao": "YDRH",
+        "coordinates": [
+            "270430S",
+            "1415400E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DURRIE",
+        "state": "QLD",
+        "icao": "YDRI",
+        "coordinates": [
+            "254105S",
+            "1401324E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "DYSART",
+        "state": "QLD",
+        "icao": "YDYS",
+        "coordinates": [
+            "223720S",
+            "1482150E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ECO BEACH",
+        "state": "WA",
+        "icao": "YECB",
+        "coordinates": [
+            "181924S",
+            "1220736E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "EIDSVOLD",
+        "state": "QLD",
+        "icao": "YESD",
+        "coordinates": [
+            "252154S",
+            "1510630E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ELIZABETH QUAY",
+        "state": "WA",
+        "icao": "YEQY",
+        "coordinates": [
+            "315800S",
+            "1155142E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ELLISTON",
+        "state": "SA",
+        "icao": "YELN",
+        "coordinates": [
+            "333818S",
+            "1345400E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ELROSE",
+        "state": "QLD",
+        "icao": "YESE",
+        "coordinates": [
+            "205838S",
+            "1410026E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "EMKAYTEE",
+        "state": "NT",
+        "icao": "YMKT",
+        "coordinates": [
+            "123636S",
+            "1310310E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "EMU PARK",
+        "state": "QLD",
+        "icao": "YEMP",
+        "coordinates": [
+            "231524S",
+            "1504848E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ERNABELLA",
+        "state": "SA",
+        "icao": "YERN",
+        "coordinates": [
+            "261545S",
+            "1321054E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "EROMANGA",
+        "state": "QLD",
+        "icao": "YEMG",
+        "coordinates": [
+            "264217S",
+            "1431543E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "EULO",
+        "state": "QLD",
+        "icao": "YEUO",
+        "coordinates": [
+            "281009S",
+            "1450230E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "EUROA",
+        "state": "VIC",
+        "icao": "YEUA",
+        "coordinates": [
+            "364441S",
+            "1453048E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "EVANS HEAD",
+        "state": "NSW",
+        "icao": "YEVD",
+        "coordinates": [
+            "290536S",
+            "1532513E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "EXMOUTH",
+        "state": "WA",
+        "icao": "YEXM",
+        "coordinates": [
+            "220229S",
+            "1140608E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "FEDERATION",
+        "state": "NSW",
+        "icao": "YFDN",
+        "coordinates": [
+            "350046S",
+            "1472225E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "FREGON",
+        "state": "SA",
+        "icao": "YFRG ",
+        "coordinates": [
+            "264633S",
+            "1320103E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "GATTON AIRPARK",
+        "state": "QLD",
+        "icao": "YGAS",
+        "coordinates": [
+            "273524S",
+            "1521524E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "GAWLER",
+        "state": "SA",
+        "icao": "YGAW",
+        "coordinates": [
+            "343555S",
+            "1384317E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "GEORGE TOWN (TAS)",
+        "state": "TAS",
+        "icao": "YGTO",
+        "coordinates": [
+            "410448S",
+            "1465024E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "GIBB RIVER",
+        "state": "WA",
+        "icao": "YGIB",
+        "coordinates": [
+            "162507S",
+            "1262646E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "GILES",
+        "state": "WA",
+        "icao": "YGLS",
+        "coordinates": [
+            "250300S",
+            "1281800E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "GILGANDRA",
+        "state": "NSW",
+        "icao": "YGIL",
+        "coordinates": [
+            "314149S",
+            "1483810E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "GLENORMISTON",
+        "state": "QLD",
+        "icao": "YGLO",
+        "coordinates": [
+            "225320S",
+            "1384927E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "GNARWARRE",
+        "state": "VIC",
+        "icao": "YGNE ",
+        "coordinates": [
+            "380954S",
+            "1440627E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "GOOLGOWI",
+        "state": "NSW",
+        "icao": "YGGI",
+        "coordinates": [
+            "335931S",
+            "1454309E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "GOOLWA",
+        "state": "SA",
+        "icao": "YGWA ",
+        "coordinates": [
+            "352855S",
+            "1384505E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "GREAT LAKES AIRFIELD",
+        "state": "VIC",
+        "icao": "YGRL",
+        "coordinates": [
+            "375033S",
+            "1480001E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "GREGORY DOWNS",
+        "state": "QLD",
+        "icao": "YGDS",
+        "coordinates": [
+            "183732S",
+            "1391401E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "GUNDAROO",
+        "state": "NSW ",
+        "icao": "YGDO",
+        "coordinates": [
+            "350242S",
+            "1491530E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "GYMPIE",
+        "state": "QLD",
+        "icao": "YGYM",
+        "coordinates": [
+            "261658S",
+            "1524207E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "HAASTS BLUFF",
+        "state": "NT",
+        "icao": "YHAA",
+        "coordinates": [
+            "232702S",
+            "1315105E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "HARDEN",
+        "state": "NSW",
+        "icao": "YHAE",
+        "coordinates": [
+            "343345S",
+            "1482330E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "HAWKER",
+        "state": "SA",
+        "icao": "YHAW",
+        "coordinates": [
+            "315117S",
+            "1382806E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "HECK FIELD",
+        "state": "QLD",
+        "icao": "YHEC ",
+        "coordinates": [
+            "274603S",
+            "1532022E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "HERBERTVALE CATTLEYARD",
+        "state": "QLD",
+        "icao": "YHCS",
+        "coordinates": [
+            "185731S",
+            "1380344E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "HERMANNSBURG",
+        "state": "NT",
+        "icao": "YHMB",
+        "coordinates": [
+            "235540S",
+            "1324845E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "HILLSTON",
+        "state": "NSW",
+        "icao": "YHLS",
+        "coordinates": [
+            "332937S",
+            "1453125E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "HOBART / CAMBRIDGE",
+        "state": "TAS",
+        "icao": "YCBG",
+        "coordinates": [
+            "424936S",
+            "1472829E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "HOLBROOK",
+        "state": "NSW",
+        "icao": "YHBK",
+        "coordinates": [
+            "354100S",
+            "1471900E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "HOMESGLEN",
+        "state": "VIC",
+        "icao": "YHGN ",
+        "coordinates": [
+            "354142S",
+            "1421534E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "HONEYMOON",
+        "state": "SA",
+        "icao": "YHON",
+        "coordinates": [
+            "314512S",
+            "1403954E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "HOOKER CREEK",
+        "state": "NT",
+        "icao": "YHOO",
+        "coordinates": [
+            "181942S",
+            "1303848E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "HUNGERFORD",
+        "state": "QLD",
+        "icao": "YHRD",
+        "coordinates": [
+            "285946S",
+            "1442711E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "IFFLEY",
+        "state": "QLD",
+        "icao": "YIFY",
+        "coordinates": [
+            "185400S",
+            "1411300E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ILFRACOMBE",
+        "state": "QLD",
+        "icao": "YILF",
+        "coordinates": [
+            "232818S",
+            "1443203E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "INGHAM",
+        "state": "QLD",
+        "icao": "YIGM",
+        "coordinates": [
+            "183938S",
+            "1460906E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "INJUNE",
+        "state": "QLD",
+        "icao": "YINJ",
+        "coordinates": [
+            "255100S",
+            "1483300E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "INKERMAN STATION QLD",
+        "state": "QLD",
+        "icao": "YIKM",
+        "coordinates": [
+            "161345S",
+            "1412602E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "INNAMINCKA  TOWNSHIP SA",
+        "state": "SA",
+        "icao": "YIMT",
+        "coordinates": [
+            "274430S",
+            "1404442E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "INNAMINCKA SA",
+        "state": "SA",
+        "icao": "YINN",
+        "coordinates": [
+            "274200S",
+            "1404400E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ISISFORD QLD",
+        "state": "QLD",
+        "icao": "YISF",
+        "coordinates": [
+            "241533S",
+            "1442527E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "JAMESTOWN SA",
+        "state": "SA",
+        "icao": "YJST",
+        "coordinates": [
+            "331132S",
+            "1383657E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "JERILDERIE NSW ",
+        "state": "NSW",
+        "icao": "YJER ",
+        "coordinates": [
+            "352212S",
+            "1454330E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "JINDABYNE NSW",
+        "state": "NSW",
+        "icao": "YJIN",
+        "coordinates": [
+            "362536S",
+            "1483606E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "JUNDAH QLD",
+        "state": "QLD",
+        "icao": "YJDA",
+        "coordinates": [
+            "244953S",
+            "1430356E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "JURIEN BAY WA",
+        "state": "WA",
+        "icao": "YJUR",
+        "coordinates": [
+            "301812S",
+            "1150319E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KADINA SA",
+        "state": "SA",
+        "icao": "YKDI",
+        "coordinates": [
+            "335812S",
+            "1373936E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KALUMBURU WA",
+        "state": "WA",
+        "icao": "YKAL",
+        "coordinates": [
+            "141717S",
+            "1263752E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KAMILEROI QLD",
+        "state": "QLD",
+        "icao": "YKML ",
+        "coordinates": [
+            "192229S",
+            "1400322E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KEITH SA",
+        "state": "SA",
+        "icao": "YKTH",
+        "coordinates": [
+            "360651S",
+            "1401508E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KIDMAN SPRINGS NT",
+        "state": "NT",
+        "icao": "YKDM",
+        "coordinates": [
+            "160657S",
+            "1305712E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KIDSTON QLD ",
+        "state": "QLD",
+        "icao": "YKID",
+        "coordinates": [
+            "185215S",
+            "1441024E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KILCOY QLD",
+        "state": "QLD",
+        "icao": "YKCY",
+        "coordinates": [
+            "265816S",
+            "1523355E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KILLARNEY NT",
+        "state": "NT",
+        "icao": "YKLE",
+        "coordinates": [
+            "161501S",
+            "1314449E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KIN KIN RETREAT WA",
+        "state": "WA",
+        "icao": "YKKN",
+        "coordinates": [
+            "342245S",
+            "1161920E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KING ASH BAY NT",
+        "state": "NT",
+        "icao": "YKAB",
+        "coordinates": [
+            "155552S",
+            "1362855E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KINGS CREEK STN NT",
+        "state": "NT",
+        "icao": "YKCS",
+        "coordinates": [
+            "242513S",
+            "1314908E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KINGSTON SA",
+        "state": "SA",
+        "icao": "YKIG",
+        "coordinates": [
+            "364912S",
+            "1395212E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KONDININ WA",
+        "state": "WA",
+        "icao": "YKDN",
+        "coordinates": [
+            "322803S",
+            "1181611E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KOORALBYN QLD",
+        "state": "QLD",
+        "icao": "YKBN ",
+        "coordinates": [
+            "280524S",
+            "1525027E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KUBIN QLD",
+        "state": "QLD",
+        "icao": "YKUB",
+        "coordinates": [
+            "101336S",
+            "1421325E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "KYNETON (VIC) VIC",
+        "state": "VIC",
+        "icao": "YKTN",
+        "coordinates": [
+            "371332S",
+            "1442649E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LAKE KEEPIT NSW",
+        "state": "NSW",
+        "icao": "YKEP",
+        "coordinates": [
+            "305324S",
+            "1503136E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LAKE MACQUARIE  AIRPORT NSW",
+        "state": "NSW",
+        "icao": "YLMQ",
+        "coordinates": [
+            "330358S",
+            "1513853E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LAKELAND DOWNS",
+        "state": "QLD",
+        "icao": "YLND",
+        "coordinates": [
+            "155009S",
+            "1445051E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LAKES ENTRANCE",
+        "state": "VIC",
+        "icao": "YLKE",
+        "coordinates": [
+            "375108S",
+            "1475655E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LAKESIDE AIRPARK",
+        "state": "QLD",
+        "icao": "YLAK",
+        "coordinates": [
+            "204106S",
+            "1483730E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LAWLERS",
+        "state": "WA",
+        "icao": "YLAW",
+        "coordinates": [
+            "280523S",
+            "1203224E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LAWN HILL",
+        "state": "QLD",
+        "icao": "YLAH",
+        "coordinates": [
+            "183435S",
+            "1383505E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LEGUNE STN",
+        "state": "NT",
+        "icao": "YLGU",
+        "coordinates": [
+            "151255S",
+            "1292642E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LEONGATHA",
+        "state": "VIC",
+        "icao": "YLEG",
+        "coordinates": [
+            "382944S",
+            "1455135E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LETHBRIDGE AIRPORT",
+        "state": "VIC",
+        "icao": "YLED",
+        "coordinates": [
+            "375508S",
+            "1440604E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LILYDALE",
+        "state": "VIC",
+        "icao": "YLIL",
+        "coordinates": [
+            "374131S",
+            "1452159E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LIZARD ISLAND",
+        "state": "QLD",
+        "icao": "YLZI",
+        "coordinates": [
+            "144022S",
+            "1452715E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LOCKSLEY FIELD",
+        "state": "VIC",
+        "icao": "YLCS",
+        "coordinates": [
+            "364854S",
+            "1452054E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LONGDOWN",
+        "state": "TAS",
+        "icao": "YLGD ",
+        "coordinates": [
+            "414128S",
+            "1470836E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LORRAINE",
+        "state": "QLD",
+        "icao": "YLOR",
+        "coordinates": [
+            "190023S",
+            "1395358E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LOTUS VALE STN",
+        "state": "QLD",
+        "icao": "YLOV",
+        "coordinates": [
+            "170254S",
+            "1412235E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LOUTH",
+        "state": "NSW",
+        "icao": "YLOH",
+        "coordinates": [
+            "303153S",
+            "1450743E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LOWER LIGHT",
+        "state": "SA",
+        "icao": "YLLT",
+        "coordinates": [
+            "343100S",
+            "1382525E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LOXTON",
+        "state": "SA",
+        "icao": "YLOX",
+        "coordinates": [
+            "342833S",
+            "1403950E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "LYNDOCH",
+        "state": "SA",
+        "icao": "YLYK",
+        "coordinates": [
+            "343718S",
+            "1385451E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MABUIAG ISLAND",
+        "state": "QLD",
+        "icao": "YMAA",
+        "coordinates": [
+            "095706S",
+            "1421147E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MAITLAND (SA)",
+        "state": "SA",
+        "icao": "YMLD",
+        "coordinates": [
+            "342334S",
+            "1374226E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MANSFIELD",
+        "state": "VIC",
+        "icao": "YMFD",
+        "coordinates": [
+            "370400S",
+            "1460700E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MARBLE BAR",
+        "state": "WA",
+        "icao": "YMBL",
+        "coordinates": [
+            "210946S",
+            "1195002E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MARGARET RIVER",
+        "state": "WA",
+        "icao": "YMGT ",
+        "coordinates": [
+            "335550S",
+            "1150600E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MARLA",
+        "state": "SA",
+        "icao": "YALA",
+        "coordinates": [
+            "272003S",
+            "1333735E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MARREE",
+        "state": "SA",
+        "icao": "YMRE",
+        "coordinates": [
+            "293946S",
+            "1380357E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MARYBOROUGH (VIC)",
+        "state": "VIC",
+        "icao": "YMBU",
+        "coordinates": [
+            "370159S",
+            "1434232E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MELTON",
+        "state": "VIC",
+        "icao": "YMEL",
+        "coordinates": [
+            "373718S",
+            "1443356E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MELVILLE WATER AERODROME",
+        "state": "WA",
+        "icao": "YMET",
+        "coordinates": [
+            "315839S",
+            "1155029E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MEREENIE",
+        "state": "NT",
+        "icao": "YMEI",
+        "coordinates": [
+            "235836S",
+            "1313342E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MERREDIN",
+        "state": "WA",
+        "icao": "YMDN",
+        "coordinates": [
+            "313124S",
+            "1181912E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MIDDLEMOUNT",
+        "state": "QLD",
+        "icao": "YMMU",
+        "coordinates": [
+            "224809S",
+            "1484217E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MILL IRON",
+        "state": "QLD",
+        "icao": "YMIO",
+        "coordinates": [
+            "231926S",
+            "1504145E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MILLICENT",
+        "state": "SA",
+        "icao": "YMCT",
+        "coordinates": [
+            "373501S",
+            "1402158E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MILLMERRAN",
+        "state": "QLD",
+        "icao": "YMMN",
+        "coordinates": [
+            "275148S",
+            "1511630E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MINDEROO",
+        "state": "WA",
+        "icao": "YMDR",
+        "coordinates": [
+            "215936S",
+            "1150242E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MINNIPA",
+        "state": "SA",
+        "icao": "YMPA",
+        "coordinates": [
+            "325035S",
+            "1350840E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MITCHELL",
+        "state": "QLD",
+        "icao": "YMIT",
+        "coordinates": [
+            "262900S",
+            "1475612E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MITTA MITTA",
+        "state": "VIC",
+        "icao": "YITT",
+        "coordinates": [
+            "363044S",
+            "1472122E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MITTAGONG",
+        "state": "NSW",
+        "icao": "YMIG",
+        "coordinates": [
+            "342654S",
+            "1503012E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MOAMA",
+        "state": "NSW",
+        "icao": "YMMO",
+        "coordinates": [
+            "360428S",
+            "1444552E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MODEWARRE",
+        "state": "VIC",
+        "icao": "YMOD",
+        "coordinates": [
+            "381538S",
+            "1440531E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MONKIRA",
+        "state": "QLD",
+        "icao": "YMNK ",
+        "coordinates": [
+            "244907S",
+            "1403312E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MONTO",
+        "state": "QLD",
+        "icao": "YMTO",
+        "coordinates": [
+            "245332S",
+            "1510607E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MORNEY",
+        "state": "QLD",
+        "icao": "YMNY",
+        "coordinates": [
+            "252130S",
+            "1412600E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MOUNT BEAUTY",
+        "state": "VIC",
+        "icao": "YMBT",
+        "coordinates": [
+            "364343S",
+            "1471001E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MOUNT BUNDEY",
+        "state": "NT",
+        "icao": "YMDY",
+        "coordinates": [
+            "125324S",
+            "1315426E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MOUNT COOLON",
+        "state": "QLD",
+        "icao": "YMCL",
+        "coordinates": [
+            "212313S",
+            "1471956E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MOUNT HOUSE",
+        "state": "WA",
+        "icao": "YMHO",
+        "coordinates": [
+            "170304S",
+            "1254248E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MOUNT HOWITT",
+        "state": "QLD",
+        "icao": "YMHW",
+        "coordinates": [
+            "263040S",
+            "1421700E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MOUNT SANFORD STATION",
+        "state": "NT",
+        "icao": "YMSF",
+        "coordinates": [
+            "165842S",
+            "1303318E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MOURA",
+        "state": "QLD",
+        "icao": "YMOU",
+        "coordinates": [
+            "243642S",
+            "1495947E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MULLEWA",
+        "state": "WA",
+        "icao": "YMWA",
+        "coordinates": [
+            "282831S",
+            "1153103E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MUNDUBBERA",
+        "state": "QLD",
+        "icao": "YMDA",
+        "coordinates": [
+            "253556S",
+            "1511908E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MUNGINDI",
+        "state": "NSW",
+        "icao": "YMGI",
+        "coordinates": [
+            "285802S",
+            "1490313E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MUNGO LODGE",
+        "state": "NSW",
+        "icao": "YLMU",
+        "coordinates": [
+            "334442S",
+            "1430006E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MURGON",
+        "state": "QLD",
+        "icao": "YMRG",
+        "coordinates": [
+            "261510S",
+            "1515548E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MURRAY BRIDGE",
+        "state": "SA",
+        "icao": "YMBD ",
+        "coordinates": [
+            "350352S",
+            "1391336E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MURRAY FIELD",
+        "state": "WA",
+        "icao": "YMUL",
+        "coordinates": [
+            "323037S",
+            "1155000E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MURRAY/MER ISLAND",
+        "state": "QLD",
+        "icao": "YMAE",
+        "coordinates": [
+            "095456S",
+            "1440319E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MURWILLUMBAH",
+        "state": "NSW",
+        "icao": "YMUR",
+        "coordinates": [
+            "281952S",
+            "1532449E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MUTTABURRA",
+        "state": "QLD",
+        "icao": "YMTB",
+        "coordinates": [
+            "223500S",
+            "1443200E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "MYRUP",
+        "state": "WA",
+        "icao": "YMYU",
+        "coordinates": [
+            "334722S",
+            "1215725E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "NACKEROO",
+        "state": "NT",
+        "icao": "YNKR",
+        "coordinates": [
+            "153436S",
+            "1302830E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "NAGAMBIE-WIRRATE",
+        "state": "VIC",
+        "icao": "YNGW",
+        "coordinates": [
+            "364702S",
+            "1450213E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "NANANGO",
+        "state": "QLD",
+        "icao": "YNAN",
+        "coordinates": [
+            "264130S",
+            "1515912E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "NAPPA MERRIE",
+        "state": "QLD",
+        "icao": "YNAP",
+        "coordinates": [
+            "273330S",
+            "1410800E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "NAREMBEEN",
+        "state": "WA",
+        "icao": "YNRB",
+        "coordinates": [
+            "320700S",
+            "1182500E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "NARROGIN",
+        "state": "WA",
+        "icao": "YNRG",
+        "coordinates": [
+            "325548S",
+            "1170448E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "NOOSA",
+        "state": "QLD",
+        "icao": "YNSH",
+        "coordinates": [
+            "262524S",
+            "1530348E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "NORSEMAN",
+        "state": "WA",
+        "icao": "YNSM",
+        "coordinates": [
+            "321234S",
+            "1214516E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "NORTHAM",
+        "state": "WA",
+        "icao": "YNTM",
+        "coordinates": [
+            "313733S",
+            "1164104E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "NULLAGINE",
+        "state": "WA",
+        "icao": "YNUL",
+        "coordinates": [
+            "215446S",
+            "1201155E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "NULLARBOR MOTEL",
+        "state": "SA",
+        "icao": "YNUB",
+        "coordinates": [
+            "312628S",
+            "1305408E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "OAKY CREEK",
+        "state": "QLD",
+        "icao": "YOAY",
+        "coordinates": [
+            "230335S",
+            "1482941E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "OCHRE ARCH",
+        "state": "NSW",
+        "icao": "YOCA",
+        "coordinates": [
+            "334521S",
+            "1480046E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "OODNADATTA",
+        "state": "SA",
+        "icao": "YOOD",
+        "coordinates": [
+            "273336S",
+            "1352642E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ORROROO",
+        "state": "SA",
+        "icao": "YORR",
+        "coordinates": [
+            "324730S",
+            "1384000E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "PACIFIC HAVEN",
+        "state": "QLD",
+        "icao": "YPAC",
+        "coordinates": [
+            "251412S",
+            "1523236E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "PAPUNYA",
+        "state": "NT",
+        "icao": "YPAY",
+        "coordinates": [
+            "231428S",
+            "1315425E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "PENFIELD",
+        "state": "VIC",
+        "icao": "YPEF",
+        "coordinates": [
+            "373048S",
+            "1444154E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "PENNY",
+        "state": "WA",
+        "icao": "YPEN",
+        "coordinates": [
+            "284942S",
+            "1184948E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "PETERBOROUGH",
+        "state": "SA",
+        "icao": "YPTB",
+        "coordinates": [
+            "330018S",
+            "1385054E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "PINNARENDI",
+        "state": "QLD",
+        "icao": "YPNA",
+        "coordinates": [
+            "180218S",
+            "1445300E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "PINNAROO",
+        "state": "SA",
+        "icao": "YPNN",
+        "coordinates": [
+            "351530S",
+            "1405641E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "PITTSWORTH",
+        "state": "QLD",
+        "icao": "YPWH",
+        "coordinates": [
+            "274400S",
+            "1513800E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "POREPUNKAH",
+        "state": "VIC",
+        "icao": "YPOK",
+        "coordinates": [
+            "364304S",
+            "1465324E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "PUCKAPUNYAL",
+        "state": "VIC",
+        "icao": "YPKL",
+        "coordinates": [
+            "365958S",
+            "1450346E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "PUNGALINA",
+        "state": "NT",
+        "icao": "YPUG",
+        "coordinates": [
+            "164319S",
+            "1372524E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "QUEENSTOWN",
+        "state": "TAS",
+        "icao": "YQNS",
+        "coordinates": [
+            "420432S",
+            "1453151E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "QUORN",
+        "state": "SA",
+        "icao": "YQRN",
+        "coordinates": [
+            "321912S",
+            "1380606E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "RAYWOOD",
+        "state": "VIC",
+        "icao": "YRYW",
+        "coordinates": [
+            "363230S",
+            "1441428E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "REDCLIFFE",
+        "state": "QLD",
+        "icao": "YRED",
+        "coordinates": [
+            "271224S",
+            "1530404E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "RIDDELL",
+        "state": "VIC",
+        "icao": "YRID",
+        "coordinates": [
+            "372848S",
+            "1444306E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ROBE",
+        "state": "SA",
+        "icao": "YRBE",
+        "coordinates": [
+            "371035S",
+            "1394816E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ROBINHOOD",
+        "state": "QLD",
+        "icao": "YROB",
+        "coordinates": [
+            "185055S",
+            "1434240E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ROLLESTON",
+        "state": "QLD",
+        "icao": "YRLL",
+        "coordinates": [
+            "242742S",
+            "1483738E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ROMSEY",
+        "state": "VIC",
+        "icao": "YRSY",
+        "coordinates": [
+            "372330S",
+            "1444418E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ROSE BAY",
+        "state": "NSW",
+        "icao": "YRAY",
+        "coordinates": [
+            "335212S",
+            "1511547E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ROSE VALE",
+        "state": "NSW",
+        "icao": "YRVL",
+        "coordinates": [
+            "345058S",
+            "1474649E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ROSEBERTH",
+        "state": "QLD",
+        "icao": "YRSB",
+        "coordinates": [
+            "255000S",
+            "1393900E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ROSTELLA",
+        "state": "TAS",
+        "icao": "YRST",
+        "coordinates": [
+            "411953S",
+            "1470301E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "ROWSLEY/BROOKS  LANDING",
+        "state": "VIC",
+        "icao": "YBSL",
+        "coordinates": [
+            "374229S",
+            "1442034E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "RUTLAND PLAINS",
+        "state": "QLD",
+        "icao": "YRTP",
+        "coordinates": [
+            "153836S",
+            "1415036E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "RYLSTONE  AIRPARK",
+        "state": "NSW",
+        "icao": "YRYL",
+        "coordinates": [
+            "324615S",
+            "1495936E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SAMARAI",
+        "state": "QLD",
+        "icao": "YSAM",
+        "coordinates": [
+            "271422S",
+            "1514104E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SCOTIA  SANCTUARY",
+        "state": "NSW",
+        "icao": "YSCA",
+        "coordinates": [
+            "331218S",
+            "1411001E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SEA LAKE",
+        "state": "VIC",
+        "icao": "YSLK",
+        "coordinates": [
+            "353154S",
+            "1425326E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SERPENTINE",
+        "state": "WA",
+        "icao": "YSEN",
+        "coordinates": [
+            "322342S",
+            "1155224E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SHUTE HARBOUR / WHITSUNDAY",
+        "state": "QLD",
+        "icao": "YSHR",
+        "coordinates": [
+            "201642S",
+            "1484520E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SINGLETON",
+        "state": "NSW",
+        "icao": "YSGT",
+        "coordinates": [
+            "323700S",
+            "1511200E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SMITHTON",
+        "state": "TAS",
+        "icao": "YSMI",
+        "coordinates": [
+            "405006S",
+            "1450501E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SOMERSBY",
+        "state": "NSW",
+        "icao": "YSMB",
+        "coordinates": [
+            "332204S",
+            "1511759E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SOUTH GALWAY",
+        "state": "QLD",
+        "icao": "YSGW",
+        "coordinates": [
+            "254029S",
+            "1420524E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SOUTH GRAFTON",
+        "state": "NSW",
+        "icao": "YSGR",
+        "coordinates": [
+            "294232S",
+            "1525542E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SOUTHPORT",
+        "state": "QLD",
+        "icao": "YSPT",
+        "coordinates": [
+            "275518S",
+            "1532217E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SPRING CREEK",
+        "state": "QLD",
+        "icao": "YSPK",
+        "coordinates": [
+            "183718S",
+            "1443406E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SPRINGSURE",
+        "state": "QLD",
+        "icao": "YSPI",
+        "coordinates": [
+            "240749S",
+            "1480512E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "STIRLING NORTH / FLINDERS FIELD",
+        "state": "SA",
+        "icao": "YFFD",
+        "coordinates": [
+            "323203S",
+            "1375129E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "STIRLING STATION",
+        "state": "QLD",
+        "icao": "YSTL",
+        "coordinates": [
+            "171111S",
+            "1414242E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "STONEFIELD GLIDING",
+        "state": "SA",
+        "icao": "YSFG",
+        "coordinates": [
+            "342030S",
+            "1391830E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "STONEHENGE",
+        "state": "QLD",
+        "icao": "YSTO",
+        "coordinates": [
+            "242123S",
+            "1431729E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SUNNYSIDE",
+        "state": "NSW",
+        "icao": "YSNY",
+        "coordinates": [
+            "354547S",
+            "1465433E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SUNRAYSIA GLIDING",
+        "state": "VIC",
+        "icao": "YSRG",
+        "coordinates": [
+            "341535S",
+            "1420330E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SURAT",
+        "state": "QLD",
+        "icao": "YSRT",
+        "coordinates": [
+            "270934S",
+            "1490434E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "SWAN BAY",
+        "state": "NSW",
+        "icao": "YSWB",
+        "coordinates": [
+            "290257S",
+            "1531804E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "TAMBO",
+        "state": "QLD",
+        "icao": "YTMB",
+        "coordinates": [
+            "245020S",
+            "1461735E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "TANAMI",
+        "state": "NT",
+        "icao": "YTMN",
+        "coordinates": [
+            "195800S",
+            "1294332E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "TARA",
+        "state": "QLD",
+        "icao": "YTAA",
+        "coordinates": [
+            "270924S",
+            "1502836E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "THE LAKES",
+        "state": "NSW",
+        "icao": "YLKS",
+        "coordinates": [
+            "314253S",
+            "1524329E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "THE OAKS",
+        "state": "NSW",
+        "icao": "YOAS",
+        "coordinates": [
+            "340502S",
+            "1503337E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "THE VALE",
+        "state": "TAS",
+        "icao": "YVAL",
+        "coordinates": [
+            "412548S",
+            "1461548E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "THYLUNGRA",
+        "state": "QLD",
+        "icao": "YTHY",
+        "coordinates": [
+            "260536S",
+            "1432709E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "TILPA",
+        "state": "NSW",
+        "icao": "YTLP",
+        "coordinates": [
+            "305532S",
+            "1442512E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "TIMBER CREEK",
+        "state": "NT",
+        "icao": "YTBR",
+        "coordinates": [
+            "153714S",
+            "1302644E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "TOORADIN",
+        "state": "VIC",
+        "icao": "YTDN",
+        "coordinates": [
+            "381256S",
+            "1452525E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "TOORAWEENAH",
+        "state": "NSW",
+        "icao": "YTWN",
+        "coordinates": [
+            "312630S",
+            "1485400E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "TORQUAY",
+        "state": "VIC",
+        "icao": "YTQY",
+        "coordinates": [
+            "381800S",
+            "1442154E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "TOTTENHAM",
+        "state": "NSW",
+        "icao": "YTOT",
+        "coordinates": [
+            "321522S",
+            "1472208E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "TOWRANG GLIDING",
+        "state": "NSW",
+        "icao": "YTWG",
+        "coordinates": [
+            "344127S",
+            "1495317E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "TRURO FLAT AIRPARK",
+        "state": "SA",
+        "icao": "YTFA",
+        "coordinates": [
+            "342343S",
+            "1392300E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "TULLY",
+        "state": "QLD",
+        "icao": "YTUY",
+        "coordinates": [
+            "175610S",
+            "1455616E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "TURTLE PARK",
+        "state": "QLD",
+        "icao": "YTPK",
+        "coordinates": [
+            "211230S",
+            "1485842E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "TYABB",
+        "state": "VIC",
+        "icao": "YTYA",
+        "coordinates": [
+            "381600S",
+            "1451030E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "TYAGARAH",
+        "state": "NSW",
+        "icao": "YTYH",
+        "coordinates": [
+            "283541S",
+            "1533304E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "UNDARA",
+        "state": "QLD",
+        "icao": "YUDA",
+        "coordinates": [
+            "181130S",
+            "1443648E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "URANDANGI",
+        "state": "QLD",
+        "icao": "YUDG",
+        "coordinates": [
+            "213540S",
+            "1382156E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "VAN ROOK STATION",
+        "state": "QLD",
+        "icao": "YVRS",
+        "coordinates": [
+            "165744S",
+            "1415709E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "VICTORIA RIVER DOWNS",
+        "state": "NT",
+        "icao": "YVRD",
+        "coordinates": [
+            "162413S",
+            "1310009E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WAGIN",
+        "state": "WA",
+        "icao": "YWGN",
+        "coordinates": [
+            "331859S",
+            "1172137E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WAHRING FIELD",
+        "state": "VIC",
+        "icao": "YWHG",
+        "coordinates": [
+            "364048S",
+            "1451436E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WAIKERIE",
+        "state": "SA",
+        "icao": "YWKI",
+        "coordinates": [
+            "341103S",
+            "1400150E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WALCHA",
+        "state": "NSW",
+        "icao": "YWCH",
+        "coordinates": [
+            "310026S",
+            "1513319E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WANAARING",
+        "state": "NSW",
+        "icao": "YWAG",
+        "coordinates": [
+            "294242S",
+            "1441016E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WARIALDA",
+        "state": "NSW",
+        "icao": "YWRL",
+        "coordinates": [
+            "293200S",
+            "1503200E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WARKWORTH",
+        "state": "NSW",
+        "icao": "YWKW",
+        "coordinates": [
+            "323254S",
+            "1510127E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WARNERVALE",
+        "state": "NSW",
+        "icao": "YWVA",
+        "coordinates": [
+            "331425S",
+            "1512549E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WARRABER ISLAND",
+        "state": "QLD",
+        "icao": "YWBS",
+        "coordinates": [
+            "101224S",
+            "1424924E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WARRABRI",
+        "state": "NT",
+        "icao": "YWBI",
+        "coordinates": [
+            "205957S",
+            "1342347E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WATERLOO (NT)",
+        "state": "NT",
+        "icao": "YWTL",
+        "coordinates": [
+            "163748S",
+            "1291916E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WATTS BRIDGE",
+        "state": "QLD",
+        "icao": "YWSG",
+        "coordinates": [
+            "270544S",
+            "1522735E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WAVE HILL",
+        "state": "NT",
+        "icao": "YWAV",
+        "coordinates": [
+            "172337S",
+            "1310709E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WEDDERBURN",
+        "state": "NSW",
+        "icao": "YWBN",
+        "coordinates": [
+            "341048S",
+            "1504832E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WELLINGTON",
+        "state": "NSW",
+        "icao": "YWEL",
+        "coordinates": [
+            "322745S",
+            "1485926E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WESTBURY / CROFTON FARM",
+        "state": "TAS",
+        "icao": "YCRF",
+        "coordinates": [
+            "412804S",
+            "1465018E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WHITE GUM",
+        "state": "WA",
+        "icao": "YWGM",
+        "coordinates": [
+            "315202S",
+            "1165621E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WILLIAM CREEK",
+        "state": "SA",
+        "icao": "YWMC",
+        "coordinates": [
+            "285425S",
+            "1362028E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WILLIAMSON",
+        "state": "QLD",
+        "icao": "YWIS",
+        "coordinates": [
+            "222824S",
+            "1501042E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WONDAI",
+        "state": "QLD",
+        "icao": "YWND",
+        "coordinates": [
+            "261703S",
+            "1515141E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WONDOOLA",
+        "state": "QLD",
+        "icao": "YWDL",
+        "coordinates": [
+            "183430S",
+            "1405330E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WROTHAM PARK",
+        "state": "QLD",
+        "icao": "YWMP",
+        "coordinates": [
+            "163929S",
+            "1440003E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WYANDRA",
+        "state": "QLD",
+        "icao": "YWYA",
+        "coordinates": [
+            "271600S",
+            "1455924E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "WYREEMA",
+        "state": "QLD",
+        "icao": "YWYR",
+        "coordinates": [
+            "274003S",
+            "1515116E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "YAM ISLAND",
+        "state": "QLD",
+        "icao": "YYMI",
+        "coordinates": [
+            "095354S",
+            "1424618E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "YAMARNA",
+        "state": "WA",
+        "icao": "YYRN",
+        "coordinates": [
+            "280918S",
+            "1234030E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Uncertified Aerodrome",
+        "name": "YUENDUMU",
+        "state": "NT",
+        "icao": "YYND",
+        "coordinates": [
+            "221515S",
+            "1314656E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "AUST AGE OF DINOSAURS MUSEUM",
+        "state": "QLD",
+        "icao": "YAOD",
+        "coordinates": [
+            "222848S",
+            "1431057E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "BARRACOUTA PLATFORM",
+        "state": "VIC",
+        "icao": "YUTA",
+        "coordinates": [
+            "381748S",
+            "1474034E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "BATMAN PARK HELIPORT",
+        "state": "VIC",
+        "icao": "YBPK",
+        "coordinates": [
+            "374920S",
+            "1445724E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "BLOSSOM BANKS",
+        "state": "QLD",
+        "icao": "YBSM",
+        "coordinates": [
+            "194329S",
+            "1502529E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "BROWSE BASIN",
+        "state": "WA",
+        "icao": "YBRB",
+        "coordinates": [
+            "135709S",
+            "1231823E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "CARAVONICA",
+        "state": "QLD",
+        "icao": "YCAV",
+        "coordinates": [
+            "165100S",
+            "1454139E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "CHARLIE ONE",
+        "state": "WA",
+        "icao": "YCLN",
+        "coordinates": [
+            "202512S",
+            "1172442E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "DOLPHIN PLATFORM",
+        "state": "VIC",
+        "icao": "YUPA",
+        "coordinates": [
+            "382914S",
+            "1472239E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "ENOGGERA HELIPORT",
+        "state": "QLD",
+        "icao": "YENO",
+        "coordinates": [
+            "272536S",
+            "1525812E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "ERINA HELIPORT",
+        "state": "NSW",
+        "icao": "YEHP",
+        "coordinates": [
+            "332627S",
+            "1512207E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "FACING ISLAND",
+        "state": "QLD",
+        "icao": "YFLD",
+        "coordinates": [
+            "235324S",
+            "1513400E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "GARDEN ISLAND HELIPORT",
+        "state": "WA",
+        "icao": "YGAD",
+        "coordinates": [
+            "321430S",
+            "1154102E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "GLENAMPLE HELIPORT",
+        "state": "VIC",
+        "icao": "YGHP",
+        "coordinates": [
+            "383937S",
+            "1430622E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "GLENBROOK HLS",
+        "state": "NSW",
+        "icao": "YGBK",
+        "coordinates": [
+            "334542S",
+            "1503810E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "GOSFORD HOSPITAL",
+        "state": "NSW",
+        "icao": "YXGS",
+        "coordinates": [
+            "332511S",
+            "1512021E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "KHOLO HELIPAD",
+        "state": "QLD",
+        "icao": "YKHO",
+        "coordinates": [
+            "272952S",
+            "1524628E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "LONGFORD HELIPORT",
+        "state": "VIC",
+        "icao": "YUOF",
+        "coordinates": [
+            "381311S",
+            "1471008E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "MACLEAN HOSPITAL",
+        "state": "NSW",
+        "icao": "YXMA",
+        "coordinates": [
+            "292713S",
+            "1531205E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "MERRIWA HOSPITAL",
+        "state": "NSW",
+        "icao": "YXMW",
+        "coordinates": [
+            "320836S",
+            "1502139E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "MONARTO SAFARI PARK",
+        "state": "SA",
+        "icao": "YOAR",
+        "coordinates": [
+            "350512S",
+            "1390934E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "NELLY BAY",
+        "state": "QLD",
+        "icao": "YNEY",
+        "coordinates": [
+            "190943S",
+            "1465113E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "NEPEAN AEROSPACE PARK",
+        "state": "NSW",
+        "icao": "YNEP",
+        "coordinates": [
+            "334340S",
+            "1504057E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "NEWCASTLE REGIONAL HELIPORT",
+        "state": "NSW",
+        "icao": "YNRH",
+        "coordinates": [
+            "325246S",
+            "1514343E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "NEWCASTLE WESTPAC BASE",
+        "state": "NSW",
+        "icao": "YXFV",
+        "coordinates": [
+            "325513S",
+            "1514347E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "NORMANTON HELIPAD",
+        "state": "QLD",
+        "icao": "YNTH",
+        "coordinates": [
+            "174039S",
+            "1410406E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "ORANGE EAST HELIPORT",
+        "state": "NSW",
+        "icao": "YOEH",
+        "coordinates": [
+            "331902S",
+            "1490853E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "PERCH PLATFORM",
+        "state": "VIC",
+        "icao": "YUPE",
+        "coordinates": [
+            "383409S",
+            "1471921E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "PHILLIP ISLAND HELIPORT",
+        "state": "VIC",
+        "icao": "YPID",
+        "coordinates": [
+            "383112S",
+            "1451936E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "PINKENBA",
+        "state": "QLD",
+        "icao": "YAAP",
+        "coordinates": [
+            "272608S",
+            "1530644E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "PORT CAMPBELL HELIPORT",
+        "state": "VIC",
+        "icao": "YPHP",
+        "coordinates": [
+            "383744S",
+            "1430226E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "RAYNER PLACE HELIPORT",
+        "state": "NSW",
+        "icao": "YRYP",
+        "coordinates": [
+            "345146S",
+            "1485602E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "ROBERTSON BARRACKS",
+        "state": "NT",
+        "icao": "YRBK",
+        "coordinates": [
+            "122530S",
+            "1305824E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "ROCHEDALE",
+        "state": "QLD",
+        "icao": "YRCD",
+        "coordinates": [
+            "273444S",
+            "1530751E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "ROYAL NORTH SHORE HOSPITAL",
+        "state": "NSW",
+        "icao": "YXNS",
+        "coordinates": [
+            "334916S",
+            "1511131E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "ROYAL PRINCE ALFRED HOSPITAL",
+        "state": "NSW",
+        "icao": "YRPA",
+        "coordinates": [
+            "335322S",
+            "1511102E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "SEABUOY",
+        "state": "WA",
+        "icao": "YSBY",
+        "coordinates": [
+            "202548S",
+            "1164251E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "TESSA SHOALS",
+        "state": "WA",
+        "icao": "YTES",
+        "coordinates": [
+            "203323S",
+            "1171437E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "TULLY HOSPITAL",
+        "state": "QLD",
+        "icao": "YXTU",
+        "coordinates": [
+            "175537S",
+            "1455524E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "VICTOR ISLAND EAST",
+        "state": "QLD",
+        "icao": "YVIE",
+        "coordinates": [
+            "211517S",
+            "1492512E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "VICTOR ISLAND WEST",
+        "state": "QLD",
+        "icao": "YVIW",
+        "coordinates": [
+            "211746S",
+            "1492134E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "WATSONS BAY HELIPAD",
+        "state": "NSW",
+        "icao": "YWTB",
+        "coordinates": [
+            "335006S",
+            "1511650E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "WESTMEAD HOSPITAL",
+        "state": "NSW",
+        "icao": "YWST",
+        "coordinates": [
+            "334818S",
+            "1505918E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "WOLGAN VALLEY HELIPORT",
+        "state": "NSW",
+        "icao": "YWVR",
+        "coordinates": [
+            "331513S",
+            "1501116E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "WOLLONGONG HELIPORT",
+        "state": "NSW",
+        "icao": "YWHP",
+        "coordinates": [
+            "342622S",
+            "1505346E"
+        ],
+        "radius": 1
+    },
+    {
+        "type": "Helicopter Landing Site",
+        "name": "WUJAL WUJAL",
+        "state": "QLD",
+        "icao": "YWJL",
+        "coordinates": [
+            "155654S",
+            "1451907E"
+        ],
+        "radius": 1
+    }
+]
