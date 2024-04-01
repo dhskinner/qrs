@@ -32,6 +32,17 @@
             "upper": "",
             "style": "buffer",
             "radius_nm": 127
+        },
+        {
+            "name": "Menindee",
+            "position": [
+                -32.773821378158694,
+                142.69809587847007
+            ],
+            "lower": "Surface",
+            "upper": "Unlimited",
+            "style": "red",
+            "radius_nm": 14
         }
     ]
 }
