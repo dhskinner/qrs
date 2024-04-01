@@ -19,7 +19,7 @@
             ],
             "lower": "Surface",
             "upper": "20,000ft",
-            "style": "red",
+            "style": "lime",
             "radius_nm": 3
         },
         {
@@ -34,7 +34,7 @@
             "radius_nm": 127
         },
         {
-            "name": "Menindee",
+            "name": "VRA Menindee",
             "position": [
                 -32.773821378158694,
                 142.69809587847007
@@ -43,6 +43,28 @@
             "upper": "Unlimited",
             "style": "red",
             "radius_nm": 14
+        },
+        {
+            "name": "VRA Drouin",
+            "position": [
+                -38.2089,
+                145.835
+            ],
+            "lower": "Surface",
+            "upper": "23,500ft",
+            "style": "red",
+            "radius_nm": 3
+        },
+        {
+            "name": "Tuckerang (TBC)",
+            "position": [
+                -26.759982879699564,
+                150.94620685354147
+            ],
+            "lower": "Surface",
+            "upper": "23,500ft",
+            "style": "lime",
+            "radius_nm": 7
         }
     ]
 }
