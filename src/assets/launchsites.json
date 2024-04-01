@@ -56,10 +56,10 @@
             "radius_nm": 3
         },
         {
-            "name": "QRS Tuckerang (TBC)",
+            "name": "Don Dee (TBC)",
             "position": [
-                -26.759982879699564,
-                150.94620685354147
+                -26.75559177171247,
+                150.75309412441635
             ],
             "lower": "Surface",
             "upper": "23,500ft",
@@ -86,7 +86,7 @@
             "lower": "Surface",
             "upper": "Unlimited",
             "style": "red",
-            "radius_nm": 20
+            "radius_nm": 50
         },
         {
             "name": "UNSW Caradoc",
@@ -108,7 +108,7 @@
             "lower": "Surface",
             "upper": "Unlimited",
             "style": "red",
-            "radius_nm": 20
+            "radius_nm": 50
         }
     ]
 }
