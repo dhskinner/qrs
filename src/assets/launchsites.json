@@ -12,7 +12,7 @@
             "radius_nm": 7
         },
         {
-            "name": "QRS Cooyar (TBC)",
+            "name": "Cooyar Creek (TBC)",
             "position": [
                 -26.94561969093275,
                 151.68468456155574
@@ -104,6 +104,17 @@
             "position": [
                 -12.39,
                 136.79
+            ],
+            "lower": "Surface",
+            "upper": "Unlimited",
+            "style": "red",
+            "radius_nm": 50
+        },
+        {
+            "name": "Bowen Orbital Spaceport",
+            "position": [
+                -19.95756230234088,
+                148.11278345396337
             ],
             "lower": "Surface",
             "upper": "Unlimited",
