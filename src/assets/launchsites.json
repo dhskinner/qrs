@@ -65,6 +65,39 @@
             "upper": "23,500ft",
             "style": "lime",
             "radius_nm": 7
+        },
+        {
+            "name": "SA Rocketry Stonefield",
+            "position": [
+                -34.340,
+                139.302
+            ],
+            "lower": "Surface",
+            "upper": "8,500ft",
+            "style": "red",
+            "radius_nm": 1
+        },
+        {
+            "name": "Southern Launch",
+            "position": [
+                -34.9339,
+                135.6422
+            ],
+            "lower": "Surface",
+            "upper": "Unlimited",
+            "style": "red",
+            "radius_nm": 20
+        },
+        {
+            "name": "Caradoc",
+            "position": [
+                -30.577391592213782,
+                143.1675763479353
+            ],
+            "lower": "Surface",
+            "upper": "35,000ft",
+            "style": "red",
+            "radius_nm": 7
         }
     ]
 }
