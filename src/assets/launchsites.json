@@ -12,7 +12,7 @@
             "radius_nm": 7
         },
         {
-            "name": "Cooyar",
+            "name": "QRS Cooyar (TBC)",
             "position": [
                 -26.94561969093275,
                 151.68468456155574
@@ -56,7 +56,7 @@
             "radius_nm": 3
         },
         {
-            "name": "Tuckerang (TBC)",
+            "name": "QRS Tuckerang (TBC)",
             "position": [
                 -26.759982879699564,
                 150.94620685354147
@@ -89,7 +89,7 @@
             "radius_nm": 20
         },
         {
-            "name": "Caradoc",
+            "name": "UNSW Caradoc",
             "position": [
                 -30.577391592213782,
                 143.1675763479353
@@ -98,6 +98,17 @@
             "upper": "35,000ft",
             "style": "red",
             "radius_nm": 7
+        },
+        {
+            "name": "Arnhem Space Centre",
+            "position": [
+                -12.39,
+                136.79
+            ],
+            "lower": "Surface",
+            "upper": "Unlimited",
+            "style": "red",
+            "radius_nm": 20
         }
     ]
 }
