@@ -56,17 +56,6 @@
             "radius_nm": 3
         },
         {
-            "name": "Stanbroke (TBC)",
-            "position": [
-                -26.818103531006358,
-                150.37623035497367
-            ],
-            "lower": "Surface",
-            "upper": "50,000ft",
-            "style": "lime",
-            "radius_nm": 7
-        },
-        {
             "name": "SA Rocketry Stonefield",
             "position": [
                 -34.340,
@@ -120,6 +109,50 @@
             "upper": "Unlimited",
             "style": "red",
             "radius_nm": 50
+        },
+        {
+            "name": "Stanbroke (TBC)",
+            "position": [
+                -26.818103531006358,
+                150.37623035497367
+            ],
+            "lower": "Surface",
+            "upper": "50,000ft",
+            "style": "lime",
+            "radius_nm": 7
+        },
+        {
+            "name": "Stanbroke (TBC)",
+            "position": [
+                -26.818103531006358,
+                150.37623035497367
+            ],
+            "lower": "Surface",
+            "upper": "50,000ft",
+            "style": "lime_buffer",
+            "radius_nm": 5
+        },
+        {
+            "name": "Stanbroke (TBC)",
+            "position": [
+                -26.818103531006358,
+                150.37623035497367
+            ],
+            "lower": "Surface",
+            "upper": "50,000ft",
+            "style": "lime_buffer",
+            "radius_nm": 3
+        },
+        {
+            "name": "Stanbroke (TBC)",
+            "position": [
+                -26.818103531006358,
+                150.37623035497367
+            ],
+            "lower": "Surface",
+            "upper": "50,000ft",
+            "style": "lime_buffer",
+            "radius_nm": 1
         }
     ]
 }

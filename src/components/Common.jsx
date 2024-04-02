@@ -20,6 +20,13 @@ const StyleBuffer = {
   fill: false,
   dashArray: "2 8",
 };
+const LimeBuffer = {
+  color: "lime",
+  weight: 2,
+  opacity: 0.86,
+  fill: false,
+  dashArray: "2 6",
+};
 
 export function GetStyle(name) {
   switch (name) {
@@ -29,6 +36,8 @@ export function GetStyle(name) {
       return StyleBlack;
     case "lime":
       return StyleLime;
+    case "lime_buffer":
+      return LimeBuffer;
     case "purple":
       return StylePurple;
     case "red":

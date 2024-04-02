@@ -3,6 +3,7 @@ import { MapContainer, TileLayer, LayersControl } from "react-leaflet";
 import Airspace from "./components/Airspace.jsx";
 import Aerodromes from "./components/Aerodromes.jsx";
 import LaunchSites from "./components/LaunchSites.jsx";
+import Features from "./components/Features.jsx";
 
 function App() {
   return (
@@ -56,6 +57,7 @@ function App() {
         <Airspace />
         <Aerodromes />
         <LaunchSites />
+        <Features />
       </MapContainer>
     </>
   );

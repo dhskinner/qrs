@@ -1,0 +1,116 @@
+{
+    "features": [
+        {
+            "name": "Feedlot",
+            "position": [
+                -26.816654514187476,
+                150.41551092174407
+            ],
+            "style": "red"
+        },
+        {
+            "name": "QGC Compressor Station",
+            "position": [
+                -26.888704920761608,
+                150.54300308403182
+            ],
+            "style": "red"
+        },
+        {
+            "name": "QGC Compressor Station",
+            "position": [
+                -26.876131068377116,
+                150.34804256163713
+            ],
+            "style": "red"
+        },
+        {
+            "name": "QGC Compressor Station",
+            "position": [
+                -26.882554511891364,
+                150.3530357861322
+            ],
+            "style": "red"
+        },
+        {
+            "name": "QGC Compressor Station",
+            "position": [
+                -26.87688271464403,
+                150.31910636645716
+            ],
+            "style": "red"
+        },
+        {
+            "name": "QGC Compressor Station",
+            "position": [
+                -26.865617650257054,
+                150.31444325919864
+            ],
+            "style": "red"
+        },
+        {
+            "name": "QGC Pond",
+            "position": [
+                -26.856923904777954,
+                150.3165807639079
+            ],
+            "style": "red"
+        },
+        {
+            "name": "QGC Compressor Station",
+            "position": [
+                -26.693275137540255,
+                150.27638520137742
+            ],
+            "style": "red"
+        },
+        {
+            "name": "QGC Compressor Station",
+            "position": [
+                -26.708455803108038,
+                150.3621056324516
+            ],
+            "style": "red"
+        },
+        {
+            "name": "Cameby Downs Mine",
+            "position": [
+                -26.693275137540255,
+                150.27638520137742
+            ],
+            "style": "red"
+        },
+        {
+            "name": "Chinchilla Solar Farm",
+            "position": [
+                -26.72112051895945,
+                150.5536495085846
+            ],
+            "style": "red"
+        },
+        {
+            "name": "Large Solar Farm",
+            "position": [
+                -26.692578833994702,
+                150.5030561064639
+            ],
+            "style": "red"
+        },
+        {
+            "name": "QGC Compressor Station",
+            "position": [
+                -26.866418725281452,
+                150.47209860498765
+            ],
+            "style": "red"
+        },
+        {
+            "name": "Feedlot",
+            "position": [
+                -26.893364526225245,
+                150.4426365366717
+            ],
+            "style": "red"
+        }
+    ]
+}
