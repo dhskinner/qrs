@@ -153,6 +153,17 @@
             "upper": "50,000ft",
             "style": "lime_buffer",
             "radius_nm": 1
+        },
+        {
+            "name": "Cedar Grove",
+            "position": [
+                -27.851348048191458,
+                152.96235048762955
+            ],
+            "lower": "Surface",
+            "upper": "5000ft",
+            "style": "red",
+            "radius_nm": 1
         }
     ]
 }

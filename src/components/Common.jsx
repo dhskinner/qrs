@@ -1,3 +1,5 @@
+import LatLon from "geodesy/latlon-ellipsoidal-vincenty.js";
+
 const StyleBlue = { fillColor: "blue" };
 const StyleBlack = { color: "black" };
 const StyleLime = { color: "lime" };
@@ -27,6 +29,11 @@ const LimeBuffer = {
   fill: false,
   dashArray: "2 6",
 };
+
+export function PositionLabel(latlon) {
+  const p1 = new LatLon(latlon[0], latlon[1]);
+  return p1.toString("dm");
+}
 
 export function GetStyle(name) {
   switch (name) {

@@ -1,6 +1,6 @@
 import { Circle, Popup, Tooltip } from "react-leaflet";
 import data from "../assets/features.json";
-import { GetStyle } from "./Common.jsx";
+import { GetStyle, PositionLabel } from "./Common.jsx";
 
 function Features() {
   return (
@@ -24,7 +24,7 @@ function Features() {
                 </tr>
                 <tr>
                   <td>Position:</td>
-                  <td>{item.position}</td>
+                  <td>{PositionLabel(item.position)}</td>
                 </tr>
               </tbody>
             </table>
