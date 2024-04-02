@@ -111,6 +111,46 @@
                 150.4426365366717
             ],
             "style": "purple"
+        },
+        {
+            "name": "Feedlot",
+            "position": [
+                -26.743522614989942,
+                150.21912086538825
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Feedlot",
+            "position": [
+                -26.806035611110005,
+                150.23269074054608
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "QGC Compressor Station",
+            "position": [
+                -26.88943465651522,
+                150.351821676407
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Feedlot",
+            "position": [
+                -26.843611812451957,
+                150.23644528542624
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "QGC Compressor Station",
+            "position": [
+                -26.879253942687598,
+                150.2963785145625
+            ],
+            "style": "purple"
         }
     ]
 }

@@ -12,7 +12,7 @@ function Features() {
           pathOptions={GetStyle(item.style)}
           radius={200}
         >
-          <Tooltip permanent={false} opacity={0.6} offset={[7, 0]}>
+          <Tooltip permanent={false} opacity={1.0} offset={[7, 0]}>
             {item.name}
           </Tooltip>
           <Popup>
