@@ -1,6 +1,6 @@
-import { CircleMarker, Tooltip } from "react-leaflet";
+import { Circle, Tooltip } from "react-leaflet";
 import aerodromes from "../assets/aerodromes.json";
-import { DecimalLatLon, GetStyle } from "./Common.jsx";
+import { DecimalLatLon, GetStyle, NmToMetres } from "./Common.jsx";
 import LatLon from "geodesy/latlon-ellipsoidal-vincenty.js";
 
 function positionLabel(coordinates) {
@@ -13,11 +13,11 @@ function Aerodromes() {
   return (
     <>
       {aerodromes.map((item, i) => (
-        <CircleMarker
+        <Circle
           key={"cm" + i}
           center={DecimalLatLon(item.coordinates)}
           pathOptions={GetStyle("blue")}
-          radius={5}
+          radius={NmToMetres(item.radius)}
         >
           <Tooltip opacity={1.0} offset={[7, 0]}>
             <table>
@@ -47,7 +47,7 @@ function Aerodromes() {
               </tbody>
             </table>
           </Tooltip>
-        </CircleMarker>
+        </Circle>
       ))}
     </>
   );

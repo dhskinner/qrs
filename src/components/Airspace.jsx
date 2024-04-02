@@ -76,7 +76,7 @@ function Airspace() {
   return (
     <>
       {airspace.features.map((item, i) => {
-        console.log("style: ", item.properties.style);
+        //console.log("style: ", item.properties.style);
         return (
           <GeoJSON
             key={"airspace" + i}

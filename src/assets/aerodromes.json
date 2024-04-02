@@ -668,7 +668,7 @@
             "264610S",
             "1503700E"
         ],
-        "radius": 1
+        "radius": 3
     },
     {
         "type": "Certified Aerodrome",
@@ -2230,7 +2230,7 @@
             "264822S",
             "1501011E"
         ],
-        "radius": 1
+        "radius": 3
     },
     {
         "type": "Certified Aerodrome",
