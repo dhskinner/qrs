@@ -56,13 +56,13 @@
             "radius_nm": 3
         },
         {
-            "name": "Don Dee (TBC)",
+            "name": "Stanbroke (TBC)",
             "position": [
-                -26.75559177171247,
-                150.75309412441635
+                -26.811605472366104,
+                150.4151695278456
             ],
             "lower": "Surface",
-            "upper": "23,500ft",
+            "upper": "50,000ft",
             "style": "lime",
             "radius_nm": 7
         },
