@@ -1,4 +1,4 @@
-import { CircleMarker, Popup, Tooltip } from "react-leaflet";
+import { Circle, Popup, Tooltip } from "react-leaflet";
 import data from "../assets/features.json";
 import { GetStyle } from "./Common.jsx";
 
@@ -6,13 +6,13 @@ function Features() {
   return (
     <>
       {data.features.map((item, i) => (
-        <CircleMarker
+        <Circle
           key={"cm" + i}
           center={item.position}
           pathOptions={GetStyle(item.style)}
-          radius={10}
+          radius={200}
         >
-          <Tooltip permanent={true} opacity={0.6} offset={[7, 0]}>
+          <Tooltip permanent={false} opacity={0.6} offset={[7, 0]}>
             {item.name}
           </Tooltip>
           <Popup>
@@ -29,7 +29,7 @@ function Features() {
               </tbody>
             </table>
           </Popup>
-        </CircleMarker>
+        </Circle>
       ))}
     </>
   );
