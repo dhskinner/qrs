@@ -164,6 +164,17 @@
             "upper": "5000ft",
             "style": "red",
             "radius_nm": 1
+        },
+        {
+            "name": "VRA Serpentine",
+            "position": [
+                -36.50048124807004,
+                144.01698106940856
+            ],
+            "lower": "Surface",
+            "upper": "23,500ft",
+            "style": "red",
+            "radius_nm": 3
         }
     ]
 }
