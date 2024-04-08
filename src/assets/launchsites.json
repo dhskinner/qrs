@@ -133,10 +133,10 @@
             "radius_nm": 3
         },
         {
-            "name": "St George (TBC)",
+            "name": "Enarra (TBC)",
             "position": [
-                -27.92117,
-                148.7746
+                -27.765631557802376,
+                149.7601152531197
             ],
             "lower_feet": 0,
             "upper_feet": 65000,
