@@ -151,6 +151,446 @@
                 150.2963785145625
             ],
             "style": "purple"
+        },
+        {
+            "name": "Fishfarm",
+            "position": [
+                -26.866735726075365,
+                150.37759780883792
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Airstrip",
+            "position": [
+                -27.78928581611934,
+                148.7318587303162
+            ],
+            "style": "blue"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.791459338685303,
+                148.7567871809006
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Dam",
+            "position": [
+                -27.907589314668357,
+                148.64570617675784
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Quarry",
+            "position": [
+                -27.87728343949266,
+                148.7135982513428
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Feedlot",
+            "position": [
+                -27.776319709035178,
+                148.71641993522647
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.76846905260058,
+                148.71475696563724
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Shed",
+            "position": [
+                -27.771330051194674,
+                148.76943379640582
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.776148957883876,
+                148.67477599472312
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Shed",
+            "position": [
+                -27.83991381183013,
+                148.69828994274283
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.997746097132325,
+                148.74512322441566
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Quarry",
+            "position": [
+                -27.92964071799445,
+                148.83769673124237
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Shed",
+            "position": [
+                -27.88740494444173,
+                148.74004083660887
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.853930034426494,
+                148.77980083592723
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.98944140010142,
+                148.85525964551363
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Qld Cotton",
+            "position": [
+                -28.00093183136009,
+                148.69029911605463
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Houses",
+            "position": [
+                -27.964067535609484,
+                148.687959567785
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Houses",
+            "position": [
+                -27.968333272470666,
+                148.68328088185865
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Houses",
+            "position": [
+                -27.973072782313658,
+                148.67836611544982
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Houses",
+            "position": [
+                -27.978008542117607,
+                148.67390525343907
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.97647765365829,
+                148.69717932778545
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Houses",
+            "position": [
+                -27.98582630518422,
+                148.65950368618655
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Houses",
+            "position": [
+                -27.990887273212966,
+                148.6531295131585
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Cottage",
+            "position": [
+                -27.944391095893458,
+                148.82809219475376
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.96391614124976,
+                148.75112179611526
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.98423587472539,
+                148.76129543131302
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Solar Farm",
+            "position": [
+                -27.98472143588603,
+                148.75131219335725
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Shed",
+            "position": [
+                -27.858085410316153,
+                148.7873393935757
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Pump",
+            "position": [
+                -27.975084414405785,
+                148.70358037614912
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Shed",
+            "position": [
+                -27.915557895346442,
+                148.6885940942757
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Radio tower",
+            "position": [
+                -27.8437187496177,
+                148.74287248909823
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Shed",
+            "position": [
+                -27.96895260819818,
+                148.69199612186193
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.95708360625233,
+                148.68615962337688
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Shed",
+            "position": [
+                -27.904925089533762,
+                148.87482939197008
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Shed",
+            "position": [
+                -27.98863663695367,
+                148.85857123660332
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -28.005797419470454,
+                148.74184793551967
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.98288576634792,
+                148.70955413808278
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Shed",
+            "position": [
+                -27.976248672021626,
+                148.66084439928107
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.920710377057137,
+                148.65381455585222
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.910646929910467,
+                148.6564587738612
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Shed",
+            "position": [
+                -27.90937174894358,
+                148.63622179175803
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Accomodation",
+            "position": [
+                -27.90754664965824,
+                148.6513595915798
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -28.020725029665954,
+                148.7422277151346
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Airstrip",
+            "position": [
+                -28.00561744200495,
+                148.68605566707362
+            ],
+            "style": "blue"
+        },
+        {
+            "name": "Radio tower",
+            "position": [
+                -27.99747551539197,
+                148.6758646019973
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Shed",
+            "position": [
+                -28.000307971513603,
+                148.67722868159692
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Rifle Range",
+            "position": [
+                -27.98501277153286,
+                148.6698454826126
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Shed",
+            "position": [
+                -27.981090332881088,
+                148.68475267535405
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Shed",
+            "position": [
+                -27.894258050667087,
+                148.6359825975217
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.884965017758713,
+                148.64243805620498
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.876448864845397,
+                148.64340529164787
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.797035316816498,
+                148.7126448867621
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.982066218631957,
+                148.6549691361806
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -27.9856854459543,
+                148.64934176890574
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Shed",
+            "position": [
+                -27.869840798242866,
+                148.64364048922198
+            ],
+            "style": "gray"
         }
     ]
 }

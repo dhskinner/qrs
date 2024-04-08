@@ -1,0 +1,180 @@
+{
+    "sites": [
+        {
+            "name": "Funny Farm",
+            "position": [
+                -28.128068372234132,
+                149.70164524232723
+            ],
+            "lower": "Surface",
+            "upper": "45,000ft",
+            "style": "red",
+            "radius_nm": 7
+        },
+        {
+            "name": "Cooyar Creek (TBC)",
+            "position": [
+                -26.94561969093275,
+                151.68468456155574
+            ],
+            "lower": "Surface",
+            "upper": "20,000ft",
+            "style": "lime",
+            "radius_nm": 3
+        },
+        {
+            "name": "Brisbane ATC",
+            "position": [
+                -27.36206860038552,
+                153.13902055629148
+            ],
+            "lower": "",
+            "upper": "",
+            "style": "buffer",
+            "radius_nm": 127
+        },
+        {
+            "name": "VRA Menindee",
+            "position": [
+                -32.773821378158694,
+                142.69809587847007
+            ],
+            "lower": "Surface",
+            "upper": "Unlimited",
+            "style": "red",
+            "radius_nm": 14
+        },
+        {
+            "name": "VRA Drouin",
+            "position": [
+                -38.2089,
+                145.835
+            ],
+            "lower": "Surface",
+            "upper": "23,500ft",
+            "style": "red",
+            "radius_nm": 3
+        },
+        {
+            "name": "SA Rocketry Stonefield",
+            "position": [
+                -34.340,
+                139.302
+            ],
+            "lower": "Surface",
+            "upper": "8,500ft",
+            "style": "red",
+            "radius_nm": 1
+        },
+        {
+            "name": "Southern Launch",
+            "position": [
+                -34.9339,
+                135.6422
+            ],
+            "lower": "Surface",
+            "upper": "Unlimited",
+            "style": "red",
+            "radius_nm": 50
+        },
+        {
+            "name": "UNSW Caradoc",
+            "position": [
+                -30.577391592213782,
+                143.1675763479353
+            ],
+            "lower": "Surface",
+            "upper": "35,000ft",
+            "style": "red",
+            "radius_nm": 7
+        },
+        {
+            "name": "Arnhem Space Centre",
+            "position": [
+                -12.39,
+                136.79
+            ],
+            "lower": "Surface",
+            "upper": "Unlimited",
+            "style": "red",
+            "radius_nm": 50
+        },
+        {
+            "name": "Bowen Orbital Spaceport",
+            "position": [
+                -19.95756230234088,
+                148.11278345396337
+            ],
+            "lower": "Surface",
+            "upper": "Unlimited",
+            "style": "red",
+            "radius_nm": 50
+        },
+        {
+            "name": "Stanbroke (TBC)",
+            "position": [
+                -26.818103531006358,
+                150.37623035497367
+            ],
+            "lower": "Surface",
+            "upper": "50,000ft",
+            "style": "lime",
+            "radius_nm": 7
+        },
+        {
+            "name": "Stanbroke (TBC)",
+            "position": [
+                -26.818103531006358,
+                150.37623035497367
+            ],
+            "lower": "Surface",
+            "upper": "50,000ft",
+            "style": "lime_buffer",
+            "radius_nm": 5
+        },
+        {
+            "name": "Stanbroke (TBC)",
+            "position": [
+                -26.818103531006358,
+                150.37623035497367
+            ],
+            "lower": "Surface",
+            "upper": "50,000ft",
+            "style": "lime_buffer",
+            "radius_nm": 3
+        },
+        {
+            "name": "Stanbroke (TBC)",
+            "position": [
+                -26.818103531006358,
+                150.37623035497367
+            ],
+            "lower": "Surface",
+            "upper": "50,000ft",
+            "style": "lime_buffer",
+            "radius_nm": 1
+        },
+        {
+            "name": "Cedar Grove",
+            "position": [
+                -27.851348048191458,
+                152.96235048762955
+            ],
+            "lower": "Surface",
+            "upper": "5000ft",
+            "style": "red",
+            "radius_nm": 1
+        },
+        {
+            "name": "VRA Serpentine",
+            "position": [
+                -36.50048124807004,
+                144.01698106940856
+            ],
+            "lower": "Surface",
+            "upper": "23,500ft",
+            "style": "red",
+            "radius_nm": 3
+        }
+    ]
+}

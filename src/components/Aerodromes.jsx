@@ -16,7 +16,7 @@ function Aerodromes() {
         <Circle
           key={"cm" + i}
           center={DecimalLatLon(item.coordinates)}
-          pathOptions={GetStyle("blue")}
+          pathOptions={item?.style ? GetStyle(item.style) : GetStyle("blue")}
           radius={NmToMetres(item.radius)}
         >
           <Tooltip opacity={1.0} offset={[7, 0]}>

@@ -6,32 +6,10 @@
                 -28.128068372234132,
                 149.70164524232723
             ],
-            "lower": "Surface",
-            "upper": "45,000ft",
+            "lower_feet": 0,
+            "upper_feet": 45000,
             "style": "red",
             "radius_nm": 7
-        },
-        {
-            "name": "Cooyar Creek (TBC)",
-            "position": [
-                -26.94561969093275,
-                151.68468456155574
-            ],
-            "lower": "Surface",
-            "upper": "20,000ft",
-            "style": "lime",
-            "radius_nm": 3
-        },
-        {
-            "name": "Brisbane ATC",
-            "position": [
-                -27.36206860038552,
-                153.13902055629148
-            ],
-            "lower": "",
-            "upper": "",
-            "style": "buffer",
-            "radius_nm": 127
         },
         {
             "name": "VRA Menindee",
@@ -39,8 +17,8 @@
                 -32.773821378158694,
                 142.69809587847007
             ],
-            "lower": "Surface",
-            "upper": "Unlimited",
+            "lower_feet": 0,
+            "upper_feet": 200000,
             "style": "red",
             "radius_nm": 14
         },
@@ -50,8 +28,8 @@
                 -38.2089,
                 145.835
             ],
-            "lower": "Surface",
-            "upper": "23,500ft",
+            "lower_feet": 0,
+            "upper_feet": 23500,
             "style": "red",
             "radius_nm": 3
         },
@@ -61,8 +39,8 @@
                 -34.340,
                 139.302
             ],
-            "lower": "Surface",
-            "upper": "8,500ft",
+            "lower_feet": 0,
+            "upper_feet": 8500,
             "style": "red",
             "radius_nm": 1
         },
@@ -72,8 +50,8 @@
                 -34.9339,
                 135.6422
             ],
-            "lower": "Surface",
-            "upper": "Unlimited",
+            "lower_feet": 0,
+            "upper_feet": 200000,
             "style": "red",
             "radius_nm": 50
         },
@@ -83,8 +61,8 @@
                 -30.577391592213782,
                 143.1675763479353
             ],
-            "lower": "Surface",
-            "upper": "35,000ft",
+            "lower_feet": 0,
+            "upper_feet": 35000,
             "style": "red",
             "radius_nm": 7
         },
@@ -94,8 +72,8 @@
                 -12.39,
                 136.79
             ],
-            "lower": "Surface",
-            "upper": "Unlimited",
+            "lower_feet": 0,
+            "upper_feet": 200000,
             "style": "red",
             "radius_nm": 50
         },
@@ -105,54 +83,10 @@
                 -19.95756230234088,
                 148.11278345396337
             ],
-            "lower": "Surface",
-            "upper": "Unlimited",
+            "lower_feet": 0,
+            "upper_feet": 200000,
             "style": "red",
             "radius_nm": 50
-        },
-        {
-            "name": "Stanbroke (TBC)",
-            "position": [
-                -26.818103531006358,
-                150.37623035497367
-            ],
-            "lower": "Surface",
-            "upper": "50,000ft",
-            "style": "lime",
-            "radius_nm": 7
-        },
-        {
-            "name": "Stanbroke (TBC)",
-            "position": [
-                -26.818103531006358,
-                150.37623035497367
-            ],
-            "lower": "Surface",
-            "upper": "50,000ft",
-            "style": "lime_buffer",
-            "radius_nm": 5
-        },
-        {
-            "name": "Stanbroke (TBC)",
-            "position": [
-                -26.818103531006358,
-                150.37623035497367
-            ],
-            "lower": "Surface",
-            "upper": "50,000ft",
-            "style": "lime_buffer",
-            "radius_nm": 3
-        },
-        {
-            "name": "Stanbroke (TBC)",
-            "position": [
-                -26.818103531006358,
-                150.37623035497367
-            ],
-            "lower": "Surface",
-            "upper": "50,000ft",
-            "style": "lime_buffer",
-            "radius_nm": 1
         },
         {
             "name": "Cedar Grove",
@@ -160,8 +94,8 @@
                 -27.851348048191458,
                 152.96235048762955
             ],
-            "lower": "Surface",
-            "upper": "5000ft",
+            "lower_feet": 0,
+            "upper_feet": 5000,
             "style": "red",
             "radius_nm": 1
         },
@@ -171,10 +105,45 @@
                 -36.50048124807004,
                 144.01698106940856
             ],
-            "lower": "Surface",
-            "upper": "23,500ft",
+            "lower_feet": 0,
+            "upper_feet": 23500,
             "style": "red",
             "radius_nm": 3
+        },
+        {
+            "name": "Chinchilla (TBC)",
+            "position": [
+                -26.818103531006358,
+                150.37623035497367
+            ],
+            "lower_feet": 0,
+            "upper_feet": 50000,
+            "style": "tbc",
+            "radius_nm": 7
+        },
+        {
+            "name": "Cooyar Creek (TBC)",
+            "position": [
+                -26.94561969093275,
+                151.68468456155574
+            ],
+            "lower_feet": 0,
+            "upper_feet": 20000,
+            "style": "tbc",
+            "radius_nm": 3
+        },
+        {
+            "name": "St George (TBC)",
+            "position": [
+                -27.92117,
+                148.7746
+            ],
+            "lower_feet": 0,
+            "upper_feet": 65000,
+            "ground_ring": true,
+            "style": "tbc",
+            "radius_nm": 10,
+            "concentric_rings_km_not_used": 2
         }
     ]
 }

@@ -4,6 +4,7 @@ import Airspace from "./components/Airspace.jsx";
 import Aerodromes from "./components/Aerodromes.jsx";
 import LaunchSites from "./components/LaunchSites.jsx";
 import Features from "./components/Features.jsx";
+import Coords from "./components/Coords.jsx";
 
 function App() {
   return (
@@ -58,6 +59,9 @@ function App() {
         <Aerodromes />
         <LaunchSites />
         <Features />
+        <div className="leaflet-bottom leaflet-right">
+          <Coords />
+        </div>
       </MapContainer>
     </>
   );

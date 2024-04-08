@@ -668,7 +668,7 @@
             "264610S",
             "1503700E"
         ],
-        "radius": 3
+        "radius": 1
     },
     {
         "type": "Certified Aerodrome",
@@ -8567,5 +8567,17 @@
             "1451907E"
         ],
         "radius": 1
+    },
+    {
+        "type": "Brisbane ATC Buffer Radius (7nm)",
+        "name": "Brisbane ATC",
+        "state": "QLD",
+        "icao": "YBBN",
+        "coordinates": [
+            "272303S",
+            "1530703E"
+        ],
+        "radius": 127,
+        "style": "airspace_buffer"
     }
 ]
