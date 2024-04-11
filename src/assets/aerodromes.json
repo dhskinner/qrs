@@ -1,5 +1,17 @@
 [
     {
+        "type": "Brisbane ATC Buffer Radius (7nm)",
+        "name": "Brisbane ATC",
+        "state": "QLD",
+        "icao": "YBBN",
+        "coordinates": [
+            "272303S",
+            "1530703E"
+        ],
+        "radius": 127,
+        "style": "airspace_buffer"
+    },
+    {
         "type": "Certified Aerodrome",
         "name": "ABRA MINE",
         "state": "WA",
@@ -2230,7 +2242,7 @@
             "264822S",
             "1501011E"
         ],
-        "radius": 3
+        "radius": 1
     },
     {
         "type": "Certified Aerodrome",
@@ -8569,15 +8581,6195 @@
         "radius": 1
     },
     {
-        "type": "Brisbane ATC Buffer Radius (7nm)",
-        "name": "Brisbane ATC",
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ABBIEGLASSIE",
         "state": "QLD",
-        "icao": "YBBN",
+        "icao": "YABG",
         "coordinates": [
-            "272303S",
-            "1530703E"
+            "271500S",
+            "1473500E"
         ],
-        "radius": 127,
-        "style": "airspace_buffer"
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ABERDEEN",
+        "state": "QLD",
+        "icao": "YABD",
+        "coordinates": [
+            "280406S",
+            "1503827E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ABINGDON DOWNS",
+        "state": "QLD",
+        "icao": "YABI",
+        "coordinates": [
+            "173632S",
+            "1431100E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ADAVALE",
+        "state": "QLD",
+        "icao": "YADA",
+        "coordinates": [
+            "255338S",
+            "1443407E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "AGNES WATER",
+        "state": "QLD",
+        "icao": "YAWT",
+        "coordinates": [
+            "241206S",
+            "1515330E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "AILERON",
+        "state": "NT",
+        "icao": "YALR",
+        "coordinates": [
+            "223911S",
+            "1332050E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ALCOOTA STN",
+        "state": "NT",
+        "icao": "YALC",
+        "coordinates": [
+            "225000S",
+            "1342700E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ALDERLEY",
+        "state": "QLD",
+        "icao": "YALY",
+        "coordinates": [
+            "222939S",
+            "1393944E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ALLANDY",
+        "state": "NSW",
+        "icao": "YALN",
+        "coordinates": [
+            "302317S",
+            "1423730E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ALSTONVILLE SOUTH",
+        "state": "NSW",
+        "icao": "YAVS",
+        "coordinates": [
+            "285255S",
+            "1532606E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ALTON DOWNS",
+        "state": "SA",
+        "icao": "YADS",
+        "coordinates": [
+            "263200S",
+            "1391600E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "AMBALINDUM",
+        "state": "NT",
+        "icao": "YABL",
+        "coordinates": [
+            "232122S",
+            "1344407E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "AMMAROO",
+        "state": "NT",
+        "icao": "YAMM",
+        "coordinates": [
+            "214420S",
+            "1351450E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "AMPHITHEATRE",
+        "state": "VIC",
+        "icao": "YATR",
+        "coordinates": [
+            "370951S",
+            "1432736E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ANGATJA SA",
+        "state": "SA",
+        "icao": "YANJ",
+        "coordinates": [
+            "260600S",
+            "1302400E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ANMATJERE / GEMTREE CARAVAN PARK NT",
+        "state": "NT",
+        "icao": "YGTC",
+        "coordinates": [
+            "225812S",
+            "1341451E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ANMATJERE/PINE HILL STATION NT",
+        "state": "NT",
+        "icao": "YPHS",
+        "coordinates": [
+            "222313S",
+            "1330337E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ANNANDALE QLD",
+        "state": "QLD",
+        "icao": "YADE",
+        "coordinates": [
+            "215636S",
+            "1481702E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ANTHONY LAGOON NT",
+        "state": "NT",
+        "icao": "YANL",
+        "coordinates": [
+            "175832S",
+            "1353217E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "APOLLO BAY VIC",
+        "state": "VIC",
+        "icao": "YAPO",
+        "coordinates": [
+            "384622S",
+            "1433925E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ARCADIA QLD",
+        "state": "QLD",
+        "icao": "YACI",
+        "coordinates": [
+            "251242S",
+            "1484006E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ARCHER RIVER QLD",
+        "state": "QLD",
+        "icao": "YARC",
+        "coordinates": [
+            "132626S",
+            "1425538E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ARCTURUS DOWNS HS QLD",
+        "state": "QLD",
+        "icao": "YATU",
+        "coordinates": [
+            "240214S",
+            "1482432E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ARDLETHAN NSW",
+        "state": "NSW",
+        "icao": "YARL",
+        "coordinates": [
+            "342445S",
+            "1465113E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ARDMORE QLD",
+        "state": "QLD",
+        "icao": "YAOR",
+        "coordinates": [
+            "213855S",
+            "1391137E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "AREYONGA",
+        "state": "NT",
+        "icao": "YARN",
+        "coordinates": [
+            "240523S",
+            "1321605E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ARMRAYNALD",
+        "state": "QLD",
+        "icao": "YAML",
+        "coordinates": [
+            "175715S",
+            "1394547E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ASHFORD",
+        "state": "NSW",
+        "icao": "YASF",
+        "coordinates": [
+            "291900S",
+            "1510322E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "AUBURNVALE",
+        "state": "QLD",
+        "icao": "YMFA",
+        "coordinates": [
+            "275447S",
+            "1515712E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "AUGATHELLA",
+        "state": "QLD",
+        "icao": "YAUA",
+        "coordinates": [
+            "254518S",
+            "1463512E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "AVALON EAST",
+        "state": "VIC",
+        "icao": "YAVE",
+        "coordinates": [
+            "380142S",
+            "1442931E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "AVON DOWNS",
+        "state": "NT",
+        "icao": "YAVD",
+        "coordinates": [
+            "200221S",
+            "1373118E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BALAKLAVA",
+        "state": "SA",
+        "icao": "YBVA",
+        "coordinates": [
+            "340524S",
+            "1382024E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BALD HILLS",
+        "state": "NSW",
+        "icao": "YBLI",
+        "coordinates": [
+            "301950S",
+            "1522732E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BALMA",
+        "state": "NT",
+        "icao": "YLMA",
+        "coordinates": [
+            "131457S",
+            "1355053E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BAMBOO CREEK",
+        "state": "WA",
+        "icao": "YBBC",
+        "coordinates": [
+            "205700S",
+            "1200900E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BAN BAN SPRINGS",
+        "state": "NT",
+        "icao": "YBBS",
+        "coordinates": [
+            "132237S",
+            "1312943E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BANIYALA",
+        "state": "NT",
+        "icao": "YBNI",
+        "coordinates": [
+            "131201S",
+            "1361336E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BARKLY DOWNS",
+        "state": "QLD",
+        "icao": "YBAW",
+        "coordinates": [
+            "202945S",
+            "1382829E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BARRABA",
+        "state": "NSW",
+        "icao": "YBBA",
+        "coordinates": [
+            "302337S",
+            "1503552E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BARRARATJPI",
+        "state": "NT",
+        "icao": "YBJP",
+        "coordinates": [
+            "131306S",
+            "1362330E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BARRKIRA",
+        "state": "NT",
+        "icao": "YRIA",
+        "coordinates": [
+            "120031S",
+            "1362752E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BARTON SIDING",
+        "state": "SA",
+        "icao": "YBTN",
+        "coordinates": [
+            "303128S",
+            "1324029E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BARUNAH PARK/CRAIGWOOD",
+        "state": "VIC",
+        "icao": "YCGW",
+        "coordinates": [
+            "375936S",
+            "1435201E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BATHURST HARBOUR",
+        "state": "TAS",
+        "icao": "YBHB",
+        "coordinates": [
+            "432517S",
+            "1460944E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BEECHWORTH",
+        "state": "VIC",
+        "icao": "YBCH",
+        "coordinates": [
+            "362340S",
+            "1464148E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BEEF MACHINE",
+        "state": "WA",
+        "icao": "YBFM",
+        "coordinates": [
+            "334512S",
+            "1222144E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BELYANDO/LABONA",
+        "state": "QLD",
+        "icao": "YLBA",
+        "coordinates": [
+            "220016S",
+            "1462150E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BELYANDO/MORAY DOWNS",
+        "state": "QLD",
+        "icao": "YAMO",
+        "coordinates": [
+            "215637S",
+            "1463800E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BENAMBRA",
+        "state": "VIC",
+        "icao": "YBRA",
+        "coordinates": [
+            "365815S",
+            "1474204E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BENDICK MURRELL",
+        "state": "NSW",
+        "icao": "YBND",
+        "coordinates": [
+            "341027S",
+            "1482819E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BENING FIELD",
+        "state": "QLD",
+        "icao": "YBEG",
+        "coordinates": [
+            "193919S",
+            "1461738E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BESWICK",
+        "state": "NT",
+        "icao": "YBES",
+        "coordinates": [
+            "143536S",
+            "1330630E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BEULAH",
+        "state": "VIC",
+        "icao": "YBEU",
+        "coordinates": [
+            "355908S",
+            "1422414E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BIGGENDEN",
+        "state": "QLD",
+        "icao": "YBIN",
+        "coordinates": [
+            "253117S",
+            "1520246E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BILLA KALINA",
+        "state": "SA",
+        "icao": "YBIK",
+        "coordinates": [
+            "295500S",
+            "1361112E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BILLABONG STN",
+        "state": "NSW",
+        "icao": "YBST",
+        "coordinates": [
+            "334333S",
+            "1473026E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BINDOON",
+        "state": "WA",
+        "icao": "YBOO",
+        "coordinates": [
+            "311632S",
+            "1161545E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BINGIL BAY AIRFIELD",
+        "state": "QLD",
+        "icao": "YBBY",
+        "coordinates": [
+            "174807S",
+            "1460345E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BLANCHETOWN",
+        "state": "SA",
+        "icao": "YBCN",
+        "coordinates": [
+            "341521S",
+            "1393558E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BLENHEIM",
+        "state": "QLD",
+        "icao": "YBHN",
+        "coordinates": [
+            "273913S",
+            "1521830E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BLOOMFIELD",
+        "state": "QLD",
+        "icao": "YBMD",
+        "coordinates": [
+            "155224S",
+            "1451944E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BLUE LAGOON",
+        "state": "QLD",
+        "icao": "YBWH",
+        "coordinates": [
+            "134539S",
+            "1415102E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BOATMAN",
+        "state": "QLD",
+        "icao": "YBOT",
+        "coordinates": [
+            "271611S",
+            "1465359E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BOLLARDS LAGOON SA",
+        "state": "SA",
+        "icao": "YBLG",
+        "coordinates": [
+            "285855S",
+            "1405129E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BOLWARRA QLD",
+        "state": "QLD",
+        "icao": "YBWR",
+        "coordinates": [
+            "172312S",
+            "1441018E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BON BON SA",
+        "state": "SA",
+        "icao": "YBBO",
+        "coordinates": [
+            "302424S",
+            "1352848E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BOND SPRINGS NT",
+        "state": "NT",
+        "icao": "YBSP",
+        "coordinates": [
+            "233059S",
+            "1335057E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BOORABIN WA",
+        "state": "WA",
+        "icao": "YBOB",
+        "coordinates": [
+            "311225S",
+            "1201908E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BOOTU CREEK NT",
+        "state": "NT",
+        "icao": "YBTU",
+        "coordinates": [
+            "184241S",
+            "1340444E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BORDER VILLAGE SA",
+        "state": "SA",
+        "icao": "YBOV",
+        "coordinates": [
+            "313811S",
+            "1290039E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BRACADALE STATION SA",
+        "state": "SA",
+        "icao": "YBDL",
+        "coordinates": [
+            "362052S",
+            "1400500E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BRAIDWOOD/PERCHERON NSW",
+        "state": "NSW",
+        "icao": "YPER",
+        "coordinates": [
+            "352037S",
+            "1495459E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BRAMPTON ISLAND QLD",
+        "state": "QLD",
+        "icao": "YBPI",
+        "coordinates": [
+            "204812S",
+            "1491612E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BRAMWELL STATION QLD",
+        "state": "QLD",
+        "icao": "YBWL",
+        "coordinates": [
+            "120822S",
+            "1423652E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BRENDLE DOWNS STATION QLD",
+        "state": "QLD",
+        "icao": "YTBH",
+        "coordinates": [
+            "283041S",
+            "1495634E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BREWON NSW",
+        "state": "NSW",
+        "icao": "YEWO",
+        "coordinates": [
+            "301431S",
+            "1473150E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BRIDPORT TAS",
+        "state": "TAS",
+        "icao": "YBDP",
+        "coordinates": [
+            "410126S",
+            "1472500E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BROOKLANDS AIR PARK SA",
+        "state": "SA",
+        "icao": "YBAK",
+        "coordinates": [
+            "351944S",
+            "1392606E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BRUKUNGA/CLAREMONT SA",
+        "state": "SA",
+        "icao": "YCLB",
+        "coordinates": [
+            "345934S",
+            "1385538E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BRUNCHILLY STN NT",
+        "state": "NT",
+        "icao": "YBNY",
+        "coordinates": [
+            "185209S",
+            "1342740E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BRUNETTE DOWNS",
+        "state": "NT",
+        "icao": "YBRU",
+        "coordinates": [
+            "183815S",
+            "1355637E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BULIMBA",
+        "state": "QLD",
+        "icao": "YBWM",
+        "coordinates": [
+            "165251S",
+            "1432847E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BULLAMON PLAINS",
+        "state": "QLD",
+        "icao": "YBPL",
+        "coordinates": [
+            "283443S",
+            "1484802E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BULLIO",
+        "state": "NSW",
+        "icao": "YBLO",
+        "coordinates": [
+            "342128S",
+            "1500958E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BULLO RIVER VALLEY",
+        "state": "NT",
+        "icao": "YBVY",
+        "coordinates": [
+            "152800S",
+            "1294600E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BULMAN/DELARA",
+        "state": "NT",
+        "icao": "YDEA",
+        "coordinates": [
+            "134007S",
+            "1341728E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BUNYAN",
+        "state": "NSW",
+        "icao": "YBUY",
+        "coordinates": [
+            "360803S",
+            "1490755E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BURREN JUNCTION",
+        "state": "NSW",
+        "icao": "YBRJ",
+        "coordinates": [
+            "300931S",
+            "1485827E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "BUTHEROO STN",
+        "state": "NSW",
+        "icao": "YBUT",
+        "coordinates": [
+            "314559S",
+            "1492545E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CALDERVALE STN",
+        "state": "QLD",
+        "icao": "YCDV",
+        "coordinates": [
+            "250641S",
+            "1464953E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CALLINGTON",
+        "state": "SA",
+        "icao": "YCTO",
+        "coordinates": [
+            "350621S",
+            "1390317E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CALTON HILLS",
+        "state": "QLD",
+        "icao": "YCTS",
+        "coordinates": [
+            "200906S",
+            "1392429E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CAMBALLIN",
+        "state": "WA",
+        "icao": "YCBL",
+        "coordinates": [
+            "175910S",
+            "1240952E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CAMBOOYA",
+        "state": "QLD",
+        "icao": "YCMB",
+        "coordinates": [
+            "274313S",
+            "1515229E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CANOBIE",
+        "state": "QLD",
+        "icao": "YCBE",
+        "coordinates": [
+            "192836S",
+            "1405536E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CAPE FLATTERY",
+        "state": "QLD",
+        "icao": "YCFL",
+        "coordinates": [
+            "145813S",
+            "1451839E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CAPEL",
+        "state": "WA",
+        "icao": "YCAP",
+        "coordinates": [
+            "333543S",
+            "1153418E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CARANDOTTA",
+        "state": "QLD",
+        "icao": "YCDT",
+        "coordinates": [
+            "215819S",
+            "1383642E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CARCUMA/CARCORY STATION",
+        "state": "SA",
+        "icao": "YCST",
+        "coordinates": [
+            "353746S",
+            "1401232E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CARINDA",
+        "state": "NSW",
+        "icao": "YCRA",
+        "coordinates": [
+            "302730S",
+            "1474234E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CARNAMAH",
+        "state": "WA",
+        "icao": "YCNH",
+        "coordinates": [
+            "294102S",
+            "1155338E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CARPENTARIA DOWNS",
+        "state": "QLD",
+        "icao": "YCPN",
+        "coordinates": [
+            "184302S",
+            "1441844E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CARRIETON",
+        "state": "SA",
+        "icao": "YCRT",
+        "coordinates": [
+            "322400S",
+            "1383100E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CASEY SKIWAY",
+        "state": "OTH",
+        "icao": "YCSK",
+        "coordinates": [
+            "661720S",
+            "1104551E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CERES",
+        "state": "VIC",
+        "icao": "YCES",
+        "coordinates": [
+            "380846S",
+            "1441542E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CERVANTES",
+        "state": "WA",
+        "icao": "YCVS",
+        "coordinates": [
+            "302930S",
+            "1150506E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CHADWICK",
+        "state": "SA",
+        "icao": "YCHD",
+        "coordinates": [
+            "313423S",
+            "1301008E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CHARLTON",
+        "state": "VIC",
+        "icao": "YCHL",
+        "coordinates": [
+            "361726S",
+            "1431952E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CHARNLEY RIVER",
+        "state": "WA",
+        "icao": "YCYR",
+        "coordinates": [
+            "164400S",
+            "1252621E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CHATSWORTH STATION",
+        "state": "QLD",
+        "icao": "YCTH",
+        "coordinates": [
+            "215720S",
+            "1401725E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CHEEPIE",
+        "state": "QLD",
+        "icao": "YCPI",
+        "coordinates": [
+            "263727S",
+            "1450049E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CHERRY GARDENS",
+        "state": "SA",
+        "icao": "YSCC",
+        "coordinates": [
+            "350531S",
+            "1383941E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CHILDERS",
+        "state": "QLD",
+        "icao": "YCDS",
+        "coordinates": [
+            "251511S",
+            "1522013E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CLARA CREEK/DUNGOWAN",
+        "state": "QLD",
+        "icao": "YDUG",
+        "coordinates": [
+            "255950S",
+            "1465559E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CLIFTON HILLS",
+        "state": "SA",
+        "icao": "YCFH",
+        "coordinates": [
+            "270106S",
+            "1385330E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "COLEAMBALLY",
+        "state": "NSW",
+        "icao": "YCLY",
+        "coordinates": [
+            "344810S",
+            "1455048E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "COLLYMONGLE",
+        "state": "NSW",
+        "icao": "YCLM",
+        "coordinates": [
+            "292823S",
+            "1484708E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CONJUBOY",
+        "state": "QLD",
+        "icao": "YCJU",
+        "coordinates": [
+            "184108S",
+            "1444452E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "COOMBING PARK",
+        "state": "NSW",
+        "icao": "YCPK",
+        "coordinates": [
+            "333743S",
+            "1490729E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "COONANA",
+        "state": "WA",
+        "icao": "YCNN",
+        "coordinates": [
+            "310200S",
+            "1230930E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "COONAWARRA",
+        "state": "SA",
+        "icao": "YCNQ",
+        "coordinates": [
+            "371638S",
+            "1404842E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "COONDAMBO",
+        "state": "SA",
+        "icao": "YCDB",
+        "coordinates": [
+            "310325S",
+            "1355155E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "COORABIE",
+        "state": "SA",
+        "icao": "YCRB",
+        "coordinates": [
+            "315317S",
+            "1321705E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "COORANGA",
+        "state": "SA",
+        "icao": "YCNG",
+        "coordinates": [
+            "364912S",
+            "1401622E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CORDILLO DOWNS",
+        "state": "SA",
+        "icao": "YCOD",
+        "coordinates": [
+            "264433S",
+            "1403810E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CORELLA PARK",
+        "state": "QLD",
+        "icao": "YCRP",
+        "coordinates": [
+            "203550S",
+            "1401439E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CORMORANT",
+        "state": "QLD",
+        "icao": "YCOT",
+        "coordinates": [
+            "193130S",
+            "1462025E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "COWL COWL",
+        "state": "NSW",
+        "icao": "YCLO",
+        "coordinates": [
+            "333621S",
+            "1451848E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CRAVENS PEAK",
+        "state": "QLD",
+        "icao": "YCVK",
+        "coordinates": [
+            "231833S",
+            "1383438E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CURRANDOOLEY",
+        "state": "NSW",
+        "icao": "YCRD",
+        "coordinates": [
+            "351104S",
+            "1492913E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "CURTIN SPRINGS",
+        "state": "NT",
+        "icao": "YCSP",
+        "coordinates": [
+            "251959S",
+            "1314531E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DALGONALLY",
+        "state": "QLD",
+        "icao": "YDAL",
+        "coordinates": [
+            "200726S",
+            "1411851E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DALHOUSIE",
+        "state": "SA",
+        "icao": "YDLH",
+        "coordinates": [
+            "262542S",
+            "1353024E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DALKEITH",
+        "state": "QLD",
+        "icao": "YDKH",
+        "coordinates": [
+            "233051S",
+            "1431125E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DALY RIVER MISSION",
+        "state": "NT",
+        "icao": "YDMN",
+        "coordinates": [
+            "134500S",
+            "1304138E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DAMPIER PENINSULA/CYGNET BAY",
+        "state": "WA",
+        "icao": "YCYG",
+        "coordinates": [
+            "162622S",
+            "1230059E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DARLINGTON",
+        "state": "TAS",
+        "icao": "YDAR",
+        "coordinates": [
+            "423419S",
+            "1480417E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DAVIS PLATEAU SKIWAY OTH",
+        "state": "OTH",
+        "icao": "YDAV",
+        "coordinates": [
+            "682806S",
+            "0785114E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DAVIS SEA ICE SKIWAY OTH",
+        "state": "OTH",
+        "icao": "YDSI",
+        "coordinates": [
+            "683413S",
+            "0775722E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DEEP WATER POINT WA",
+        "state": "WA",
+        "icao": "YDWP",
+        "coordinates": [
+            "164100S",
+            "1230500E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DELAMERE STN",
+        "state": "NT",
+        "icao": "YDMR",
+        "coordinates": [
+            "153728S",
+            "1313858E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DELEGATE",
+        "state": "NSW",
+        "icao": "YDEG",
+        "coordinates": [
+            "370347S",
+            "1485626E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DENMAN",
+        "state": "NSW",
+        "icao": "YDEN",
+        "coordinates": [
+            "322256S",
+            "1503719E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DEVONCOURT",
+        "state": "QLD",
+        "icao": "YDEV",
+        "coordinates": [
+            "211300S",
+            "1401400E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DEXFIELD PARK",
+        "state": "NSW",
+        "icao": "YDFD",
+        "coordinates": [
+            "312522S",
+            "1524528E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DHALINYBUY",
+        "state": "NT",
+        "icao": "YDHL",
+        "coordinates": [
+            "122448S",
+            "1362314E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DHURUPUTJPI",
+        "state": "NT",
+        "icao": "YDHP",
+        "coordinates": [
+            "130312S",
+            "1361018E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DIG TREE",
+        "state": "QLD",
+        "icao": "YDIG",
+        "coordinates": [
+            "273709S",
+            "1410424E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DIMBULAH",
+        "state": "QLD",
+        "icao": "YDIM",
+        "coordinates": [
+            "170742S",
+            "1450545E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DINGADEE",
+        "state": "QLD",
+        "icao": "YDNG",
+        "coordinates": [
+            "285155S",
+            "1484644E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DIXALEA/MCMASTER FIELD",
+        "state": "QLD",
+        "icao": "YMMD",
+        "coordinates": [
+            "235713S",
+            "1501619E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DONORS HILL",
+        "state": "QLD",
+        "icao": "YDOO",
+        "coordinates": [
+            "184244S",
+            "1403303E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DONYDJI",
+        "state": "NT",
+        "icao": "YDHJ",
+        "coordinates": [
+            "125323S",
+            "1352815E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DOOLOOGARAH",
+        "state": "QLD",
+        "icao": "YDLG",
+        "coordinates": [
+            "245311S",
+            "1474731E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DOONGAN",
+        "state": "WA",
+        "icao": "YDGN",
+        "coordinates": [
+            "152310S",
+            "1261818E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DOTSWOOD",
+        "state": "QLD",
+        "icao": "YDOT",
+        "coordinates": [
+            "193730S",
+            "1461730E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DRUMDUFF STATION",
+        "state": "QLD",
+        "icao": "YDDF",
+        "coordinates": [
+            "160307S",
+            "1430048E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DUBBO/WINGS OUT WEST NSW",
+        "state": "NSW",
+        "icao": "YWOW",
+        "coordinates": [
+            "322017S",
+            "1483142E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DUNMORE/OPAL CREEK QLD",
+        "state": "QLD",
+        "icao": "YAOC",
+        "coordinates": [
+            "274002S",
+            "1505556E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "DYNEVOR DOWNS QLD",
+        "state": "QLD",
+        "icao": "YDNV",
+        "coordinates": [
+            "280600S",
+            "1442100E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "EAST WALLABI ISLAND WA",
+        "state": "WA",
+        "icao": "YEWI",
+        "coordinates": [
+            "282613S",
+            "1134408E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "EDENHOPE VIC",
+        "state": "VIC",
+        "icao": "YEDE",
+        "coordinates": [
+            "370100S",
+            "1411600E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "EDITHBURGH SA",
+        "state": "SA",
+        "icao": "YEDB",
+        "coordinates": [
+            "350548S",
+            "1374406E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "EL QUESTRO WA",
+        "state": "WA",
+        "icao": "YEQO",
+        "coordinates": [
+            "160018S",
+            "1275818E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ELEANOR DOWNS SA",
+        "state": "SA",
+        "icao": "YEDW",
+        "coordinates": [
+            "355354S",
+            "1371542E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ELIZABETH DOWNS STATION NT",
+        "state": "NT",
+        "icao": "YELZ",
+        "coordinates": [
+            "134438S",
+            "1303018E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ELKEDRA NT",
+        "state": "NT",
+        "icao": "YELK",
+        "coordinates": [
+            "211018S",
+            "1352636E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ELMORE VIC",
+        "state": "VIC",
+        "icao": "YELM",
+        "coordinates": [
+            "362935S",
+            "1443842E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ENEABBA WA",
+        "state": "WA",
+        "icao": "YEEB",
+        "coordinates": [
+            "294959S",
+            "1151447E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "EPIC ENERGY FIVE SA",
+        "state": "SA",
+        "icao": "YEPE",
+        "coordinates": [
+            "315815S",
+            "1391232E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "EPIC ENERGY FOUR SA",
+        "state": "SA",
+        "icao": "YEPD",
+        "coordinates": [
+            "311051S",
+            "1392252E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "EPIC ENERGY ONE",
+        "state": "SA",
+        "icao": "YEPA",
+        "coordinates": [
+            "284409S",
+            "1400224E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "EPIC ENERGY THREE",
+        "state": "SA",
+        "icao": "YEPC",
+        "coordinates": [
+            "302106S",
+            "1393943E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "EPIC ENERGY TWO",
+        "state": "SA",
+        "icao": "YEPB",
+        "coordinates": [
+            "293355S",
+            "1395628E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "EPSILON",
+        "state": "QLD",
+        "icao": "YEPL",
+        "coordinates": [
+            "281800S",
+            "1411400E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ERUDINA",
+        "state": "SA",
+        "icao": "YERU",
+        "coordinates": [
+            "312559S",
+            "1392254E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "EUABALONG",
+        "state": "NSW",
+        "icao": "YEAB",
+        "coordinates": [
+            "330814S",
+            "1462529E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "EURELLA STATION",
+        "state": "QLD",
+        "icao": "YEUL",
+        "coordinates": [
+            "263708S",
+            "1481409E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "EVELYN DOWNS",
+        "state": "SA",
+        "icao": "YEYD",
+        "coordinates": [
+            "281215S",
+            "1342923E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "EVERARD PARK/MIMILI",
+        "state": "SA",
+        "icao": "YEVP",
+        "coordinates": [
+            "270212S",
+            "1324054E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "FAIRY BOWER",
+        "state": "NSW",
+        "icao": "YFBR",
+        "coordinates": [
+            "305258S",
+            "1481447E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "FARNSFIELD",
+        "state": "QLD",
+        "icao": "YFAR",
+        "coordinates": [
+            "250700S",
+            "1521739E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "FINCH HATTON",
+        "state": "QLD",
+        "icao": "YFHA",
+        "coordinates": [
+            "210827S",
+            "1483855E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "FINKE",
+        "state": "NT",
+        "icao": "YFNE",
+        "coordinates": [
+            "253535S",
+            "1343458E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "FLINDERS ISLAND",
+        "state": "SA",
+        "icao": "YFLS",
+        "coordinates": [
+            "334346S",
+            "1343005E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "FORT CONSTANTINE",
+        "state": "QLD",
+        "icao": "YFCN",
+        "coordinates": [
+            "202855S",
+            "1403446E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "FRANKLAND VALLEY",
+        "state": "WA",
+        "icao": "YFRK",
+        "coordinates": [
+            "342051S",
+            "1165650E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "FRIENDLY BEACHES",
+        "state": "TAS",
+        "icao": "YFRI",
+        "coordinates": [
+            "415958S",
+            "1481528E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GABO ISLAND",
+        "state": "VIC",
+        "icao": "YGBO",
+        "coordinates": [
+            "373358S",
+            "1495441E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GALWAY DOWNS",
+        "state": "QLD",
+        "icao": "YGWD",
+        "coordinates": [
+            "251104S",
+            "1424120E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GAMBOOLA",
+        "state": "QLD",
+        "icao": "YGAM",
+        "coordinates": [
+            "163236S",
+            "1434012E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GAN GAN",
+        "state": "NT",
+        "icao": "YGAN",
+        "coordinates": [
+            "130247S",
+            "1355700E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GILBERTON STATION QLD",
+        "state": "QLD",
+        "icao": "YGBS",
+        "coordinates": [
+            "191234S",
+            "1433948E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GLADSTONE/PLAYSTATION NSW",
+        "state": "NSW",
+        "icao": "YPLS",
+        "coordinates": [
+            "310238S",
+            "1525610E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GLEN GARLAND STATION QLD",
+        "state": "QLD",
+        "icao": "YGGL",
+        "coordinates": [
+            "145105S",
+            "1431625E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GLEN RUTH QLD",
+        "state": "QLD",
+        "icao": "YGRU",
+        "coordinates": [
+            "180442S",
+            "1452423E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GLENDEVIE TAS",
+        "state": "TAS",
+        "icao": "YGVE",
+        "coordinates": [
+            "431354S",
+            "1470001E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GLENGYLE QLD",
+        "state": "QLD",
+        "icao": "YGLE",
+        "coordinates": [
+            "244756S",
+            "1393548E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GLENORE QLD",
+        "state": "QLD",
+        "icao": "YGNR",
+        "coordinates": [
+            "182837S",
+            "1410717E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GLENROY ESTATE SA",
+        "state": "SA",
+        "icao": "YGLN",
+        "coordinates": [
+            "321540S",
+            "1383839E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GLOUCESTER NSW",
+        "state": "NSW",
+        "icao": "YGCR",
+        "coordinates": [
+            "320306S",
+            "1515836E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GOONOO GOONOO HS NSW",
+        "state": "NSW",
+        "icao": "YGGO",
+        "coordinates": [
+            "311757S",
+            "1505513E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GORE/ROOAROO",
+        "state": "QLD",
+        "icao": "YGRO",
+        "coordinates": [
+            "281848S",
+            "1512654E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GRANADA STATION",
+        "state": "QLD",
+        "icao": "YGNA",
+        "coordinates": [
+            "200552S",
+            "1402208E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GREENMOUNT",
+        "state": "QLD",
+        "icao": "YGMT",
+        "coordinates": [
+            "274549S",
+            "1515530E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GREENVALE",
+        "state": "QLD",
+        "icao": "YGNV",
+        "coordinates": [
+            "190000S",
+            "1450100E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GREYMARE/MOUNTAIN STATION",
+        "state": "QLD",
+        "icao": "YGMS",
+        "coordinates": [
+            "281212S",
+            "1514618E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GULGONG",
+        "state": "NSW",
+        "icao": "YGGG",
+        "coordinates": [
+            "321754S",
+            "1493342E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "GURRUMURRU",
+        "state": "NT",
+        "icao": "YGUM",
+        "coordinates": [
+            "123540S",
+            "1361349E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HADDON RIG",
+        "state": "NSW",
+        "icao": "YHRG",
+        "coordinates": [
+            "312808S",
+            "1475341E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HAIG",
+        "state": "WA",
+        "icao": "YHAG",
+        "coordinates": [
+            "310000S",
+            "1260500E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HALL",
+        "state": "NSW",
+        "icao": "YHAL",
+        "coordinates": [
+            "350840S",
+            "1490234E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HEADINGLY",
+        "state": "QLD",
+        "icao": "YHDY",
+        "coordinates": [
+            "211916S",
+            "1381742E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HEDLOW",
+        "state": "QLD",
+        "icao": "YHEW",
+        "coordinates": [
+            "231331S",
+            "1503612E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HELEN SPRINGS",
+        "state": "NT",
+        "icao": "YHLN",
+        "coordinates": [
+            "182500S",
+            "1335300E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HERBERTON",
+        "state": "QLD",
+        "icao": "YHTN",
+        "coordinates": [
+            "172600S",
+            "1452348E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HIDDEN VALLEY",
+        "state": "NT",
+        "icao": "YHIV",
+        "coordinates": [
+            "163300S",
+            "1325400E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HIGHBURY STATION QLD",
+        "state": "QLD",
+        "icao": "YHHY",
+        "coordinates": [
+            "162528S",
+            "1430844E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HIGHLAND FARM",
+        "state": "NSW",
+        "icao": "YHLF",
+        "coordinates": [
+            "343637S",
+            "1500547E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HILTABA",
+        "state": "SA",
+        "icao": "YHTA",
+        "coordinates": [
+            "320833S",
+            "1350558E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HODGSON RIVER",
+        "state": "NT",
+        "icao": "YHOV",
+        "coordinates": [
+            "153429S",
+            "1340544E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HOLMWOOD",
+        "state": "SA",
+        "icao": "YMWD",
+        "coordinates": [
+            "365933S",
+            "1401504E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HOYLETON",
+        "state": "SA",
+        "icao": "YHYL",
+        "coordinates": [
+            "340145S",
+            "1383127E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HUGHES SIDING",
+        "state": "SA",
+        "icao": "YHGS",
+        "coordinates": [
+            "304300S",
+            "1293054E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HUNT FIELD",
+        "state": "SA",
+        "icao": "YHTF",
+        "coordinates": [
+            "351018S",
+            "1382930E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "HUTTON VALE FARM",
+        "state": "SA",
+        "icao": "YHVF",
+        "coordinates": [
+            "343100S",
+            "1390618E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "IFFLEY HS",
+        "state": "QLD",
+        "icao": "YIFF",
+        "coordinates": [
+            "221412S",
+            "1482559E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "INGOMAR",
+        "state": "SA",
+        "icao": "YIGR",
+        "coordinates": [
+            "293741S",
+            "1344718E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "INVERELL NORTH",
+        "state": "NSW",
+        "icao": "YINO",
+        "coordinates": [
+            "294625S",
+            "1510956E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "INVERLEIGH",
+        "state": "QLD",
+        "icao": "YINV",
+        "coordinates": [
+            "180019S",
+            "1403207E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "INVERLOCH",
+        "state": "VIC",
+        "icao": "YIVE",
+        "coordinates": [
+            "383645S",
+            "1454400E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "IRONGATE/FIG TREE",
+        "state": "QLD",
+        "icao": "YFIG",
+        "coordinates": [
+            "273809S",
+            "1513046E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ISIS DOWNS",
+        "state": "QLD",
+        "icao": "YISD",
+        "coordinates": [
+            "241312S",
+            "1443743E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "IVERAGH",
+        "state": "QLD",
+        "icao": "YIVG",
+        "coordinates": [
+            "240356S",
+            "1512341E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "JARRA CREEK",
+        "state": "QLD",
+        "icao": "YJRK",
+        "coordinates": [
+            "175322S",
+            "1454933E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "JDANDBOO FIELD",
+        "state": "VIC",
+        "icao": "YJBO",
+        "coordinates": [
+            "375130S",
+            "1465500E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "JERICHO (TAS)",
+        "state": "TAS",
+        "icao": "YJCO",
+        "coordinates": [
+            "422205S",
+            "1472011E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "JINDALEE",
+        "state": "NSW",
+        "icao": "YJDL",
+        "coordinates": [
+            "344937S",
+            "1484729E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "JINGALUP",
+        "state": "WA",
+        "icao": "YJIP",
+        "coordinates": [
+            "335927S",
+            "1165924E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "JOHNSON AIRSTRIP SA",
+        "state": "SA",
+        "icao": "YJOH",
+        "coordinates": [
+            "354836S",
+            "1374400E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KAILIS WA",
+        "state": "WA",
+        "icao": "YKLS",
+        "coordinates": [
+            "334600S",
+            "1150233E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KALABITY STATION SA",
+        "state": "SA",
+        "icao": "YKBT",
+        "coordinates": [
+            "315331S",
+            "1401938E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KALAMURINA SA",
+        "state": "SA",
+        "icao": "YKLR",
+        "coordinates": [
+            "274507S",
+            "1381611E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KALINGA QLD",
+        "state": "QLD",
+        "icao": "YKLG",
+        "coordinates": [
+            "151200S",
+            "1435100E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KANGAROO WELL SA",
+        "state": "SA",
+        "icao": "YKWG",
+        "coordinates": [
+            "314706S",
+            "1353818E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KANIVA VIC",
+        "state": "VIC",
+        "icao": "YKNV",
+        "coordinates": [
+            "362213S",
+            "1411437E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KARONIE WA",
+        "state": "WA",
+        "icao": "YKRE",
+        "coordinates": [
+            "305800S",
+            "1223200E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KEEROONGOOLOO QLD",
+        "state": "QLD",
+        "icao": "YKRL",
+        "coordinates": [
+            "255422S",
+            "1424818E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KENMORE PARK/YUNYARINYI SA",
+        "state": "SA",
+        "icao": "YKEN",
+        "coordinates": [
+            "262000S",
+            "1322800E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KHANCOBAN",
+        "state": "NSW",
+        "icao": "YKHA",
+        "coordinates": [
+            "361249S",
+            "1480635E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KILLIECRANKIE",
+        "state": "TAS",
+        "icao": "YKCK",
+        "coordinates": [
+            "395058S",
+            "1475137E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KINGOONYA",
+        "state": "SA",
+        "icao": "YKGA",
+        "coordinates": [
+            "305452S",
+            "1351826E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KINGVALE STATION",
+        "state": "QLD",
+        "icao": "YKVA",
+        "coordinates": [
+            "154241S",
+            "1434451E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KIRKALOCKA",
+        "state": "WA",
+        "icao": "YKRK",
+        "coordinates": [
+            "284132S",
+            "1174552E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KIRKIMBIE STN",
+        "state": "NT",
+        "icao": "YKIR",
+        "coordinates": [
+            "174642S",
+            "1291234E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KITCHENER",
+        "state": "WA",
+        "icao": "YKCH",
+        "coordinates": [
+            "310136S",
+            "1241100E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KNOCKER BAY",
+        "state": "NT",
+        "icao": "YNBY",
+        "coordinates": [
+            "111909S",
+            "1320715E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KOARLO",
+        "state": "QLD",
+        "icao": "YKOA",
+        "coordinates": [
+            "283758S",
+            "1503202E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KOOLAMA BAY",
+        "state": "WA",
+        "icao": "YKOO",
+        "coordinates": [
+            "135615S",
+            "1271930E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KOORINGAL/BAROCO",
+        "state": "QLD",
+        "icao": "YBCX",
+        "coordinates": [
+            "272045S",
+            "1532533E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KUKERIN AIRSTRIP",
+        "state": "WA",
+        "icao": "YKUK",
+        "coordinates": [
+            "331030S",
+            "1180454E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KULALI",
+        "state": "QLD",
+        "icao": "YKUA",
+        "coordinates": [
+            "284021S",
+            "1491135E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KURI BAY",
+        "state": "WA",
+        "icao": "YKRI",
+        "coordinates": [
+            "152828S",
+            "1243129E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KURWEETON",
+        "state": "VIC",
+        "icao": "YKUW",
+        "coordinates": [
+            "380252S",
+            "1430919E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KYNETON (QLD)",
+        "state": "QLD",
+        "icao": "YKYE",
+        "coordinates": [
+            "234908S",
+            "1452411E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "KYNUNA",
+        "state": "QLD",
+        "icao": "YKYN",
+        "coordinates": [
+            "213600S",
+            "1415500E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LADY ELLIOT ISLAND",
+        "state": "QLD",
+        "icao": "YLTT",
+        "coordinates": [
+            "240648S",
+            "1524256E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LAGOON BAY",
+        "state": "TAS",
+        "icao": "YLAG",
+        "coordinates": [
+            "425313S",
+            "1475719E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LAKE NASH",
+        "state": "NT",
+        "icao": "YLKN",
+        "coordinates": [
+            "205848S",
+            "1375503E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LAKEFIELD",
+        "state": "QLD",
+        "icao": "YLFD",
+        "coordinates": [
+            "145514S",
+            "1441213E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LAMEROO",
+        "state": "SA",
+        "icao": "YLAO",
+        "coordinates": [
+            "352224S",
+            "1402754E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LANGAWIRRA",
+        "state": "NSW",
+        "icao": "YLAN",
+        "coordinates": [
+            "312636S",
+            "1420812E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LANGHORNE",
+        "state": "SA",
+        "icao": "YLGH",
+        "coordinates": [
+            "351813S",
+            "1391602E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LAPUNYAH",
+        "state": "QLD",
+        "icao": "YLAP",
+        "coordinates": [
+            "280126S",
+            "1500148E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LEETON",
+        "state": "NSW",
+        "icao": "YLEE",
+        "coordinates": [
+            "342959S",
+            "1462634E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LINDA DOWNS STATION",
+        "state": "QLD",
+        "icao": "YLDS",
+        "coordinates": [
+            "221203S",
+            "1384210E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LITCHFIELD STN",
+        "state": "NT",
+        "icao": "YLIT",
+        "coordinates": [
+            "132548S",
+            "1302942E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LITTLE RIVER/ROTHWELL",
+        "state": "VIC",
+        "icao": "YRTH",
+        "coordinates": [
+            "375300S",
+            "1442636E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LITTLE SANDY DESERT/BEYONDIE",
+        "state": "WA",
+        "icao": "YBEI",
+        "coordinates": [
+            "244437S",
+            "1201925E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LIVERINGA",
+        "state": "WA",
+        "icao": "YLIV",
+        "coordinates": [
+            "175639S",
+            "1241517E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LOCK",
+        "state": "SA",
+        "icao": "YLOK",
+        "coordinates": [
+            "333236S",
+            "1354130E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LOCKYER WATERS/BREEFIELD",
+        "state": "QLD",
+        "icao": "YLWB",
+        "coordinates": [
+            "272814S",
+            "1522317E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LOONGANA",
+        "state": "WA",
+        "icao": "YLGN",
+        "coordinates": [
+            "305630S",
+            "1270148E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LOTUS CREEK/CROYDON",
+        "state": "QLD",
+        "icao": "YACR",
+        "coordinates": [
+            "222824S",
+            "1490922E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "LUSKINTYRE",
+        "state": "NSW",
+        "icao": "YLSK",
+        "coordinates": [
+            "323959S",
+            "1512509E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MACLEOD/GNARALOO BAY",
+        "state": "WA",
+        "icao": "YGAR",
+        "coordinates": [
+            "234728S",
+            "1133149E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MACLEOD/GNARALOO HOMESTEAD",
+        "state": "WA",
+        "icao": "YGHS",
+        "coordinates": [
+            "234930S",
+            "1133148E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MACUMBA",
+        "state": "SA",
+        "icao": "YMAC",
+        "coordinates": [
+            "271542S",
+            "1353818E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MAHANEWO",
+        "state": "SA",
+        "icao": "YMWO",
+        "coordinates": [
+            "314303S",
+            "1362543E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MAINORU",
+        "state": "NT",
+        "icao": "YMNU",
+        "coordinates": [
+            "140301S",
+            "1340550E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MALLAPUNYAH SPRINGS STN",
+        "state": "NT",
+        "icao": "YMYH",
+        "coordinates": [
+            "165800S",
+            "1354636E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MALLOWA/KRUI",
+        "state": "NSW",
+        "icao": "YKRU",
+        "coordinates": [
+            "294022S",
+            "1492716E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MANDEMAR",
+        "state": "NSW",
+        "icao": "YMMR",
+        "coordinates": [
+            "342641S",
+            "1501723E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MANGROVE MT",
+        "state": "NSW",
+        "icao": "YMVM",
+        "coordinates": [
+            "331706S",
+            "1511246E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MANILLA STATION",
+        "state": "NSW",
+        "icao": "YMAS",
+        "coordinates": [
+            "332250S",
+            "1420826E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MANNERS CREEK STN",
+        "state": "NT",
+        "icao": "YMCR",
+        "coordinates": [
+            "220600S",
+            "1375900E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MAPOON",
+        "state": "QLD",
+        "icao": "YMPN",
+        "coordinates": [
+            "120304S",
+            "1415425E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MARALINGA",
+        "state": "SA",
+        "icao": "YMRA",
+        "coordinates": [
+            "300948S",
+            "1313730E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MARION DOWNS",
+        "state": "WA",
+        "icao": "YDWN",
+        "coordinates": [
+            "170423S",
+            "1265053E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MARMBOO",
+        "state": "QLD",
+        "icao": "YMBO",
+        "coordinates": [
+            "231800S",
+            "1432700E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MARYLAND TOO",
+        "state": "WA",
+        "icao": "YTOO",
+        "coordinates": [
+            "332212S",
+            "1205254E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MATARANKA HS RESORT",
+        "state": "NT",
+        "icao": "YMKA",
+        "coordinates": [
+            "145548S",
+            "1330800E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MATARANKA TOWNSHIP",
+        "state": "NT",
+        "icao": "YMAR",
+        "coordinates": [
+            "145534S",
+            "1330352E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MAUDE CREEK",
+        "state": "NT",
+        "icao": "YMUD",
+        "coordinates": [
+            "142330S",
+            "1322339E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MAWSON PLATEAU SKIWAY",
+        "state": "OTH",
+        "icao": "YMPL",
+        "coordinates": [
+            "674309S",
+            "0624926E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MAWSON SEA ICE SKIWAY",
+        "state": "OTH",
+        "icao": "YMSI",
+        "coordinates": [
+            "673603S",
+            "0624958E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MCCAFFREY FIELD",
+        "state": "QLD",
+        "icao": "YMCF",
+        "coordinates": [
+            "272057S",
+            "1513050E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MCKINLAY",
+        "state": "QLD",
+        "icao": "YMCK",
+        "coordinates": [
+            "211600S",
+            "1411800E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MENINDEE",
+        "state": "NSW",
+        "icao": "YMED",
+        "coordinates": [
+            "322200S",
+            "1422418E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MENINGIE",
+        "state": "SA",
+        "icao": "YMEG",
+        "coordinates": [
+            "354209S",
+            "1392039E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MERRIMBA",
+        "state": "NSW",
+        "icao": "YRIM",
+        "coordinates": [
+            "311040S",
+            "1475354E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MILLERS CREEK",
+        "state": "SA",
+        "icao": "YMIK",
+        "coordinates": [
+            "295829S",
+            "1360428E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MILLUNGERA",
+        "state": "QLD",
+        "icao": "YMLL",
+        "coordinates": [
+            "195126S",
+            "1413342E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MINLATON",
+        "state": "SA",
+        "icao": "YMIN",
+        "coordinates": [
+            "344438S",
+            "1373144E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MITCHELL PLATEAU",
+        "state": "WA",
+        "icao": "YMIP",
+        "coordinates": [
+            "144725S",
+            "1254933E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOBELLA",
+        "state": "SA",
+        "icao": "YLLA",
+        "coordinates": [
+            "294754S",
+            "1332042E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MONOLON",
+        "state": "NSW",
+        "icao": "YMLN",
+        "coordinates": [
+            "301309S",
+            "1431455E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MONTEJINNI",
+        "state": "NT",
+        "icao": "YMTJ",
+        "coordinates": [
+            "164217S",
+            "1314403E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOOGA/BRINDLEY PARK",
+        "state": "QLD",
+        "icao": "YABP",
+        "coordinates": [
+            "261931S",
+            "1485548E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOOLELULOOLOO",
+        "state": "SA",
+        "icao": "YLUL",
+        "coordinates": [
+            "313821S",
+            "1403043E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOONAREE",
+        "state": "SA",
+        "icao": "YMOE",
+        "coordinates": [
+            "315759S",
+            "1355231E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOONIE/TUNGAMAH STATION",
+        "state": "QLD",
+        "icao": "YMTU",
+        "coordinates": [
+            "273741S",
+            "1502932E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOORABERREE",
+        "state": "QLD",
+        "icao": "YMOO",
+        "coordinates": [
+            "251438S",
+            "1405838E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MORANBAH/RUGBY QLD RUN",
+        "state": "QLD",
+        "icao": "YARR",
+        "coordinates": [
+            "220754S",
+            "1475336E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOREE/BEELA NSW",
+        "state": "NSW",
+        "icao": "YAIR",
+        "coordinates": [
+            "292347S",
+            "1495213E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOREE/RURAL AIR WORK NSW",
+        "state": "NSW",
+        "icao": "YRAR",
+        "coordinates": [
+            "291820S",
+            "1494152E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MORETON QLD",
+        "state": "QLD",
+        "icao": "YMOT",
+        "coordinates": [
+            "122634S",
+            "1423820E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MORNINGTON STN WA",
+        "state": "WA",
+        "icao": "YMNT",
+        "coordinates": [
+            "173120S",
+            "1260724E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOROAK NT",
+        "state": "NT",
+        "icao": "YORO",
+        "coordinates": [
+            "144900S",
+            "1334200E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MORSTONE DOWNS QLD STATION",
+        "state": "QLD",
+        "icao": "YMSE",
+        "coordinates": [
+            "193030S",
+            "1382212E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MORVEN QLD",
+        "state": "QLD",
+        "icao": "YMVN",
+        "coordinates": [
+            "262400S",
+            "1470724E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOUNT BARNETT WA",
+        "state": "WA",
+        "icao": "YBAN",
+        "coordinates": [
+            "164414S",
+            "1255432E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOUNT DARE STN SA",
+        "state": "SA",
+        "icao": "YMTX",
+        "coordinates": [
+            "260342S",
+            "1351448E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOUNT DAVIES/PIPALYATJARA SA",
+        "state": "SA",
+        "icao": "YMDV",
+        "coordinates": [
+            "261024S",
+            "1290748E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOUNT DENISON NT",
+        "state": "NT",
+        "icao": "YMNN",
+        "coordinates": [
+            "220827S",
+            "1320409E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOUNT EBA SA",
+        "state": "SA",
+        "icao": "YMEB",
+        "coordinates": [
+            "301042S",
+            "1354024E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOUNT GARNET QLD",
+        "state": "QLD",
+        "icao": "YMRT",
+        "coordinates": [
+            "174200S",
+            "1450900E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOUNT GIBSON WA",
+        "state": "WA",
+        "icao": "YGSN",
+        "coordinates": [
+            "293626S",
+            "1172411E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOUNT LIEBIG NT",
+        "state": "NT",
+        "icao": "YLBG",
+        "coordinates": [
+            "231436S",
+            "1311536E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOUNT LINDSAY/WATARRU SA",
+        "state": "SA",
+        "icao": "YLSY",
+        "coordinates": [
+            "270106S",
+            "1295306E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOUNT MULGRAVE HS QLD",
+        "state": "QLD",
+        "icao": "YMMH",
+        "coordinates": [
+            "162300S",
+            "1435900E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOUNT PERRY QLD",
+        "state": "QLD",
+        "icao": "YMPY",
+        "coordinates": [
+            "251100S",
+            "1513900E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOUNT RIDDOCK STN NT",
+        "state": "NT",
+        "icao": "YMDK",
+        "coordinates": [
+            "230212S",
+            "1344128E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOUNT WILLOUGHBY SA",
+        "state": "SA",
+        "icao": "YWIB",
+        "coordinates": [
+            "275900S",
+            "1340900E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MOXEY FARMS NSW",
+        "state": "NSW",
+        "icao": "YMOX",
+        "coordinates": [
+            "333101S",
+            "1482111E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MUCHEA/GREENSIDE WA",
+        "state": "WA",
+        "icao": "YGSD",
+        "coordinates": [
+            "313126S",
+            "1155631E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MULGATHING SA",
+        "state": "SA",
+        "icao": "YMGG",
+        "coordinates": [
+            "301345S",
+            "1335910E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MUNDINE NSW",
+        "state": "NSW",
+        "icao": "YDNE",
+        "coordinates": [
+            "283659S",
+            "1500903E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MURNPEOWIE SA",
+        "state": "SA",
+        "icao": "YMNP",
+        "coordinates": [
+            "293535S",
+            "1390301E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "MUSGRAVE ROADHOUSE QLD",
+        "state": "QLD",
+        "icao": "YMGV",
+        "coordinates": [
+            "144652S",
+            "1433012E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NAMBUCCA NSW",
+        "state": "NSW",
+        "icao": "YNAA",
+        "coordinates": [
+            "304023S",
+            "1525904E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NARYILCO QLD",
+        "state": "QLD",
+        "icao": "YNRL",
+        "coordinates": [
+            "283300S",
+            "1415500E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NATHAN RIVER STN",
+        "state": "NT",
+        "icao": "YNAT",
+        "coordinates": [
+            "153513S",
+            "1352548E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NEBO QLD",
+        "state": "QLD",
+        "icao": "YNBO",
+        "coordinates": [
+            "214208S",
+            "1484140E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NEE NEE NSW",
+        "state": "NSW",
+        "icao": "YNEE",
+        "coordinates": [
+            "290700S",
+            "1500100E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NERRIMA WA",
+        "state": "WA",
+        "icao": "YNER",
+        "coordinates": [
+            "183018S",
+            "1242350E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NETLEY STATION NSW",
+        "state": "NSW",
+        "icao": "YNET",
+        "coordinates": [
+            "323506S",
+            "1412706E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NEUMAYER VALLEY STATION",
+        "state": "QLD",
+        "icao": "YNWM",
+        "coordinates": [
+            "182825S",
+            "1401331E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NEW HAVEN",
+        "state": "NT",
+        "icao": "YNHV",
+        "coordinates": [
+            "224343S",
+            "1310852E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NEW LAURA",
+        "state": "QLD",
+        "icao": "YLRS",
+        "coordinates": [
+            "151058S",
+            "1442045E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NEWCASTLE/WALLSAIR",
+        "state": "NSW",
+        "icao": "YWSR",
+        "coordinates": [
+            "325258S",
+            "1514020E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NEWLANDS COAL",
+        "state": "QLD",
+        "icao": "YNEW",
+        "coordinates": [
+            "211018S",
+            "1475432E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NILPINNA",
+        "state": "SA",
+        "icao": "YNPA",
+        "coordinates": [
+            "282900S",
+            "1355400E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NOBBYS CREEK",
+        "state": "NSW",
+        "icao": "YNOB",
+        "coordinates": [
+            "281745S",
+            "1531935E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NONNING",
+        "state": "SA",
+        "icao": "YNIG",
+        "coordinates": [
+            "323140S",
+            "1362942E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NOOYEAH DOWNS",
+        "state": "QLD",
+        "icao": "YNOO",
+        "coordinates": [
+            "280233S",
+            "1433330E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NORTH BUNDY STATION",
+        "state": "NSW",
+        "icao": "YNBS",
+        "coordinates": [
+            "345349S",
+            "1442746E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NORTH GREGORY/ELLIOTT FIELD",
+        "state": "QLD",
+        "icao": "YETT",
+        "coordinates": [
+            "250301S",
+            "1521316E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NORTH ISLAND",
+        "state": "WA",
+        "icao": "YNTI",
+        "coordinates": [
+            "281800S",
+            "1133546E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NORTH WELL",
+        "state": "SA",
+        "icao": "YNWL",
+        "coordinates": [
+            "305032S",
+            "1351749E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NUMERY",
+        "state": "NT",
+        "icao": "YNUE",
+        "coordinates": [
+            "235950S",
+            "1352517E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NYAPARI",
+        "state": "SA",
+        "icao": "YNYP",
+        "coordinates": [
+            "261116S",
+            "1301132E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NYIRRIPI",
+        "state": "NT",
+        "icao": "YNRR",
+        "coordinates": [
+            "223842S",
+            "1303354E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "NYMAGEE",
+        "state": "NSW",
+        "icao": "YNYM",
+        "coordinates": [
+            "320314S",
+            "1461844E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "OAK CREEK COAL",
+        "state": "QLD",
+        "icao": "YOCC",
+        "coordinates": [
+            "230323S",
+            "1482944E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "OAK VALLEY",
+        "state": "SA",
+        "icao": "YOKV",
+        "coordinates": [
+            "293024S",
+            "1305206E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "OBAN",
+        "state": "QLD",
+        "icao": "YOBN",
+        "coordinates": [
+            "211405S",
+            "1390200E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "OLD BAR",
+        "state": "NSW",
+        "icao": "YOBR",
+        "coordinates": [
+            "315758S",
+            "1523530E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "OLD BUNDEMAR",
+        "state": "NSW",
+        "icao": "YBDM",
+        "coordinates": [
+            "314818S",
+            "1480948E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "OMICRON",
+        "state": "QLD",
+        "icao": "YOMI",
+        "coordinates": [
+            "284537S",
+            "1411231E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ORIELTON",
+        "state": "QLD",
+        "icao": "YOIT",
+        "coordinates": [
+            "220347S",
+            "1440828E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "OSBORNE ISLANDS",
+        "state": "WA",
+        "icao": "YOSI",
+        "coordinates": [
+            "142131S",
+            "1260100E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "OUYEN",
+        "state": "VIC",
+        "icao": "YOUY",
+        "coordinates": [
+            "350519S",
+            "1422117E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PADTHAWAY STN",
+        "state": "SA",
+        "icao": "YPDY",
+        "coordinates": [
+            "363638S",
+            "1403007E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PALM BEACH",
+        "state": "NSW",
+        "icao": "YPLB",
+        "coordinates": [
+            "333619S",
+            "1511903E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PALMERS ISLAND/MACLEAN",
+        "state": "NSW",
+        "icao": "YPLI",
+        "coordinates": [
+            "292643S",
+            "1531600E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PALUMPA",
+        "state": "NT",
+        "icao": "YPUA",
+        "coordinates": [
+            "142022S",
+            "1295152E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PANDORA",
+        "state": "QLD",
+        "icao": "YPAN",
+        "coordinates": [
+            "231918S",
+            "1502148E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PASCOE RIVER",
+        "state": "QLD",
+        "icao": "YPRV",
+        "coordinates": [
+            "123326S",
+            "1430718E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PASSAGE ISLAND",
+        "state": "TAS",
+        "icao": "YPSI",
+        "coordinates": [
+            "402954S",
+            "1482012E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PATCHEWOLLOCK",
+        "state": "VIC",
+        "icao": "YPCH",
+        "coordinates": [
+            "352300S",
+            "1421200E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PAYNES FIND",
+        "state": "WA",
+        "icao": "YPYF",
+        "coordinates": [
+            "291544S",
+            "1174010E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PEAK HILL",
+        "state": "NSW",
+        "icao": "YPKH",
+        "coordinates": [
+            "324350S",
+            "1481241E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PENTLAND",
+        "state": "QLD",
+        "icao": "YPND",
+        "coordinates": [
+            "203200S",
+            "1452200E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PEPPIMENARTI",
+        "state": "NT",
+        "icao": "YPEP",
+        "coordinates": [
+            "140839S",
+            "1300526E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PERNATTY",
+        "state": "SA",
+        "icao": "YPTT",
+        "coordinates": [
+            "312900S",
+            "1372900E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PICCANINNY",
+        "state": "QLD",
+        "icao": "YPIC",
+        "coordinates": [
+            "193700S",
+            "1463150E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PICCANINNY PLAINS",
+        "state": "QLD",
+        "icao": "YPPS",
+        "coordinates": [
+            "130912S",
+            "1424637E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PIGEON HOLE",
+        "state": "NT",
+        "icao": "YPGH",
+        "coordinates": [
+            "164900S",
+            "1311300E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PINNACLE",
+        "state": "QLD",
+        "icao": "YPIN",
+        "coordinates": [
+            "154115S",
+            "1433347E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PIPERS FIELD",
+        "state": "NSW",
+        "icao": "YPIP",
+        "coordinates": [
+            "332239S",
+            "1493111E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PLANET DOWNS",
+        "state": "QLD",
+        "icao": "YPDS",
+        "coordinates": [
+            "243220S",
+            "1485340E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PLEVNA DOWNS",
+        "state": "QLD",
+        "icao": "YPVD",
+        "coordinates": [
+            "263845S",
+            "1423542E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PORT BREMMER",
+        "state": "NT",
+        "icao": "YPBM",
+        "coordinates": [
+            "111326S",
+            "1321603E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PORT FAIRY",
+        "state": "VIC",
+        "icao": "YPFA",
+        "coordinates": [
+            "382143S",
+            "1421552E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PORT GEORGE",
+        "state": "WA",
+        "icao": "YPTG",
+        "coordinates": [
+            "152300S",
+            "1244000E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PORTIA GOLD MINE",
+        "state": "SA",
+        "icao": "YPOA",
+        "coordinates": [
+            "312546S",
+            "1402529E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PRESTON FIELD",
+        "state": "WA",
+        "icao": "YPFL",
+        "coordinates": [
+            "330112S",
+            "1154206E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "PUK PUK",
+        "state": "QLD",
+        "icao": "YPUK",
+        "coordinates": [
+            "192640S",
+            "1462440E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "QUAIRADING",
+        "state": "WA",
+        "icao": "YQDG",
+        "coordinates": [
+            "320024S",
+            "1172454E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "QUAMBATOOK",
+        "state": "VIC",
+        "icao": "YQBK",
+        "coordinates": [
+            "355114S",
+            "1433051E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "RAFFLES BAY",
+        "state": "NT",
+        "icao": "YRFB",
+        "coordinates": [
+            "111622S",
+            "1322307E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "RAINBOW BEACH",
+        "state": "QLD",
+        "icao": "YRBB",
+        "coordinates": [
+            "255118S",
+            "1530413E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "RANKIN POINT",
+        "state": "",
+        "icao": "YRPT",
+        "coordinates": [
+            "124100S",
+            "1303500E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "RAT ISLAND",
+        "state": "WA",
+        "icao": "YRAT",
+        "coordinates": [
+            "284312S",
+            "1134702E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "RAVENSWOOD",
+        "state": "QLD",
+        "icao": "YRVW",
+        "coordinates": [
+            "200600S",
+            "1465400E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "RAVENSWORTH",
+        "state": "NSW",
+        "icao": "YRWH",
+        "coordinates": [
+            "343739S",
+            "1441600E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "RAWLINNA",
+        "state": "WA",
+        "icao": "YRAW",
+        "coordinates": [
+            "310100S",
+            "1251930E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "RAWNSLEY PARK",
+        "state": "SA",
+        "icao": "YRYK",
+        "coordinates": [
+            "313911S",
+            "1383635E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "RAYMANGIRR",
+        "state": "NT",
+        "icao": "YRRR",
+        "coordinates": [
+            "122028S",
+            "1360004E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "REDFORD/REDFORD STATION",
+        "state": "QLD",
+        "icao": "YARE",
+        "coordinates": [
+            "255019S",
+            "1472444E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "REMLAP PARK",
+        "state": "NSW",
+        "icao": "YREM",
+        "coordinates": [
+            "323330S",
+            "1515730E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "REXTON",
+        "state": "QLD",
+        "icao": "YRXN",
+        "coordinates": [
+            "282452S",
+            "1503152E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "RICHMOND DOWNS",
+        "state": "QLD",
+        "icao": "YRDS",
+        "coordinates": [
+            "203431S",
+            "1431802E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "RISDON STUD",
+        "state": "QLD",
+        "icao": "YRSS",
+        "coordinates": [
+            "281823S",
+            "1515827E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "RIVEREN",
+        "state": "NT",
+        "icao": "YRVE",
+        "coordinates": [
+            "175400S",
+            "1301300E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ROCKLANDS",
+        "state": "QLD",
+        "icao": "YRKS",
+        "coordinates": [
+            "195211S",
+            "1380616E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ROEBOURNE",
+        "state": "WA",
+        "icao": "YROE",
+        "coordinates": [
+            "204541S",
+            "1170922E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ROKEBY",
+        "state": "QLD",
+        "icao": "YRBY",
+        "coordinates": [
+            "133836S",
+            "1423828E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ROSS RIVER",
+        "state": "NT",
+        "icao": "YROV",
+        "coordinates": [
+            "233553S",
+            "1343111E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ROWLAND FLAT",
+        "state": "SA",
+        "icao": "YRWF",
+        "coordinates": [
+            "343400S",
+            "1385700E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "SAMUEL HILL",
+        "state": "QLD",
+        "icao": "YSMH",
+        "coordinates": [
+            "224500S",
+            "1503800E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "SANDFLY",
+        "state": "TAS",
+        "icao": "YSFY",
+        "coordinates": [
+            "425856S",
+            "1471234E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "SANTA TERESA",
+        "state": "NT",
+        "icao": "YSTT",
+        "coordinates": [
+            "240700S",
+            "1342326E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "SAWFISH CAMP",
+        "state": "NT",
+        "icao": "YSAW",
+        "coordinates": [
+            "150738S",
+            "1350032E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "SCAMPTON AIRFIELD",
+        "state": "NSW",
+        "icao": "YSAF",
+        "coordinates": [
+            "305824S",
+            "1501059E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "SEDAN",
+        "state": "SA",
+        "icao": "YSEA",
+        "coordinates": [
+            "343402S",
+            "1392006E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "SINCLAIR",
+        "state": "WA",
+        "icao": "YSNC",
+        "coordinates": [
+            "282020S",
+            "1205110E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "SKARDON RIVER",
+        "state": "QLD",
+        "icao": "YSKR",
+        "coordinates": [
+            "115208S",
+            "1420058E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "SOUTH WEST ROCKS",
+        "state": "NSW",
+        "icao": "YSWK",
+        "coordinates": [
+            "305529S",
+            "1530139E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "SPILSBY ISLAND",
+        "state": "SA",
+        "icao": "YSPY",
+        "coordinates": [
+            "343930S",
+            "1362024E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ST LEONARDS",
+        "state": "VIC",
+        "icao": "YSLE",
+        "coordinates": [
+            "381009S",
+            "1444118E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "STAR LANDING AREA",
+        "state": "QLD",
+        "icao": "YSTD",
+        "coordinates": [
+            "192030S",
+            "1461000E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "STARKE FIELD",
+        "state": "QLD",
+        "icao": "YSKF",
+        "coordinates": [
+            "193512S",
+            "1464650E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "STOKES/WARRENVALE STATION",
+        "state": "QLD",
+        "icao": "YWVL",
+        "coordinates": [
+            "182509S",
+            "1404714E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "STRADBROKE STATION",
+        "state": "QLD",
+        "icao": "YSBO",
+        "coordinates": [
+            "213434S",
+            "1394215E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "STRATHALBYN",
+        "state": "SA",
+        "icao": "YSYN",
+        "coordinates": [
+            "351856S",
+            "1385945E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "STRATHAVEN",
+        "state": "QLD",
+        "icao": "YSVN",
+        "coordinates": [
+            "145400S",
+            "1425800E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "STRATHBURN",
+        "state": "QLD",
+        "icao": "YSTB",
+        "coordinates": [
+            "142839S",
+            "1424929E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "STRATHEARN",
+        "state": "SA",
+        "icao": "YSTR",
+        "coordinates": [
+            "314526S",
+            "1402033E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "STRATHGUYLE",
+        "state": "NSW",
+        "icao": "YSGL",
+        "coordinates": [
+            "290512S",
+            "1492247E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "STRATHLEVEN",
+        "state": "QLD",
+        "icao": "YSLN",
+        "coordinates": [
+            "155354S",
+            "1432300E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "STRATHMORE",
+        "state": "QLD",
+        "icao": "YSMR",
+        "coordinates": [
+            "175139S",
+            "1423400E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "SUNBURY EAST",
+        "state": "VIC",
+        "icao": "YSBE",
+        "coordinates": [
+            "373148S",
+            "1444454E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "SUTHERLAND STATION",
+        "state": "QLD",
+        "icao": "YSLD",
+        "coordinates": [
+            "201223S",
+            "1422536E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "SWEERS ISLAND",
+        "state": "QLD",
+        "icao": "YSWE",
+        "coordinates": [
+            "170715S",
+            "1393601E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TAMBAR SPRINGS",
+        "state": "NSW",
+        "icao": "YTMS",
+        "coordinates": [
+            "311845S",
+            "1495023E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TARCOOLA",
+        "state": "SA",
+        "icao": "YTAR",
+        "coordinates": [
+            "304210S",
+            "1343458E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TARTRUS",
+        "state": "QLD",
+        "icao": "YTTS",
+        "coordinates": [
+            "225712S",
+            "1492542E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "THALMERA",
+        "state": "QLD",
+        "icao": "YTMA",
+        "coordinates": [
+            "243857S",
+            "1493722E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "THANGOOL/DRUMBURLE",
+        "state": "QLD",
+        "icao": "YDRU",
+        "coordinates": [
+            "243913S",
+            "1503208E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "THE GARDEN",
+        "state": "NT",
+        "icao": "YGDR",
+        "coordinates": [
+            "231712S",
+            "1342624E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "THE TWINS",
+        "state": "SA",
+        "icao": "YTHT",
+        "coordinates": [
+            "295859S",
+            "1352348E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "THEDA STN",
+        "state": "WA",
+        "icao": "YTHD",
+        "coordinates": [
+            "144717S",
+            "1262947E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "THORPDALE",
+        "state": "VIC",
+        "icao": "YTPD",
+        "coordinates": [
+            "381734S",
+            "1461123E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "THREE HUMMOCK ISLAND",
+        "state": "TAS",
+        "icao": "YTHM",
+        "coordinates": [
+            "402705S",
+            "1445450E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TIERAWOOMBA",
+        "state": "QLD",
+        "icao": "YTWA",
+        "coordinates": [
+            "215120S",
+            "1490205E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TOBERMOREY",
+        "state": "NT",
+        "icao": "YTMY",
+        "coordinates": [
+            "221522S",
+            "1375729E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TODMORDEN",
+        "state": "SA",
+        "icao": "YTDM",
+        "coordinates": [
+            "270720S",
+            "1344619E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TOGO STATION",
+        "state": "NSW",
+        "icao": "YTOG",
+        "coordinates": [
+            "300501S",
+            "1493236E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TOOGOOLAWAH",
+        "state": "QLD",
+        "icao": "YTLH",
+        "coordinates": [
+            "270416S",
+            "1522259E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TOOPUNTUL",
+        "state": "NSW",
+        "icao": "YTPL",
+        "coordinates": [
+            "342049S",
+            "1440406E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TRAEGER",
+        "state": "SA",
+        "icao": "YTRG",
+        "coordinates": [
+            "301234S",
+            "1351352E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TRANGIE",
+        "state": "NSW",
+        "icao": "YTGI",
+        "coordinates": [
+            "315829S",
+            "1480012E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TRUNDLE",
+        "state": "NSW",
+        "icao": "YTUE",
+        "coordinates": [
+            "325617S",
+            "1474236E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TRURO/VALLEY FARM",
+        "state": "SA",
+        "icao": "YVAF",
+        "coordinates": [
+            "342314S",
+            "1390839E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TUCSON",
+        "state": "QLD",
+        "icao": "YTCU",
+        "coordinates": [
+            "224100S",
+            "1432042E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TULLAMORE",
+        "state": "NSW",
+        "icao": "YTLL",
+        "coordinates": [
+            "323643S",
+            "1473547E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TUMBAR STATION",
+        "state": "QLD",
+        "icao": "YTUM",
+        "coordinates": [
+            "235905S",
+            "1461636E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TUMBARUMBA",
+        "state": "NSW",
+        "icao": "YTBM",
+        "coordinates": [
+            "354545S",
+            "1475313E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TUNBRIDGE",
+        "state": "TAS",
+        "icao": "YTUN",
+        "coordinates": [
+            "420648S",
+            "1472154E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TUREE",
+        "state": "NSW",
+        "icao": "YTUR",
+        "coordinates": [
+            "315536S",
+            "1494743E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "TURKEY LANE",
+        "state": "SA",
+        "icao": "YTKL",
+        "coordinates": [
+            "354415S",
+            "1370756E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ULCANBAH",
+        "state": "QLD",
+        "icao": "YULC",
+        "coordinates": [
+            "220146S",
+            "1455827E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "UMUWA",
+        "state": "SA",
+        "icao": "YUMU",
+        "coordinates": [
+            "262912S",
+            "1320224E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "UNDILLA STATION",
+        "state": "QLD",
+        "icao": "YUDL",
+        "coordinates": [
+            "193727S",
+            "1383818E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "UPPER WARREGO/BABBILOORA",
+        "state": "QLD",
+        "icao": "YABB",
+        "coordinates": [
+            "251139S",
+            "1470832E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "URAPUNGA",
+        "state": "NT",
+        "icao": "YUPG",
+        "coordinates": [
+            "144219S",
+            "1343344E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "VANSITTART BAY",
+        "state": "WA",
+        "icao": "YVAN",
+        "coordinates": [
+            "135944S",
+            "1260828E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "VASHON HEAD",
+        "state": "NT",
+        "icao": "YVSH",
+        "coordinates": [
+            "110854S",
+            "1315905E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "VAUGHAN SPRINGS",
+        "state": "NT",
+        "icao": "YVNS",
+        "coordinates": [
+            "222000S",
+            "1305200E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "WAKOOL/TULLABURRA",
+        "state": "NSW",
+        "icao": "YTUB",
+        "coordinates": [
+            "352729S",
+            "1441656E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "WATERHOUSE ISLAND",
+        "state": "TAS",
+        "icao": "YWTH",
+        "coordinates": [
+            "404836S",
+            "1473730E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "WEDGE ISLAND",
+        "state": "SA",
+        "icao": "YWGI",
+        "coordinates": [
+            "351032S",
+            "1362909E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "WEILMORINGLE",
+        "state": "NSW",
+        "icao": "YWMG",
+        "coordinates": [
+            "291500S",
+            "1465500E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "WELLCLOSE",
+        "state": "QLD",
+        "icao": "YWEC",
+        "coordinates": [
+            "253246S",
+            "1450807E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "WILANDRA",
+        "state": "NSW",
+        "icao": "YWIL",
+        "coordinates": [
+            "311617S",
+            "1424111E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "WILKINS RUNWAY",
+        "state": "OTH",
+        "icao": "YWKS",
+        "coordinates": [
+            "664129S",
+            "1113139E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "WILLOWRA",
+        "state": "NT",
+        "icao": "YWLA",
+        "coordinates": [
+            "211636S",
+            "1323724E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "WILPENA",
+        "state": "SA",
+        "icao": "YWPN",
+        "coordinates": [
+            "313100S",
+            "1383730E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "WITCHELINA",
+        "state": "SA",
+        "icao": "YWHI",
+        "coordinates": [
+            "300210S",
+            "1380326E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "WOLLOMOMBI",
+        "state": "NSW",
+        "icao": "YWMM",
+        "coordinates": [
+            "302936S",
+            "1520525E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "WONGALARA",
+        "state": "NT",
+        "icao": "YWON",
+        "coordinates": [
+            "140601S",
+            "1342449E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "WOODSTOCK STATION",
+        "state": "QLD",
+        "icao": "YWSN",
+        "coordinates": [
+            "192142S",
+            "1424540E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "WOOLOOMANATA",
+        "state": "VIC",
+        "icao": "YWOT",
+        "coordinates": [
+            "375612S",
+            "1442213E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "WYNBRING",
+        "state": "SA",
+        "icao": "YWYB",
+        "coordinates": [
+            "303326S",
+            "1333216E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "YALAKUN STN",
+        "state": "NT",
+        "icao": "YYLK",
+        "coordinates": [
+            "121544S",
+            "1360046E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "YALDA DOWNS HS",
+        "state": "NSW",
+        "icao": "YYLD",
+        "coordinates": [
+            "301541S",
+            "1425837E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "YALGOO",
+        "state": "WA",
+        "icao": "YYAL",
+        "coordinates": [
+            "282113S",
+            "1164044E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "YARRALIN",
+        "state": "NT",
+        "icao": "YAAL",
+        "coordinates": [
+            "162641S",
+            "1305250E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "YEABURN",
+        "state": "VIC",
+        "icao": "YYEA",
+        "coordinates": [
+            "371032S",
+            "1451923E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "YORKETOWN",
+        "state": "SA",
+        "icao": "YYOR",
+        "coordinates": [
+            "350012S",
+            "1373709E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "YOWAH",
+        "state": "QLD",
+        "icao": "YYWA",
+        "coordinates": [
+            "275700S",
+            "1443730E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "YUNTA",
+        "state": "SA",
+        "icao": "YYUN",
+        "coordinates": [
+            "323418S",
+            "1393350E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
+    },
+    {
+        "type": "Landing Area without FAC (Verified)",
+        "name": "ZANTHUS",
+        "state": "WA",
+        "icao": "YZAN",
+        "coordinates": [
+            "310200S",
+            "1233400E"
+        ],
+        "radius": 0.2,
+        "style": "marker"
     }
 ]

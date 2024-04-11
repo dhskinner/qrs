@@ -9,7 +9,9 @@
             "lower_feet": 0,
             "upper_feet": 45000,
             "style": "red",
-            "radius_nm": 7
+            "radius_nm": 7,
+            "ground_ring": true,
+            "concentric_rings_km_not_used": 2
         },
         {
             "name": "VRA Menindee",
@@ -89,13 +91,37 @@
             "radius_nm": 50
         },
         {
-            "name": "Cedar Grove",
+            "name": "QRS Cedar Grove",
             "position": [
                 -27.851348048191458,
                 152.96235048762955
             ],
             "lower_feet": 0,
             "upper_feet": 5000,
+            "style": "red",
+            "radius_nm": 1
+        },
+        {
+            "name": "QRS Chambers Flat",
+            "position": [
+                -27.76211641289789,
+                153.06729283099855
+            ],
+            "lower_feet": 0,
+            "upper_feet": 2000,
+            "ground_ring": true,
+            "style": "red",
+            "radius_nm": 1
+        },
+        {
+            "name": "Mt Sibley Road",
+            "position": [
+                -27.82310,
+                151.92044
+            ],
+            "lower_feet": 0,
+            "upper_feet": 400,
+            "ground_ring": true,
             "style": "red",
             "radius_nm": 1
         },

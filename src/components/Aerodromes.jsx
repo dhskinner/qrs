@@ -38,12 +38,6 @@ function Aerodromes() {
                   <td>Position:</td>
                   <td>{positionLabel(item.coordinates)}</td>
                 </tr>
-                <tr>
-                  <td>Radius:</td>
-                  <td>
-                    {item.radius}nm / {item.radius * 6076}ft
-                  </td>
-                </tr>
               </tbody>
             </table>
           </Tooltip>

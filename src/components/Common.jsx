@@ -71,6 +71,8 @@ export function GetStyle(name) {
       return StylePurple;
     case "red":
       return StyleRed;
+    case "marker":
+      return StyleLime;
     case "airspace":
       return StyleAirspace;
     case "airspace_buffer":
