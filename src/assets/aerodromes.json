@@ -2594,7 +2594,7 @@
             "272441S",
             "1514407E"
         ],
-        "radius": 1
+        "radius": 0.01
     },
     {
         "type": "Certified Aerodrome",
@@ -4145,7 +4145,7 @@
             "272441S",
             "1514407E "
         ],
-        "radius": 1
+        "radius": 0.01
     },
     {
         "type": "Controlled Aerodrome",
