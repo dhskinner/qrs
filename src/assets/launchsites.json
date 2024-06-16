@@ -170,6 +170,110 @@
             "style": "tbc",
             "radius_nm": 10,
             "concentric_rings_km_not_used": 2
+        },
+        {
+            "name": "789 Undullah Rd Kagaru (TBC)",
+            "position": [
+                -27.877944,
+                152.918528
+            ],
+            "lower_feet": 0,
+            "upper_feet": 5000,
+            "ground_ring": true,
+            "style": "tbc",
+            "radius_nm": 0.82290980908,
+            "pos": "27°52'40.6S 152°55'06.7E"
+        },
+        {
+            "name": "789 Undullah Rd Kagaru (TBC)",
+            "position": [
+                -27.877944,
+                152.918528
+            ],
+            "lower_feet": 0,
+            "upper_feet": 5000,
+            "ground_ring": true,
+            "style": "tbc",
+            "radius_nm": 0.82290980908,
+            "pos": "27°52'40.6S 152°55'06.7E"
+        },
+        {
+            "name": "789 Undullah Rd Kagaru 1 (TBC)",
+            "position": [
+                -27.846528,
+                152.940583
+            ],
+            "lower_feet": 0,
+            "upper_feet": 5000,
+            "ground_ring": true,
+            "style": "tbc",
+            "radius_nm": 0.82290980908,
+            "pos": "27°50'47.5S 152°56'26.1E"
+        },
+        {
+            "name": "789 Undullah Rd Kagaru 2 (TBC)",
+            "position": [
+                -27.852500,
+                152.939694
+            ],
+            "lower_feet": 0,
+            "upper_feet": 5000,
+            "ground_ring": true,
+            "style": "tbc",
+            "radius_nm": 0.82290980908,
+            "pos": "27°51'09.0S 152°56'22.9E"
+        },
+        {
+            "name": "Brooklands North (TBC)",
+            "position": [
+                -27.918722,
+                152.953139
+            ],
+            "lower_feet": 0,
+            "upper_feet": 5000,
+            "ground_ring": true,
+            "style": "tbc",
+            "radius_nm": 0.82290980908,
+            "pos": "27°55'07.4S 152°57'11.3E"
+        },
+        {
+            "name": "Brooklands South (TBC)",
+            "position": [
+                -27.888194,
+                152.943056
+            ],
+            "lower_feet": 0,
+            "upper_feet": 5000,
+            "ground_ring": true,
+            "style": "tbc",
+            "radius_nm": 0.82290980908,
+            "pos": "27°53'17.5S 152°56'35.0E"
+        },
+        {
+            "name": "Undullah Rd Woodhill (TBC)",
+            "position": [
+                -27.877111,
+                152.964056
+            ],
+            "lower_feet": 0,
+            "upper_feet": 5000,
+            "ground_ring": true,
+            "style": "tbc",
+            "radius_nm": 0.82290980908,
+            "pos": "27°52'37.6S 152°57'50.6E"
+        },
+        {
+            "name": "Undullah Rd Cedar Grove (TBC)",
+            "position": [
+                -27.887528,
+                152.966361
+            ],
+            "lower_feet": 0,
+            "upper_feet": 5000,
+            "ground_ring": true,
+            "style": "tbc",
+            "radius_nm": 0.82290980908,
+            "pos": "27°53'15.1S 152°57'58.9E"
         }
     ]
 }

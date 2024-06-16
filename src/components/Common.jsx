@@ -51,6 +51,11 @@ export function PositionLabel(latlon) {
   return p1.toString("dm");
 }
 
+export function RoundTo(num, precision) {
+  const factor = Math.pow(10, precision);
+  return Math.round(num * factor) / factor;
+}
+
 export function NumberWithCommas(x) {
   return x.toString().replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ",");
 }

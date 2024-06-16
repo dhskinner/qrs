@@ -8,6 +8,7 @@ import {
   PositionLabel,
   SafetyRange,
   NumberWithCommas,
+  RoundTo,
   MetresToFeet,
 } from "./Common.jsx";
 
@@ -43,9 +44,9 @@ function getPopup(props) {
           <tr>
             <td>Airspace:</td>
             <td>
-              {props.radius_nm +
+              {RoundTo(props.radius_nm, 3) +
                 "nm (" +
-                NumberWithCommas(NmToFeet(props.radius_nm)) +
+                NumberWithCommas(RoundTo(NmToFeet(props.radius_nm), 0)) +
                 "ft) radius"}
             </td>
           </tr>
@@ -74,7 +75,7 @@ function concentricRings(position, ring_km, max_nm) {
   for (let i = ring_km * 1000; i < max_km; i += ring_km * 1000) {
     rings.push(i);
   }
-  console.log(JSON.stringify(rings));
+  //console.log(JSON.stringify(rings));
   return (
     <>
       {rings.map((radius, i) => (
@@ -106,7 +107,7 @@ function concentricRings(position, ring_km, max_nm) {
 }
 
 export function LaunchRing(props) {
-  console.log(JSON.stringify(props));
+  //console.log(JSON.stringify(props));
   return (
     <>
       {props?.ground_ring ? (
