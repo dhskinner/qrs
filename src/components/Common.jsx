@@ -104,7 +104,7 @@ export function GetDashedStyle(name) {
 // https://www.tripoli.org/content.aspx?page_id=22&club_id=795696&module_id=520420  clause 13-16
 export function SafetyRange(feet) {
   let metres = FeetToMetres(feet) * 0.25;
-  return metres > 475 ? metres : 475;
+  return metres > 457 ? metres : 457;
 }
 
 export const FeetToMetres = (val) => {
