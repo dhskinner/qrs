@@ -277,18 +277,6 @@
             "pos": "27°53'15.1S 152°57'58.9E"
         },
         {
-            "name": "Beaudesert (TBC)",
-            "position": [
-                -27.968448,
-                152.941361
-            ],
-            "lower_feet": 0,
-            "upper_feet": 5000,
-            "ground_ring": true,
-            "style": "tbc",
-            "radius_nm": 0.5
-        },
-        {
             "name": "Oakey (TBC)",
             "position": [
                 -27.398432000017923,
@@ -301,7 +289,7 @@
             "radius_nm": 0.8228942
         },
         {
-            "name": "Bromelton (TBC)",
+            "name": "Inland Rail (TBC)",
             "position": [
                 -27.967102,
                 152.941190
