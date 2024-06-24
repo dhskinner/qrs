@@ -299,6 +299,18 @@
             "ground_ring": true,
             "style": "tbc",
             "radius_nm": 0.8228942
+        },
+        {
+            "name": "Bromelton (TBC)",
+            "position": [
+                -27.967102,
+                152.941190
+            ],
+            "lower_feet": 0,
+            "upper_feet": 5000,
+            "ground_ring": true,
+            "style": "tbc",
+            "radius_nm": 0.5
         }
     ]
 }
