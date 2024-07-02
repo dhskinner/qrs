@@ -299,6 +299,66 @@
             "ground_ring": true,
             "style": "tbc",
             "radius_nm": 0.5
+        },
+        {
+            "name": "WDRC Wandoan (TBC)",
+            "position": [
+                -26.120014733946917,
+                149.99100397228602
+            ],
+            "lower_feet": 0,
+            "upper_feet": 50000,
+            "style": "tbc",
+            "radius_nm": 7,
+            "ground_ring": true
+        },
+        {
+            "name": "WDRC Condamine (TBC)",
+            "position": [
+                -26.950756583516675,
+                150.14507270843922
+            ],
+            "lower_feet": 0,
+            "upper_feet": 50000,
+            "style": "tbc",
+            "radius_nm": 7,
+            "ground_ring": true
+        },
+        {
+            "name": "WDRC Tara (TBC)",
+            "position": [
+                -27.261415541259144,
+                150.48821345644794
+            ],
+            "lower_feet": 0,
+            "upper_feet": 50000,
+            "style": "tbc",
+            "radius_nm": 7,
+            "ground_ring": true
+        },
+        {
+            "name": "WDRC Brigalow 1 (TBC)",
+            "position": [
+                -26.863791421261197,
+                150.7927135205189
+            ],
+            "lower_feet": 0,
+            "upper_feet": 50000,
+            "style": "tbc",
+            "radius_nm": 7,
+            "ground_ring": true
+        },
+        {
+            "name": "WDRC Brigalow 2 (TBC)",
+            "position": [
+                -26.86469109316703,
+                150.798496362785
+            ],
+            "lower_feet": 0,
+            "upper_feet": 50000,
+            "style": "tbc",
+            "radius_nm": 7,
+            "ground_ring": true
         }
     ]
 }
