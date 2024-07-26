@@ -119,6 +119,22 @@ export const NmToMetres = (val) => {
   return val * 1852;
 };
 
+export const AltitudeFeetToAirspaceNm = (val) => {
+  // convert feet to nm
+  let nm = val / 6076;
+
+  // round to nearest half mile
+  return Math.floor(nm * 2) / 2;
+};
+
+export const AirspaceNm = (altitude, nm) => {
+  if (nm == null) {
+    return AltitudeFeetToAirspaceNm(altitude);
+  } else {
+    return nm;
+  }
+};
+
 export const NmToFeet = (val) => {
   return val * 6076;
 };

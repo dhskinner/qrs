@@ -4,70 +4,11 @@ import {
   GetStyle,
   GetDashedStyle,
   NmToMetres,
-  NmToFeet,
-  PositionLabel,
   SafetyRange,
   NumberWithCommas,
-  RoundTo,
   MetresToFeet,
 } from "./Common.jsx";
-
-function getPopup(props) {
-  return (
-    <Popup>
-      <table>
-        <tbody>
-          <tr>
-            <td>Name:</td>
-            <td>{props.name}</td>
-          </tr>
-          <tr>
-            <td>Position:</td>
-            <td>{PositionLabel(props.position)}</td>
-          </tr>
-          <tr>
-            <td>Lower:</td>
-            <td>
-              {props.lower_feet == 0
-                ? "Surface"
-                : NumberWithCommas(props.lower_feet) + "ft"}
-            </td>
-          </tr>
-          <tr>
-            <td>Upper:</td>
-            <td>
-              {props.upper_feet >= 200000
-                ? "Unlimited"
-                : NumberWithCommas(props.upper_feet) + "ft"}
-            </td>
-          </tr>
-          <tr>
-            <td>Airspace:</td>
-            <td>
-              {RoundTo(props.radius_nm, 3) +
-                "nm (" +
-                NumberWithCommas(RoundTo(NmToFeet(props.radius_nm), 0)) +
-                "ft) radius"}
-            </td>
-          </tr>
-          {props?.ground_ring ? (
-            <tr>
-              <td>Ground:</td>
-              <td>
-                {NumberWithCommas(Math.round(SafetyRange(props.upper_feet))) +
-                  "m (" +
-                  NumberWithCommas(
-                    Math.round(MetresToFeet(SafetyRange(props.upper_feet)))
-                  ) +
-                  "ft) radius"}
-              </td>
-            </tr>
-          ) : null}
-        </tbody>
-      </table>
-    </Popup>
-  );
-}
+import { LaunchInfo } from "./LaunchInfo.jsx";
 
 function concentricRings(position, ring_km, max_nm) {
   let rings = [];
@@ -75,7 +16,7 @@ function concentricRings(position, ring_km, max_nm) {
   for (let i = ring_km * 1000; i < max_km; i += ring_km * 1000) {
     rings.push(i);
   }
-  //console.log(JSON.stringify(rings));
+
   return (
     <>
       {rings.map((radius, i) => (
@@ -107,7 +48,6 @@ function concentricRings(position, ring_km, max_nm) {
 }
 
 export function LaunchRing(props) {
-  //console.log(JSON.stringify(props));
   return (
     <>
       {props?.ground_ring ? (
@@ -116,7 +56,7 @@ export function LaunchRing(props) {
           pathOptions={GetDashedStyle(props.style)}
           radius={SafetyRange(props.upper_feet)}
         >
-          {getPopup(props)}
+          {LaunchInfo(props)}
         </Circle>
       ) : null}
       {props?.concentric_rings_km
@@ -134,7 +74,7 @@ export function LaunchRing(props) {
         <Tooltip permanent={true} opacity={0.8} offset={[7, 0]}>
           {props.name}
         </Tooltip>
-        {getPopup(props)}
+        {LaunchInfo(props)}
       </Circle>
     </>
   );
