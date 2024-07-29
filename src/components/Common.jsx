@@ -37,12 +37,23 @@ const StyleWhite = {
 
 const StyleAirspace = {
   stroke: false,
-  color: "orange",
+  color: "red",
   weight: 2,
   opacity: 0.8,
   fill: true,
-  fillColor: "orange",
-  fillOpacity: 0.2,
+  fillColor: "red",
+  fillOpacity: 0.05,
+  fillRule: "nonzero",
+};
+
+const StyleCTZ = {
+  stroke: true,
+  color: "red",
+  weight: 2,
+  opacity: 0.8,
+  fill: false,
+  fillColor: "red",
+  fillOpacity: 0.05,
   fillRule: "nonzero",
 };
 
@@ -80,6 +91,8 @@ export function GetStyle(name) {
       return StyleLime;
     case "airspace":
       return StyleAirspace;
+    case "ctz":
+      return StyleCTZ;
     case "airspace_buffer":
       return GetDashedStyle("airspace");
     case "tbc":

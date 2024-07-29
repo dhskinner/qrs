@@ -99,7 +99,7 @@
             "display": true
         },
         {
-            "name": "QRS Cedar Grove",
+            "name": "D623 Cedar Grove (A050)",
             "position": [
                 -27.852500,
                 152.957500
@@ -138,7 +138,7 @@
             "display": true
         },
         {
-            "name": "VRA Serpentine",
+            "name": "R327B Serpentine (FL250)",
             "position": [
                 -36.50048124807004,
                 144.01698106940856
@@ -146,7 +146,7 @@
             "lower_feet": 0,
             "upper_feet": 23500,
             "style": "red",
-            "radius_nm": 3,
+            "radius_nm": 3.0,
             "display": true
         },
         {
@@ -288,8 +288,8 @@
         {
             "name": "Oakey (TBC)",
             "position": [
-                -27.39958456267035,
-                151.74775600433352
+                -27.379741662498024,
+                151.73898838671766
             ],
             "lower_feet": 0,
             "upper_feet": 20000,
@@ -414,16 +414,16 @@
             "display": true
         },
         {
-            "name": "Undullah Rd Cedar Grove (7K)",
+            "name": "Woodhill (A070)",
             "position": [
-                -27.889175429462146,
-                152.96545743942264
+                -27.888321980861193,
+                152.96539088101594
             ],
             "lower_feet": 0,
             "upper_feet": 7000,
             "ground_ring": true,
             "style": "tbc",
-            "radius_nm": 1.0,
+            "radius_nm": 0.5,
             "pos": "27°53'15.1S 152°57'58.9E",
             "display": true
         },

@@ -5,10 +5,10 @@
         "state": "QLD",
         "icao": "YBBN",
         "coordinates": [
-            "272303S",
-            "1530703E"
+            "272157S",
+            "1530821E"
         ],
-        "radius": 127,
+        "radius": 120,
         "style": "airspace_buffer"
     },
     {
@@ -2594,7 +2594,19 @@
             "272441S",
             "1514407E"
         ],
-        "radius": 0.01
+        "radius": 0.1
+    },
+    {
+        "type": "Oakey CTZ",
+        "name": "Oakey CTZ",
+        "state": "QLD",
+        "icao": "YBOK",
+        "coordinates": [
+            "272441S",
+            "1514407E"
+        ],
+        "radius": 5,
+        "style": "ctz"
     },
     {
         "type": "Certified Aerodrome",
@@ -4145,7 +4157,7 @@
             "272441S",
             "1514407E "
         ],
-        "radius": 0.01
+        "radius": 1
     },
     {
         "type": "Controlled Aerodrome",
