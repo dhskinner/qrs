@@ -48,11 +48,11 @@ const StyleAirspace = {
 
 const StyleCTZ = {
   stroke: true,
-  color: "red",
+  color: "blue",
   weight: 2,
   opacity: 0.8,
   fill: false,
-  fillColor: "red",
+  fillColor: "blue",
   fillOpacity: 0.05,
   fillRule: "nonzero",
 };
