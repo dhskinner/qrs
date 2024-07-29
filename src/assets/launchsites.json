@@ -278,7 +278,7 @@
                 152.964056
             ],
             "lower_feet": 0,
-            "upper_feet": 5000,
+            "upper_feet": 10000,
             "ground_ring": true,
             "style": "tbc",
             "radius_nm": 0.5,
@@ -288,14 +288,13 @@
         {
             "name": "Oakey (TBC)",
             "position": [
-                -27.398432000017923,
-                151.73867940902713
+                -27.39958456267035,
+                151.74775600433352
             ],
             "lower_feet": 0,
-            "upper_feet": 5000,
+            "upper_feet": 20000,
             "ground_ring": true,
             "style": "tbc",
-            "radius_nm": 0.8228942,
             "display": true
         },
         {
@@ -308,7 +307,6 @@
             "upper_feet": 5000,
             "ground_ring": true,
             "style": "tbc",
-            "radius_nm": 0.5,
             "display": false
         },
         {
@@ -416,10 +414,10 @@
             "display": true
         },
         {
-            "name": "Undullah Rd Cedar Grove (TBC)",
+            "name": "Undullah Rd Cedar Grove (7K)",
             "position": [
-                -27.888535,
-                152.965767
+                -27.889175429462146,
+                152.96545743942264
             ],
             "lower_feet": 0,
             "upper_feet": 7000,
@@ -456,13 +454,13 @@
             "notes": "Convenient road but loads of trees. Structure (shed?) within the ground ring."
         },
         {
-            "name": "Jimbour C (25K)",
+            "name": "Jimbour C (28K)",
             "position": [
                 -26.943746306807938,
                 151.25418908682977
             ],
             "lower_feet": 0,
-            "upper_feet": 25000,
+            "upper_feet": 28000,
             "ground_ring": true,
             "style": "tbc",
             "display": true,
