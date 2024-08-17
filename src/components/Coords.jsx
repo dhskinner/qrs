@@ -1,6 +1,6 @@
 import React from "react";
 import { useMapEvents } from "react-leaflet";
-import { PositionToString } from "./Utils";
+import { PositionToString } from "./Common";
 
 function Coords() {
   const [mousePoint, setMousePoint] = React.useState(null);

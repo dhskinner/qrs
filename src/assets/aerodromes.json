@@ -3891,7 +3891,7 @@
         "icao": "YMAY",
         "coordinates": [
             "360404S",
-            "1465729E "
+            "1465729E"
         ],
         "radius": 1
     },
@@ -3902,7 +3902,7 @@
         "icao": "YBAS",
         "coordinates": [
             "234830S",
-            "1335403E "
+            "1335403E"
         ],
         "radius": 1
     },
@@ -3913,7 +3913,7 @@
         "icao": "YAMB",
         "coordinates": [
             "273826S",
-            "1524243E "
+            "1524243E"
         ],
         "radius": 1
     },
@@ -3924,7 +3924,7 @@
         "icao": "YMAV",
         "coordinates": [
             "380222S",
-            "1442810E "
+            "1442810E"
         ],
         "radius": 1
     },
@@ -3935,7 +3935,7 @@
         "icao": "YBBN",
         "coordinates": [
             "272303S",
-            "1530703E "
+            "1530703E"
         ],
         "radius": 1
     },
@@ -3990,7 +3990,7 @@
         "icao": "YSCB",
         "coordinates": [
             "351825S",
-            "1491142E "
+            "1491142E"
         ],
         "radius": 1
     },
@@ -4023,7 +4023,7 @@
         "icao": "YMES",
         "coordinates": [
             "380556S",
-            "1470858E "
+            "1470858E"
         ],
         "radius": 1
     },
@@ -4045,7 +4045,7 @@
         "icao": "YBCG",
         "coordinates": [
             "280952S",
-            "1533017E "
+            "1533017E"
         ],
         "radius": 1
     },
@@ -4056,7 +4056,7 @@
         "icao": "YBHM",
         "coordinates": [
             "202129S",
-            "1485706E "
+            "1485706E"
         ],
         "radius": 1
     },
@@ -4067,7 +4067,7 @@
         "icao": "YMHB",
         "coordinates": [
             "425010S",
-            "1473037E "
+            "1473037E"
         ],
         "radius": 1
     },
@@ -4089,7 +4089,7 @@
         "icao": "YMLT",
         "coordinates": [
             "413243S",
-            "1471251E "
+            "1471251E"
         ],
         "radius": 1
     },
@@ -4100,7 +4100,7 @@
         "icao": "YBMK",
         "coordinates": [
             "211017S",
-            "1491047E "
+            "1491047E"
         ],
         "radius": 1
     },
@@ -4111,7 +4111,7 @@
         "icao": "YMML",
         "coordinates": [
             "374024S",
-            "1445036E "
+            "1445036E"
         ],
         "radius": 1
     },
@@ -4133,7 +4133,7 @@
         "icao": "YMMB",
         "coordinates": [
             "375833S",
-            "1450608E "
+            "1450608E"
         ],
         "radius": 1
     },
@@ -4155,7 +4155,7 @@
         "icao": "YBOK",
         "coordinates": [
             "272441S",
-            "1514407E "
+            "1514407E"
         ],
         "radius": 1
     },
@@ -4199,7 +4199,7 @@
         "icao": "YSRI",
         "coordinates": [
             "333602S",
-            "1504651E "
+            "1504651E"
         ],
         "radius": 1
     },
@@ -4221,7 +4221,7 @@
         "icao": "YBSU",
         "coordinates": [
             "263612S",
-            "1530528E "
+            "1530528E"
         ],
         "radius": 1
     },
@@ -4243,7 +4243,7 @@
         "icao": "YSSY",
         "coordinates": [
             "335646S",
-            "1511038E "
+            "1511038E"
         ],
         "radius": 1
     },
@@ -4254,7 +4254,7 @@
         "icao": "YSTW",
         "coordinates": [
             "310502S",
-            "1505048E "
+            "1505048E"
         ],
         "radius": 1
     },
@@ -4265,7 +4265,7 @@
         "icao": "YPTN",
         "coordinates": [
             "143116S",
-            "1322240E "
+            "1322240E"
         ],
         "radius": 1
     },
@@ -4276,7 +4276,7 @@
         "icao": "YBTL",
         "coordinates": [
             "191509S",
-            "1464555E "
+            "1464555E"
         ],
         "radius": 1
     },
@@ -4287,7 +4287,7 @@
         "icao": "YWLM",
         "coordinates": [
             "324742S",
-            "1515004E "
+            "1515004E"
         ],
         "radius": 1
     },
@@ -4766,7 +4766,7 @@
     },
     {
         "type": "Uncertified Aerodrome",
-        "name": "BROWNS RANGE ",
+        "name": "BROWNS RANGE",
         "state": "WA",
         "icao": "YBNR",
         "coordinates": [
@@ -4777,7 +4777,7 @@
     },
     {
         "type": "Uncertified Aerodrome",
-        "name": "BRUNY ISLAND ",
+        "name": "BRUNY ISLAND",
         "state": "TAS",
         "icao": "YBYI",
         "coordinates": [
@@ -4788,7 +4788,7 @@
     },
     {
         "type": "Uncertified Aerodrome",
-        "name": "CABOOLTURE ",
+        "name": "CABOOLTURE",
         "state": "QLD",
         "icao": "YCAB",
         "coordinates": [
@@ -4810,7 +4810,7 @@
     },
     {
         "type": "Uncertified Aerodrome",
-        "name": "CAIGUNA ",
+        "name": "CAIGUNA",
         "state": "WA",
         "icao": "YCAG",
         "coordinates": [
@@ -4821,7 +4821,7 @@
     },
     {
         "type": "Uncertified Aerodrome",
-        "name": "CALOUNDRA ",
+        "name": "CALOUNDRA",
         "state": "QLD",
         "icao": "YCDR",
         "coordinates": [
@@ -4843,7 +4843,7 @@
     },
     {
         "type": "Uncertified Aerodrome",
-        "name": "CAMDEN HAVEN ",
+        "name": "CAMDEN HAVEN",
         "state": "NSW",
         "icao": "YCMH",
         "coordinates": [
@@ -4854,7 +4854,7 @@
     },
     {
         "type": "Uncertified Aerodrome",
-        "name": "CAPE LEVEQUE ",
+        "name": "CAPE LEVEQUE",
         "state": "WA",
         "icao": "YCLQ",
         "coordinates": [
@@ -4865,7 +4865,7 @@
     },
     {
         "type": "Uncertified Aerodrome",
-        "name": "CAPELLA ",
+        "name": "CAPELLA",
         "state": "QLD",
         "icao": "YCEL",
         "coordinates": [
@@ -4887,7 +4887,7 @@
     },
     {
         "type": "Uncertified Aerodrome",
-        "name": "CASINO ",
+        "name": "CASINO",
         "state": "NSW",
         "icao": "YCAS",
         "coordinates": [
@@ -5527,7 +5527,7 @@
         "type": "Uncertified Aerodrome",
         "name": "FREGON",
         "state": "SA",
-        "icao": "YFRG ",
+        "icao": "YFRG",
         "coordinates": [
             "264633S",
             "1320103E"
@@ -5615,7 +5615,7 @@
         "type": "Uncertified Aerodrome",
         "name": "GNARWARRE",
         "state": "VIC",
-        "icao": "YGNE ",
+        "icao": "YGNE",
         "coordinates": [
             "380954S",
             "1440627E"
@@ -5637,7 +5637,7 @@
         "type": "Uncertified Aerodrome",
         "name": "GOOLWA",
         "state": "SA",
-        "icao": "YGWA ",
+        "icao": "YGWA",
         "coordinates": [
             "352855S",
             "1384505E"
@@ -5669,7 +5669,7 @@
     {
         "type": "Uncertified Aerodrome",
         "name": "GUNDAROO",
-        "state": "NSW ",
+        "state": "NSW",
         "icao": "YGDO",
         "coordinates": [
             "350242S",
@@ -5725,7 +5725,7 @@
         "type": "Uncertified Aerodrome",
         "name": "HECK FIELD",
         "state": "QLD",
-        "icao": "YHEC ",
+        "icao": "YHEC",
         "coordinates": [
             "274603S",
             "1532022E"
@@ -5791,7 +5791,7 @@
         "type": "Uncertified Aerodrome",
         "name": "HOMESGLEN",
         "state": "VIC",
-        "icao": "YHGN ",
+        "icao": "YHGN",
         "coordinates": [
             "354142S",
             "1421534E"
@@ -5932,9 +5932,9 @@
     },
     {
         "type": "Uncertified Aerodrome",
-        "name": "JERILDERIE NSW ",
+        "name": "JERILDERIE NSW",
         "state": "NSW",
-        "icao": "YJER ",
+        "icao": "YJER",
         "coordinates": [
             "352212S",
             "1454330E"
@@ -6000,7 +6000,7 @@
         "type": "Uncertified Aerodrome",
         "name": "KAMILEROI QLD",
         "state": "QLD",
-        "icao": "YKML ",
+        "icao": "YKML",
         "coordinates": [
             "192229S",
             "1400322E"
@@ -6031,7 +6031,7 @@
     },
     {
         "type": "Uncertified Aerodrome",
-        "name": "KIDSTON QLD ",
+        "name": "KIDSTON QLD",
         "state": "QLD",
         "icao": "YKID",
         "coordinates": [
@@ -6121,7 +6121,7 @@
         "type": "Uncertified Aerodrome",
         "name": "KOORALBYN QLD",
         "state": "QLD",
-        "icao": "YKBN ",
+        "icao": "YKBN",
         "coordinates": [
             "280524S",
             "1525027E"
@@ -6297,7 +6297,7 @@
         "type": "Uncertified Aerodrome",
         "name": "LONGDOWN",
         "state": "TAS",
-        "icao": "YLGD ",
+        "icao": "YLGD",
         "coordinates": [
             "414128S",
             "1470836E"
@@ -6418,7 +6418,7 @@
         "type": "Uncertified Aerodrome",
         "name": "MARGARET RIVER",
         "state": "WA",
-        "icao": "YMGT ",
+        "icao": "YMGT",
         "coordinates": [
             "335550S",
             "1150600E"
@@ -6627,7 +6627,7 @@
         "type": "Uncertified Aerodrome",
         "name": "MONKIRA",
         "state": "QLD",
-        "icao": "YMNK ",
+        "icao": "YMNK",
         "coordinates": [
             "244907S",
             "1403312E"
@@ -6792,7 +6792,7 @@
         "type": "Uncertified Aerodrome",
         "name": "MURRAY BRIDGE",
         "state": "SA",
-        "icao": "YMBD ",
+        "icao": "YMBD",
         "coordinates": [
             "350352S",
             "1391336E"

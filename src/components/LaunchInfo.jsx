@@ -33,9 +33,15 @@ export function LaunchInfo(props) {
           <tr>
             <td>Upper:</td>
             <td>
-              {props.upper_feet >= 200000
-                ? "Unlimited"
-                : NumberWithCommas(props.upper_feet) + "ft"}
+              {props?.set_altitude_func ? (
+                <input
+                  value={props.upper_feet}
+                  onChange={(e) => props.set_altitude_func(e.target.value)}
+                  type="number"
+                />
+              ) : (
+                NumberWithCommas(RoundTo(props.upper_feet, 0)) + "ft"
+              )}
             </td>
           </tr>
           <tr>
@@ -60,14 +66,18 @@ export function LaunchInfo(props) {
               </td>
             </tr>
           ) : null}
-          {props.draggable_func == null ? null : (
+          {props.set_draggable_func == null ? null : (
             <tr>
               <td colSpan="2">
-                <span onClick={props.draggable_func}>
-                  {props.draggable === true
-                    ? "Marker is draggable"
-                    : "Click here to make marker draggable"}
-                </span>
+                <label>
+                  Click to make marker draggable
+                  <input
+                    type="checkbox"
+                    name="myCheckbox"
+                    checked={props.draggable}
+                    onChange={props.set_draggable_func}
+                  />
+                </label>
               </td>
             </tr>
           )}
@@ -87,7 +97,8 @@ LaunchInfo.propTypes = {
   upper_feet: PropTypes.number,
   concentric_rings_km: PropTypes.number,
   draggable: PropTypes.bool,
-  draggable_func: PropTypes.func,
+  set_draggable_func: PropTypes.func,
+  set_altitude_func: PropTypes.func,
 };
 
 export default LaunchInfo;

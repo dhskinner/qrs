@@ -387,20 +387,7 @@
             "display": false
         },
         {
-            "name": "NSWRA Mullaley",
-            "position": [
-                -31.152186644592575,
-                149.9077450583759
-            ],
-            "lower_feet": 0,
-            "upper_feet": 10000,
-            "radius_nm": 2,
-            "ground_ring": true,
-            "style": "red",
-            "display": false
-        },
-        {
-            "name": "NSWRA Whalan",
+            "name": "NSWRA Whalan (1K)",
             "position": [
                 -33.76075064090984,
                 150.79811827935674
@@ -408,6 +395,18 @@
             "lower_feet": 0,
             "upper_feet": 1000,
             "radius_nm": 0.2,
+            "ground_ring": true,
+            "style": "red",
+            "display": true
+        },
+        {
+            "name": "NSWRA Mullaley (10K)",
+            "position": [
+                -31.157924600089657,
+                149.93282348301037
+            ],
+            "lower_feet": 0,
+            "upper_feet": 10000,
             "ground_ring": true,
             "style": "red",
             "display": true

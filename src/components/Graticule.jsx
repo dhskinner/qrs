@@ -1,19 +1,19 @@
 import { useState, useEffect, useMemo } from "react";
-import { LayerGroup, Polyline, useMapEvents } from "react-leaflet";
-import { LatToString, LonToString } from "./Utils";
+import { LayerGroup, Polyline, useMapEvents, useMap } from "react-leaflet";
+import { LatToString, LonToString } from "./Common";
 import GraticuleText from "./GraticuleText";
-import { Log } from "./Utils";
+import PropTypes from "prop-types";
 
 const settings = {
   lineOptions: {
     stroke: true,
     color: "white",
-    weight: 2,
+    weight: 1,
     opacity: 0.2,
   },
   labelOptions: {
     color: "white",
-    opacity: 0.5,
+    opacity: 0.6,
     anchor: [-5, 20],
   },
   zoomIntervals: [
@@ -39,9 +39,8 @@ const settings = {
 };
 
 function Graticule({
-  map = null,
+  //map = null,
   zoomBounds = [settings.zoomBounds.minZoom, settings.zoomBounds.maxZoom],
-  ...restProps
 }) {
   const [graticule, setGraticule] = useState([]);
   const [zoom, setZoom] = useState(null);
@@ -62,11 +61,11 @@ function Graticule({
     },
   });
 
+  const map = useMap();
   useEffect(() => {
     setZoom(mapEvents.getZoom());
     setBounds(mapEvents.getBounds());
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [map]);
+  }, [map, mapEvents]);
 
   useEffect(() => {
     if (bounds == null || zoom == null) {
@@ -96,8 +95,7 @@ function Graticule({
       }
     }
 
-    Log(
-      "map",
+    console.log(
       `graticule: zoom: ${zoom} interval: ${interval} bounds: ${bounds.getNorth()},${bounds.getWest()} / ${bounds.getSouth()},${bounds.getEast()}`
     );
 
@@ -164,5 +162,10 @@ function Graticule({
 
   return <LayerGroup>{displayGraticule}</LayerGroup>;
 }
+
+Graticule.propTypes = {
+  //map: PropTypes.object.isRequired,
+  zoomBounds: PropTypes.arrayOf(PropTypes.number),
+};
 
 export default Graticule;
