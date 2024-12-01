@@ -106,8 +106,9 @@
             ],
             "lower_feet": 0,
             "upper_feet": 5000,
-            "style": "red",
+            "style": "tbc",
             "radius_nm": 0.5,
+            "ground_ring": true,
             "comment": "27°51'09S 152°57'27E",
             "display": true
         },
@@ -121,8 +122,7 @@
             "upper_feet": 2000,
             "ground_ring": true,
             "style": "red",
-            "radius_nm": 0.5,
-            "display": true
+            "display": false
         },
         {
             "name": "Mt Sibley Road",
@@ -537,6 +537,32 @@
             "style": "tbc",
             "display": true,
             "notes": "Very good - locate somewhere near Cabawin S Road - an easy 32K+ site (might not get 44K - house to the west)"
+        },
+        {
+            "name": "Mountain View (5K)",
+            "position": [
+                -27.9050511725,
+                153.023021357
+            ],
+            "lower_feet": 0,
+            "upper_feet": 5000,
+            "ground_ring": true,
+            "style": "red",
+            "display": false,
+            "notes": "Old QRS site"
+        },
+        {
+            "name": "Beaudesert (7K)",
+            "position": [
+                -28.020906,
+                152.944354
+            ],
+            "lower_feet": 0,
+            "upper_feet": 7000,
+            "ground_ring": true,
+            "style": "tbc",
+            "display": true,
+            "notes": "Potential site"
         }
     ]
 }
