@@ -591,6 +591,142 @@
                 148.64364048922198
             ],
             "style": "gray"
+        },
+        {
+            "name": "Solar",
+            "position": [
+                -23.446144509563013,
+                144.35916198969142
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -23.438643927651885,
+                144.38231481742332
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -23.36350637024518,
+                144.3764676014101
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Sheds",
+            "position": [
+                -23.36487539512233,
+                144.37529815831803
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Sheds",
+            "position": [
+                -23.39385674748961,
+                144.310406134667
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -23.447148985005136,
+                144.4637902145248
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Sheds",
+            "position": [
+                -23.449861914522202,
+                144.45884287995477
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Sheds",
+            "position": [
+                -23.45003416213073,
+                144.46559534092782
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Silo",
+            "position": [
+                -23.45993561682931,
+                144.37290951962427
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Structures",
+            "position": [
+                -23.48877560699098,
+                144.5045858667686
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Structures",
+            "position": [
+                -23.49682433819399,
+                144.48697984688133
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Shed",
+            "position": [
+                -23.419483822854072,
+                144.3942055898393
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Tank",
+            "position": [
+                -23.30834021189593,
+                144.44081701786928
+            ],
+            "style": "gray"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -23.307850011893965,
+                144.37319048180294
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Homestead",
+            "position": [
+                -23.471028285064794,
+                144.32214268021414
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Antenna",
+            "position": [
+                -23.455963086372602,
+                144.35171537524016
+            ],
+            "style": "purple"
+        },
+        {
+            "name": "Tank",
+            "position": [
+                -23.410583647628968,
+                144.41569210224236
+            ],
+            "style": "gray"
         }
     ]
 }

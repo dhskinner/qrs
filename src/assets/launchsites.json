@@ -563,6 +563,32 @@
             "style": "tbc",
             "display": true,
             "notes": "Potential site"
+        },
+        {
+            "name": "Camden Park",
+            "position": [
+                -23.389544230791735,
+                144.41862583937146
+            ],
+            "lower_feet": 0,
+            "upper_feet": 50000,
+            "ground_ring": true,
+            "style": "tbc",
+            "display": true,
+            "notes": "Potential site"
+        },
+        {
+            "name": "Endeavour Aerospace White Cliffs (71K)",
+            "position": [
+                -30.664810,
+                143.196302
+            ],
+            "lower_feet": 0,
+            "upper_feet": 71000,
+            "style": "tbc",
+            "ground_ring": true,
+            "radius_nm": 12,
+            "display": true
         }
     ]
 }
